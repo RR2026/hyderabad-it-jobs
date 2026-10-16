@@ -1,7 +1,7 @@
 name: Daily job update
 on:
   schedule:
-    - cron: "30 1 * * *"   # 7:00 AM IST
+    - cron: "30 1 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -22,5 +22,7 @@ jobs:
         run: |
           git config user.name "job-bot"; git config user.email "bot@users.noreply.github.com"
           git add jobs.json
-          git commit -m "Daily job update $(date -u +%F)" || echo "no changes"
+          if git diff --cached --quiet; then echo "No changes to save"; exit 0; fi
+          git commit -m "Daily job update $(date -u +%F)"
+          git pull --rebase
           git push
