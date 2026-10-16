@@ -51,7 +51,7 @@ def score(j):
 
 def jsearch(q):
     if not RAPID_KEY: return []
-    r = requests.get("https://jsearch.p.rapidapi.com/search", timeout=40,
+    r = requests.get("https://jsearch.p.rapidapi.com/search-v2", timeout=40,
         headers={"X-RapidAPI-Key": RAPID_KEY, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"},
         params={"query": f"{q} in Hyderabad, India", "country": "in", "date_posted": "week", "num_pages": 1})
     r.raise_for_status()
