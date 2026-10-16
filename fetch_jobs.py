@@ -15,26 +15,38 @@ TITLES = ["service desk","help desk","helpdesk","desktop support","technical sup
 BONUS = ["fraud","fintech","bank","payments","risk"]
 TXT = lambda *a: " ".join(str(x or "") for x in a).lower()
 
-def get_degree(t):
-    anyg = re.search(r"any (graduate|degree)|graduate in any|b\.?sc|bca|b\.?com", t)
-    eng = re.search(r"b\.?\s?e\b|b\.?\s?tech|engineering degree", t)
+WORDS = {"one":1,"two":2,"three":3,"four":4,"five":5,"six":6,"seven":7,"eight":8,"nine":9,"ten":10}
+SENIOR = r"\b(senior|sr\.?|staff|principal|director|manager|head|lead|architect|vp)\b"
+VOICE = r"voice (process|support|based|calls?)|international voice|inbound|outbound|calling process|call cent"
+
+def get_degree(raw):
+    t = raw.lower()
+    anyg = re.search(r"any (graduate|degree)|graduate in any|\bb\.?sc\b|\bbca\b|\bb\.?com\b", t)
+    eng = re.search(r"\bB\.\s?E\b|\bBE\b|\bB\.?\s?Tech\b", raw) or "engineering degree" in t or "bachelor of engineering" in t
     if eng and not anyg: return "check" if re.search(r"prefer|or related|equivalent", t) else "engineering"
-    return "any" if anyg else "check" if re.search(r"degree|graduate", t) else "any"
+    return "any" if anyg else "check" if re.search(r"\bdegree\b|\bgraduate\b", t) else "any"
 
 def get_exp(t):
-    m = re.search(r"(\d+)\s*(?:-|to)\s*(\d+)\s*(?:\+\s*)?years?", t) or re.search(r"(\d+)\s*\+?\s*years?", t)
-    return int(m.group(1)) if m else None
+    t = re.sub(r"\b(" + "|".join(WORDS) + r")\b", lambda m: str(WORDS[m.group(1)]), t)
+    n = [int(m.group(1)) for m in re.finditer(r"(\d+)\s*(?:-|to|\u2013)?\s*(?:\d+\s*)?\+?\s*(?:years?|yrs?)\b", t)]
+    n = [x for x in n if x <= 20]
+    return max(n) if n else None
+
+def skip(j):
+    t = TXT(j["title"], j["desc"])
+    return ("dummy job data" in t or re.search(r"\bdemo\b", j["title"].lower()) or re.search(r"\$\s?\d{2,3},\d{3}", j["desc"] or "")
+            or re.search(SENIOR, j["title"].lower()) or (get_exp(t) or 0) >= 6)
 
 def score(j):
-    t = TXT(j["title"], j["desc"]); title = j["title"].lower()
+    raw = (j["title"] or "") + " " + (j["desc"] or ""); t = raw.lower(); title = j["title"].lower()
     matched = sorted({v for k, v in SKILLS.items() if re.search(r"\b"+re.escape(k)+r"\b", t)})
     s = 30 if any(x in title for x in TITLES) else 12 if any(x in t for x in TITLES) else 0
     s += min(40, round(40 * len(matched) / 5))
     e = get_exp(t); s += 10 if e is None else 15 if e <= 3 else 8 if e <= 5 else 0
-    deg = get_degree(t); s += {"any": 10, "check": 6, "engineering": 0}[deg]
-    s += 5 if any(b in t for b in BONUS) or "hyderabad" in t else 0
-    mode = "remote" if j["remote"] or "remote" in t else "hybrid" if "hybrid" in t else "onsite"
-    voice = "nonvoice" if re.search(r"non[- ]?voice|chat|email support", t) else "voice" if re.search(r"voice|inbound|outbound|call", t) else ""
+    deg = get_degree(raw); s += {"any": 10, "check": 6, "engineering": 0}[deg]
+    s += 5 if any(b in t for b in BONUS) or "hyderabad" in (j["loc"] or "").lower() else 0
+    mode = "remote" if j["remote"] or re.search(r"work from home|\bwfh\b|fully remote|100% remote|remote (position|role|work)", t) else "hybrid" if "hybrid" in t else "onsite"
+    voice = "nonvoice" if re.search(r"non[- ]?voice", t) else "voice" if re.search(VOICE, t) else "nonvoice" if re.search(r"\bchat\b|email support", t) else ""
     return min(s, 100), matched, deg, mode, voice
 
 def jsearch(q):
@@ -43,10 +55,12 @@ def jsearch(q):
         headers={"X-RapidAPI-Key": RAPID_KEY, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"},
         params={"query": f"{q} in Hyderabad, India", "country": "in", "date_posted": "week", "num_pages": 1})
     r.raise_for_status()
-    if not r.json().get("data"): print("JSearch returned no data. Response keys:", list(r.json().keys())[:6])
+    d = r.json().get("data") or []
+    items = d.get("jobs", []) if isinstance(d, dict) else d   # v5 returns {"jobs": [...]}
+    if not items: print("JSearch returned no jobs. Response keys:", list(r.json().keys())[:6])
     return [dict(title=x.get("job_title"), company=x.get("employer_name"), loc=x.get("job_city") or "Hyderabad",
         url=x.get("job_apply_link"), desc=x.get("job_description"), posted=x.get("job_posted_at_datetime_utc"),
-        source=x.get("job_publisher") or "Google Jobs", remote=bool(x.get("job_is_remote"))) for x in r.json().get("data", [])]
+        source=x.get("job_publisher") or "Google Jobs", remote=bool(x.get("job_is_remote"))) for x in items]
 
 def adzuna(q):
     if not (AZ_ID and AZ_KEY): return []
@@ -71,7 +85,7 @@ def main():
             except Exception as e: print("skip", src.__name__, q, e); continue
             print(src.__name__, q, "->", len(res), "raw results")
             for j in res:
-                if not (j["title"] and j["url"]): continue
+                if not (j["title"] and j["url"]) or skip(j): continue
                 key = re.sub(r"\W", "", (j["title"] + (j["company"] or "")).lower())
                 if key in seen or not re.search(r"hyderabad|telangana|remote", TXT(j["loc"], j["desc"]) + ("remote" if j["remote"] else "")): continue
                 seen.add(key); s, m, deg, mode, voice = score(j)
