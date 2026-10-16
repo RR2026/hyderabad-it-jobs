@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hyderabad IT Jobs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef2f6;--card:#fff;--ink:#14213d;--mute:#5b6678;--line:#d9e0e8;--acc:#0f766e;--g:#15803d;--a:#b45309;--n:#7b8794}
+@media(prefers-color-scheme:dark){:root{--bg:#0d1420;--card:#16202f;--ink:#e8edf4;--mute:#9aa7b8;--line:#263246;--acc:#2dd4bf;--g:#4ade80;--a:#fbbf24;--n:#8593a6}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Figtree,system-ui,sans-serif}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:1.9rem;font-weight:800;margin:8px 0 2px}.sub{color:var(--mute);margin:0 0 14px}
+.skills{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}.skills span{background:var(--card);border:1px solid var(--line);border-radius:99px;padding:2px 10px;font-size:.82rem}
+.banner{background:var(--a);color:#fff;border-radius:8px;padding:8px 12px;margin-bottom:12px;font-size:.9rem}
+.tabs{display:flex;gap:6px;margin:12px 0}.tabs button,.f select,.btn{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:6px 12px;cursor:pointer}
+.tabs button[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.f{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px;font-size:.9rem}
+.job{display:grid;grid-template-columns:76px 1fr;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:10px}
+.ring{--p:0;--c:var(--n);width:68px;height:68px;border-radius:50%;background:conic-gradient(var(--c) calc(var(--p)*1%),var(--line) 0);display:grid;place-items:center}
+.ring b{width:52px;height:52px;border-radius:50%;background:var(--card);display:grid;place-items:center;font-weight:800;font-size:.95rem}
+.hi{--c:var(--g)}.mid{--c:var(--a)}
+.job h3{margin:0;font-size:1.08rem}.co{color:var(--mute);font-size:.92rem}
+.tags{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0}.tag{font-size:.76rem;border:1px solid var(--line);border-radius:6px;padding:0 7px}.tag.new{background:var(--acc);color:var(--bg);border-color:var(--acc)}.tag.chk{border-color:var(--a);color:var(--a)}
+.why{font-size:.86rem;color:var(--mute)}.act{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.btn.apply{background:var(--acc);color:var(--bg);border-color:var(--acc);font-weight:600;text-decoration:none}.btn[aria-pressed=true]{border-color:var(--acc);color:var(--acc);font-weight:600}
+.empty{padding:30px;text-align:center;color:var(--mute)}
+h2{font-size:1.1rem;margin:28px 0 8px}.sr{display:grid;grid-template-columns:1fr auto auto auto;gap:6px;align-items:center;margin-bottom:6px;font-size:.92rem}
+.sr a{color:var(--acc)}@media(max-width:560px){.job{grid-template-columns:1fr}.sr{grid-template-columns:1fr 1fr 1fr}.sr span{grid-column:1/-1}}
+:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+</style></head><body><div class="wrap">
+<h1>Hyderabad IT jobs</h1>
+<p class="sub" id="upd">Loading jobs…</p>
+<div class="skills" id="skills"></div>
+<div class="banner" id="sample" hidden>These are sample jobs. Real jobs appear after the first daily update runs.</div>
+<div class="tabs" role="group" aria-label="View">
+<button data-t="all" aria-pressed="true">All jobs</button><button data-t="saved" aria-pressed="false">Saved</button><button data-t="applied" aria-pressed="false">Applied</button></div>
+<div class="f">
+<label>Match <select id="min"><option value="0">any</option><option value="40">40%+</option><option value="60">60%+</option><option value="75">75%+</option></select></label>
+<label>Work mode <select id="mode"><option value="">all</option><option>onsite</option><option>hybrid</option><option>remote</option></select></label>
+<label>Support type <select id="voice"><option value="">all</option><option value="voice">voice</option><option value="nonvoice">non-voice</option></select></label>
+<label>Posted <select id="age"><option value="999">any time</option><option value="1">today</option><option value="3">last 3 days</option><option value="7">last week</option></select></label>
+<label><input type="checkbox" id="eng"> Show jobs needing an engineering degree</label></div>
+<div id="list"></div>
+<h2>Search the big sites directly</h2><div id="sr"></div>
+</div>
+<script>
+const SK=["ServiceNow","Active Directory","Azure","Intune","Microsoft 365","VPN","MFA","Salesforce","Hardware troubleshooting","L1/L2 support"];
+const TITLES=["IT Service Desk","Desktop Support","Technical Support Engineer","IT Helpdesk","Customer Support Engineer","End User Support"];
+const $=s=>document.querySelector(s),esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let jobs=[],tab="all",st={saved:[],applied:[],hidden:[]};
+try{st=Object.assign(st,JSON.parse(localStorage.getItem("hjobs")||"{}"))}catch(e){}
+const save=()=>{try{localStorage.setItem("hjobs",JSON.stringify(st))}catch(e){}};
+$("#skills").innerHTML=SK.map(s=>`<span>${s}</span>`).join("");
+$("#sr").innerHTML=TITLES.map(t=>{const q=encodeURIComponent(t),sl=t.toLowerCase().replace(/ /g,"-");
+return `<div class="sr"><span>${t}</span><a href="https://www.naukri.com/${sl}-jobs-in-hyderabad" target="_blank" rel="noopener">Naukri</a><a href="https://www.linkedin.com/jobs/search/?keywords=${q}&location=Hyderabad" target="_blank" rel="noopener">LinkedIn</a><a href="https://in.indeed.com/jobs?q=${q}&l=Hyderabad" target="_blank" rel="noopener">Indeed</a></div>`}).join("");
+const days=d=>(Date.now()-new Date(d))/864e5;
+function render(){
+ const mn=+$("#min").value,md=$("#mode").value,vo=$("#voice").value,ag=+$("#age").value,eng=$("#eng").checked;
+ let l=jobs.filter(j=>!st.hidden.includes(j.id));
+ if(tab==="saved")l=l.filter(j=>st.saved.includes(j.id));
+ else if(tab==="applied")l=l.filter(j=>st.applied.includes(j.id));
+ else l=l.filter(j=>!st.applied.includes(j.id)&&j.score>=mn&&(!md||j.mode===md)&&(!vo||j.voice===vo)&&days(j.posted)<=ag&&(eng||j.degree!=="engineering"));
+ l.sort((a,b)=>b.score-a.score);
+ $("#list").innerHTML=l.length?l.map(j=>{const c=j.score>=75?"hi":j.score>=50?"mid":"";
+ return `<article class="job"><div class="ring ${c}" style="--p:${j.score}" role="img" aria-label="${j.score} percent match"><b>${j.score}%</b></div><div>
+ <h3>${esc(j.title)}</h3><div class="co">${esc(j.company)} · ${esc(j.location)} · via ${esc(j.source)}</div>
+ <div class="tags">${j.is_new?'<span class="tag new">New today</span>':""}<span class="tag">${esc(j.mode)}</span>${j.voice==="voice"?'<span class="tag">Voice</span>':j.voice==="nonvoice"?'<span class="tag">Non-voice</span>':""}${j.degree==="any"?'<span class="tag">Any graduate</span>':j.degree==="check"?'<span class="tag chk">Check eligibility</span>':j.degree==="engineering"?'<span class="tag chk">Engineering degree asked</span>':""}</div>
+ <div class="why">${j.matched.length?"Matched: "+j.matched.map(esc).join(", "):"No listed skills matched"}</div>
+ <div class="act"><a class="btn apply" href="${esc(j.url)}" target="_blank" rel="noopener">Apply on ${esc(j.source)}</a>
+ <button class="btn" data-a="saved" data-id="${esc(j.id)}" aria-pressed="${st.saved.includes(j.id)}">${st.saved.includes(j.id)?"Saved":"Save"}</button>
+ <button class="btn" data-a="applied" data-id="${esc(j.id)}" aria-pressed="${st.applied.includes(j.id)}">${st.applied.includes(j.id)?"Applied":"Mark applied"}</button>
+ <button class="btn" data-a="hidden" data-id="${esc(j.id)}">Not interested</button></div></div></article>`}).join(""):'<div class="empty">No jobs match these filters. Lower the match percentage or clear a filter.</div>';
+}
+$("#list").onclick=e=>{const b=e.target.closest("button[data-a]");if(!b)return;const a=b.dataset.a,id=b.dataset.id,i=st[a].indexOf(id);i<0?st[a].push(id):st[a].splice(i,1);save();render()};
+document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{tab=b.dataset.t;document.querySelectorAll(".tabs button").forEach(x=>x.setAttribute("aria-pressed",x===b));render()});
+document.querySelectorAll(".f select,.f input").forEach(e=>e.onchange=render);
+fetch("jobs.json?"+Date.now()).then(r=>r.json()).then(d=>{jobs=d.jobs;$("#sample").hidden=!d.sample;
+ const n=jobs.filter(j=>j.is_new).length;$("#upd").textContent=`Updated ${new Date(d.updated).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"})} · ${jobs.length} jobs · ${n} new today`;render()})
+.catch(()=>{$("#upd").textContent="Could not load jobs.json. Open this page from your GitHub Pages link, not as a local file."});
+</script></body></html>

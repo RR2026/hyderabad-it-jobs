@@ -1,0 +1,117 @@
+{
+ "updated": "2026-10-16T04:59:40.809042Z",
+ "sample": true,
+ "jobs": [
+  {
+   "id": "s1",
+   "title": "IT Service Desk Analyst",
+   "company": "Sample Company A",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "voice",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://www.naukri.com/it-support-jobs-in-hyderabad",
+   "posted": "2026-10-16T04:59:40.809042Z",
+   "score": 88,
+   "matched": [
+    "ServiceNow",
+    "Active Directory",
+    "Intune",
+    "L1/L2 support"
+   ],
+   "is_new": true
+  },
+  {
+   "id": "s2",
+   "title": "Desktop Support Engineer",
+   "company": "Sample Company B",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Naukri",
+   "url": "https://www.naukri.com/it-support-jobs-in-hyderabad",
+   "posted": "2026-10-15T04:59:40.809042Z",
+   "score": 81,
+   "matched": [
+    "Hardware troubleshooting",
+    "VPN",
+    "Microsoft 365"
+   ],
+   "is_new": false
+  },
+  {
+   "id": "s3",
+   "title": "Technical Support Engineer (US Shift)",
+   "company": "Sample Company C",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "check",
+   "source": "Indeed",
+   "url": "https://www.naukri.com/it-support-jobs-in-hyderabad",
+   "posted": "2026-10-14T04:59:40.809042Z",
+   "score": 72,
+   "matched": [
+    "Azure",
+    "MFA",
+    "L1/L2 support"
+   ],
+   "is_new": false
+  },
+  {
+   "id": "s4",
+   "title": "IAM Support Analyst",
+   "company": "Sample Company D",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://www.naukri.com/it-support-jobs-in-hyderabad",
+   "posted": "2026-10-13T04:59:40.809042Z",
+   "score": 64,
+   "matched": [
+    "Azure",
+    "Active Directory",
+    "MFA"
+   ],
+   "is_new": false
+  },
+  {
+   "id": "s5",
+   "title": "Fraud Operations Analyst",
+   "company": "Sample Bank E",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Naukri",
+   "url": "https://www.naukri.com/it-support-jobs-in-hyderabad",
+   "posted": "2026-10-12T04:59:40.809042Z",
+   "score": 55,
+   "matched": [
+    "Salesforce"
+   ],
+   "is_new": false
+  },
+  {
+   "id": "s6",
+   "title": "Systems Engineer",
+   "company": "Sample Company F",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "engineering",
+   "source": "Indeed",
+   "url": "https://www.naukri.com/it-support-jobs-in-hyderabad",
+   "posted": "2026-10-11T04:59:40.809042Z",
+   "score": 38,
+   "matched": [
+    "Active Directory"
+   ],
+   "is_new": false
+  }
+ ]
+}
