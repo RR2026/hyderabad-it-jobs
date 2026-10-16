@@ -2,8 +2,10 @@
 import os, re, json, hashlib, datetime as dt, requests
 
 RAPID_KEY = os.getenv("RAPIDAPI_KEY"); AZ_ID = os.getenv("ADZUNA_APP_ID"); AZ_KEY = os.getenv("ADZUNA_APP_KEY")
-QUERIES = ["IT service desk analyst", "desktop support engineer", "technical support engineer",
-           "IT helpdesk", "customer support engineer", "ServiceNow support", "fraud analyst"]
+QUERIES = ["IT service desk analyst", "desktop support engineer", "technical support engineer", "IT helpdesk",
+           "customer support engineer", "ServiceNow support", "end user support", "fraud analyst"]
+# JSearch free plan = 200 requests/month. 4 searches/day (~120/month) leaves room for manual test runs.
+PER_DAY = int(os.getenv("QUERIES_PER_DAY", "4"))
 SKILLS = {"servicenow":"ServiceNow","active directory":"Active Directory","azure":"Azure","intune":"Intune",
   "office 365":"Microsoft 365","microsoft 365":"Microsoft 365","m365":"Microsoft 365","vpn":"VPN","mfa":"MFA",
   "salesforce":"Salesforce","hardware":"Hardware troubleshooting","laptop":"Hardware troubleshooting",
@@ -41,6 +43,7 @@ def jsearch(q):
         headers={"X-RapidAPI-Key": RAPID_KEY, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"},
         params={"query": f"{q} in Hyderabad, India", "country": "in", "date_posted": "week", "num_pages": 1})
     r.raise_for_status()
+    if not r.json().get("data"): print("JSearch returned no data. Response keys:", list(r.json().keys())[:6])
     return [dict(title=x.get("job_title"), company=x.get("employer_name"), loc=x.get("job_city") or "Hyderabad",
         url=x.get("job_apply_link"), desc=x.get("job_description"), posted=x.get("job_posted_at_datetime_utc"),
         source=x.get("job_publisher") or "Google Jobs", remote=bool(x.get("job_is_remote"))) for x in r.json().get("data", [])]
@@ -55,13 +58,18 @@ def adzuna(q):
         desc=x.get("description"), posted=x.get("created"), source="Adzuna", remote=False) for x in r.json().get("results", [])]
 
 def main():
-    try: old = {j["id"]: j for j in json.load(open("jobs.json")).get("jobs", [])}
-    except Exception: old = {}
-    now = dt.datetime.utcnow(); seen, out = set(), []
-    for q in QUERIES:
+    try: prev = json.load(open("jobs.json"))
+    except Exception: prev = {}
+    old = {} if prev.get("sample") else {j["id"]: j for j in prev.get("jobs", [])}
+    now = dt.datetime.utcnow(); seen, fresh = set(), {}
+    n = len(QUERIES); start = (now.toordinal() * PER_DAY) % n
+    todays = [QUERIES[(start + i) % n] for i in range(min(PER_DAY, n))]
+    print("Searching today:", todays)
+    for q in todays:
         for src in (jsearch, adzuna):
             try: res = src(q)
             except Exception as e: print("skip", src.__name__, q, e); continue
+            print(src.__name__, q, "->", len(res), "raw results")
             for j in res:
                 if not (j["title"] and j["url"]): continue
                 key = re.sub(r"\W", "", (j["title"] + (j["company"] or "")).lower())
@@ -70,9 +78,16 @@ def main():
                 if s < 30: continue
                 jid = hashlib.md5(key.encode()).hexdigest()[:12]
                 first = old.get(jid, {}).get("first_seen", now.isoformat() + "Z")
-                out.append(dict(id=jid, title=j["title"], company=j["company"] or "", location=j["loc"], mode=mode,
+                fresh[jid] = dict(id=jid, title=j["title"], company=j["company"] or "", location=j["loc"], mode=mode,
                     voice=voice, degree=deg, source=j["source"], url=j["url"], posted=j["posted"] or first, score=s,
-                    matched=m, first_seen=first, is_new=(now - dt.datetime.fromisoformat(first.rstrip("Z"))).days < 1))
+                    matched=m, first_seen=first)
+    if not fresh:
+        print("No jobs fetched, so the existing jobs.json is kept unchanged."); return
+    for jid, j in old.items():  # keep jobs found on earlier days for 14 days
+        if jid not in fresh and j.get("first_seen") and (now - dt.datetime.fromisoformat(j["first_seen"].rstrip("Z"))).days < 14:
+            fresh[jid] = j
+    out = list(fresh.values())
+    for j in out: j["is_new"] = (now - dt.datetime.fromisoformat(j["first_seen"].rstrip("Z"))).days < 1
     out = sorted(out, key=lambda x: -x["score"])[:150]
     json.dump(dict(updated=now.isoformat() + "Z", sample=False, jobs=out), open("jobs.json", "w"), indent=1)
     print(len(out), "jobs saved")
