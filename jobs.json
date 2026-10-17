@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:35:51.155035Z",
+ "updated": "2026-10-17T05:51:37.335471Z",
  "sample": false,
  "jobs": [
   {
@@ -24,6 +24,46 @@
    "is_new": true
   },
   {
+   "id": "39ded744e790",
+   "title": "IT Support / Service Desk Analyst",
+   "company": "Interscripts, Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Interscriptsus.zohorecruit.com",
+   "url": "https://interscriptsus.zohorecruit.com/jobs/Careers/741962000010586144/IT-Support-Service-Desk-Analyst?source=Google",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 84,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": true
+  },
+  {
+   "id": "5409df056449",
+   "title": "Desktop Support Engineer| Hyderabad",
+   "company": "NS Global Corporation",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/desktop-support-engineer-hyderabad-ns-global-corporation-hyderabad--t7xk-886866748",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 84,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": true
+  },
+  {
    "id": "f7e501906700",
    "title": "It Support Engineer Immediate Joiner Only Hyderabad (India)",
    "company": "Ikontel Solutions",
@@ -41,6 +81,28 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": true
+  },
+  {
+   "id": "6267a9a9bd5b",
+   "title": "EUC Engineer",
+   "company": "Parseq",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/euc-engineer-at-parseq-4477375955",
+   "posted": "2026-10-16T11:00:00.000Z",
+   "score": 77,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "Intune",
+    "L1/L2 support",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": true
   },
   {
@@ -101,6 +163,46 @@
    "is_new": true
   },
   {
+   "id": "d1b4dbd9e1d0",
+   "title": "L1 Service Desk Analyst",
+   "company": "TECEZE",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Foundit",
+   "url": "https://www.foundit.in/job/l1-service-desk-analyst-teceze-hyderabad-secunderabad-telangana-69462776",
+   "posted": "2026-10-13T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": true
+  },
+  {
+   "id": "d08587a033b8",
+   "title": "IT Analyst",
+   "company": "Infinite Computer Solutions",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/it-analyst-at-infinite-computer-solutions-4480144238",
+   "posted": "2026-10-15T00:00:00.000Z",
+   "score": 70,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "ServiceNow",
+    "VPN"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": true
+  },
+  {
    "id": "cca84918905e",
    "title": "ServiceNow Developer \u2014 Case Management",
    "company": "Virtusa",
@@ -135,6 +237,42 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": true
+  },
+  {
+   "id": "ceee1ae1b9b9",
+   "title": "Service Desk Representative Level1 (Hyderabad)",
+   "company": "Diebold Nixdorf",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/service-desk-representative-level1-hyderabad/diebold-nixdorf/19795805",
+   "posted": "2026-10-13T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": true
+  },
+  {
+   "id": "f2cc11608c22",
+   "title": "AI Support Engineer",
+   "company": "Birlasoft Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/1527261626",
+   "posted": "2026-10-15T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "Azure"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": true
   },
   {
@@ -269,6 +407,24 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": true
+  },
+  {
+   "id": "d27e8e4aa131",
+   "title": "Client Service Desk Administrator - Managed Services",
+   "company": "NTT DATA Global Delivery Services Ltd",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "voice",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/graduate-engineer-ai-offensive-application-securit-1372452716",
+   "posted": "2026-10-12T00:00:00.000Z",
+   "score": 59,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": true
   },
   {
@@ -408,6 +564,25 @@
    "score": 42,
    "matched": [],
    "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": true
+  },
+  {
+   "id": "26e19c4e6464",
+   "title": "Technical Analyst System User Enablement  (m/f/d)",
+   "company": "BASF",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/technical-analyst-system-user-enablement-m-f-d-at-basf-4475630006",
+   "posted": "2026-10-13T00:00:00.000Z",
+   "score": 41,
+   "matched": [
+    "Azure",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": true
   },
   {
