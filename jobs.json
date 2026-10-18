@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:51:37.335471Z",
+ "updated": "2026-10-18T06:17:40.468795Z",
  "sample": false,
  "jobs": [
   {
@@ -21,27 +21,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
-  },
-  {
-   "id": "39ded744e790",
-   "title": "IT Support / Service Desk Analyst",
-   "company": "Interscripts, Inc.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Interscriptsus.zohorecruit.com",
-   "url": "https://interscriptsus.zohorecruit.com/jobs/Careers/741962000010586144/IT-Support-Service-Desk-Analyst?source=Google",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 84,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "5409df056449",
@@ -61,7 +41,7 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f7e501906700",
@@ -81,7 +61,27 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "39ded744e790",
+   "title": "IT Support / Service Desk Analyst",
+   "company": "Interscripts, Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Interscriptsus.zohorecruit.com",
+   "url": "https://interscriptsus.zohorecruit.com/jobs/Careers/741962000010586144/IT-Support-Service-Desk-Analyst?source=Google",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 84,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": false
   },
   {
    "id": "6267a9a9bd5b",
@@ -91,9 +91,9 @@
    "mode": "onsite",
    "voice": "",
    "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/euc-engineer-at-parseq-4477375955",
-   "posted": "2026-10-16T11:00:00.000Z",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/euc-engineer-parseq-hyderabad--fj-2417904610",
+   "posted": "2026-10-16T00:00:00.000Z",
    "score": 77,
    "matched": [
     "Active Directory",
@@ -103,7 +103,7 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b673cc7584d7",
@@ -122,7 +122,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "09510b6c7822",
@@ -141,7 +141,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "0c57eedf00ae",
@@ -160,7 +160,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d1b4dbd9e1d0",
@@ -179,7 +179,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d08587a033b8",
@@ -200,7 +200,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "cca84918905e",
@@ -219,7 +219,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "fac4135b54b3",
@@ -237,7 +237,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "ceee1ae1b9b9",
@@ -255,7 +255,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f2cc11608c22",
@@ -273,7 +273,7 @@
     "Azure"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "fd2f9bd8bdb7",
@@ -291,6 +291,24 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
+  },
+  {
+   "id": "0b22bd07775e",
+   "title": "Operations Team Leader - Fraud Detection and Investigation",
+   "company": "Goldman Sachs Services Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/wealth-management-digital-operations-back-office-f-1597503060",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": true
   },
   {
@@ -309,7 +327,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "fbe72fc29c88",
@@ -327,23 +345,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
-  },
-  {
-   "id": "3dcd7e6ac5d3",
-   "title": "Analyst, Enforcement and Reporting (Fraud Reporting) - 6 month contract",
-   "company": "Tide",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "voice",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/analyst-enforcement-and-reporting-fraud-reporting-6-month-contract-at-tide-4478413929",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b08ecbd9f550",
@@ -359,23 +361,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
-  },
-  {
-   "id": "3461a287a323",
-   "title": "Analyst, Bank Payments, Reported Fraud, UK (6 months contract)",
-   "company": "Careers at Tide",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "SimplyHired",
-   "url": "https://www.simplyhired.co.in/job/GOPlpCuHi8TQ70g0gY8h0KNQVHgj21C1sC5jdITK5B2sVzyl7VIdkg",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "37464069cc91",
@@ -386,12 +372,12 @@
    "voice": "voice",
    "degree": "any",
    "source": "Apna Jobs",
-   "url": "https://apna.co/job/1747901375",
+   "url": "https://apna.co/job/hyderabad/analyst-acquiring-arandi-preventive-fraud-6-months-1747901375",
    "posted": "2026-10-14T00:00:00.000Z",
    "score": 60,
    "matched": [],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "78c3236d8488",
@@ -407,7 +393,39 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "3dcd7e6ac5d3",
+   "title": "Analyst, Enforcement and Reporting (Fraud Reporting) - 6 month contract",
+   "company": "Tide",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "voice",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/analyst-enforcement-and-reporting-fraud-reporting-6-month-contract-at-tide-4478413929",
+   "posted": "2026-10-14T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
+  },
+  {
+   "id": "3461a287a323",
+   "title": "Analyst, Bank Payments, Reported Fraud, UK (6 months contract)",
+   "company": "Careers at Tide",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/GOPlpCuHi8TQ70g0gY8h0KNQVHgj21C1sC5jdITK5B2sVzyl7VIdkg",
+   "posted": "2026-10-13T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
   },
   {
    "id": "d27e8e4aa131",
@@ -425,6 +443,24 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": false
+  },
+  {
+   "id": "7e09e0a186c3",
+   "title": "Associate Software Engineer, ServiceNow (Hyderabad)",
+   "company": "Align Technology",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/3161004946342543360",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 57,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": true
   },
   {
@@ -441,7 +477,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "4340e8f9fd0f",
@@ -460,6 +496,25 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
+  },
+  {
+   "id": "2c2e498e47ef",
+   "title": "IT Asset Management Specialist - Content Audit",
+   "company": "SERVICENOW SOFTWARE DEVELOPMENT INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/itam-specialist-content-audit-1198430564",
+   "posted": "2026-10-15T00:00:00.000Z",
+   "score": 54,
+   "matched": [
+    "Hardware troubleshooting",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": true
   },
   {
@@ -479,7 +534,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b20e87d7e2f0",
@@ -497,7 +552,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "1914543b470e",
@@ -516,22 +571,24 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "6b1a7d5be824",
-   "title": "Payments Risk Analyst",
-   "company": "Coinbase India Services Private Limited",
+   "id": "35875db1d08e",
+   "title": "RightFax",
+   "company": "Quess Corp Limited",
    "location": "Hyderabad",
    "mode": "onsite",
-   "voice": "nonvoice",
+   "voice": "",
    "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/payments-risk-analyst-ii-1021278389",
-   "posted": "2026-10-11T00:00:00.000Z",
-   "score": 42,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/rightfax-quess-corp-limited-hyderabad-telangana--t7xk-885193513",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 43,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": true
   },
   {
@@ -548,7 +605,7 @@
    "score": 42,
    "matched": [],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "37ae53df5a84",
@@ -564,7 +621,23 @@
    "score": 42,
    "matched": [],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "6b1a7d5be824",
+   "title": "Payments Risk Analyst",
+   "company": "Coinbase India Services Private Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/payments-risk-analyst-ii-1021278389",
+   "posted": "2026-10-11T00:00:00.000Z",
+   "score": 42,
+   "matched": [],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
   },
   {
    "id": "26e19c4e6464",
@@ -583,7 +656,7 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d228a620f247",
@@ -601,7 +674,23 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "1447c2f47d12",
+   "title": "SAP Security Consultant",
+   "company": "NTT DATA  Services",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "NTT DATA Careers",
+   "url": "https://careers-inc.nttdata.com/job/Hyderabad-SAP-Security-Consultant-TG/1366977200/",
+   "posted": "2026-10-13T00:00:00.000Z",
+   "score": 31,
+   "matched": [],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
   },
   {
    "id": "dbfa070a7880",
@@ -619,23 +708,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
-  },
-  {
-   "id": "1447c2f47d12",
-   "title": "SAP Security Consultant",
-   "company": "NTT DATA  Services",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "check",
-   "source": "NTT DATA Careers",
-   "url": "https://careers-inc.nttdata.com/job/Hyderabad-SAP-Security-Consultant-TG/1366977200/",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 31,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": true
+   "is_new": false
   }
  ]
 }
