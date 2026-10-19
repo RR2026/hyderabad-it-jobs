@@ -1,7 +1,74 @@
 {
- "updated": "2026-10-18T06:17:40.468795Z",
+ "updated": "2026-10-19T06:29:32.252213Z",
  "sample": false,
  "jobs": [
+  {
+   "id": "b6d684c0909c",
+   "title": "Help Desk Executive - IT - HYD (15 Jun 26)",
+   "company": "Eclat Health Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "Glassdoor",
+   "url": "https://www.glassdoor.co.in/job-listing/help-desk-executive-it-hyd-15-jun-26-eclat-health-solutions-JV_IC2865319_KO0,36_KE37,59.htm?jl=1010169593918",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 96,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "Microsoft 365",
+    "ServiceNow",
+    "VPN"
+   ],
+   "first_seen": "2026-10-19T06:29:32.252213Z",
+   "is_new": true
+  },
+  {
+   "id": "01ead4585f78",
+   "title": "Infrastructure Support Engineers (Level 1 & 2)",
+   "company": "Digital Minds Software Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/infrastructure-support-engineers-level-1-2-digital-minds-software-solutions-hyderabad--t7xk-881808486",
+   "posted": "2026-10-14T00:00:00.000Z",
+   "score": 95,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "Microsoft 365",
+    "ServiceNow",
+    "VPN"
+   ],
+   "first_seen": "2026-10-19T06:29:32.252213Z",
+   "is_new": true
+  },
+  {
+   "id": "47ec15036abe",
+   "title": "Desktop Support Specialist",
+   "company": "SISL Global",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/desktop-support-specialist-at-sisl-global-4478395306",
+   "posted": "2026-10-12T00:00:00.000Z",
+   "score": 88,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "VPN"
+   ],
+   "first_seen": "2026-10-19T06:29:32.252213Z",
+   "is_new": true
+  },
   {
    "id": "09d94a7e45a7",
    "title": "Information Technology Support Engineer",
@@ -21,6 +88,47 @@
     "VPN"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
+  },
+  {
+   "id": "0af7f92ef1a7",
+   "title": "Hyderabad :Junior HelpDesk/ Service Desk Analyst ( Global+ Servicenow)",
+   "company": "Purechase India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/hyderabad-junior-helpdesk-service-desk-analyst-global-servicenow--hyderabad--e516ce3501ee64e7d70ea19c3bdb24cae",
+   "posted": "2026-10-15T00:00:00.000Z",
+   "score": 87,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "Microsoft 365",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-19T06:29:32.252213Z",
+   "is_new": true
+  },
+  {
+   "id": "39ded744e790",
+   "title": "IT Support / Service Desk Analyst",
+   "company": "Interscripts, Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Interscriptsus.zohorecruit.com",
+   "url": "https://interscriptsus.zohorecruit.com/jobs/Careers/741962000010586144/IT-Support-Service-Desk-Analyst?source=Google",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 84,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
   },
   {
@@ -61,26 +169,6 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "39ded744e790",
-   "title": "IT Support / Service Desk Analyst",
-   "company": "Interscripts, Inc.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Interscriptsus.zohorecruit.com",
-   "url": "https://interscriptsus.zohorecruit.com/jobs/Careers/741962000010586144/IT-Support-Service-Desk-Analyst?source=Google",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 84,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
   },
   {
@@ -163,6 +251,25 @@
    "is_new": false
   },
   {
+   "id": "3c6a740429a5",
+   "title": "Wipro Hiring Service Desk Analyst L1 in Hyderabad | Apply Now",
+   "company": "Wipro",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Talentd",
+   "url": "https://www.talentd.in/jobs/wipro-hiring-service-desk-analyst-l1-in-hyderabad-apply-now",
+   "posted": "2026-10-15T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-19T06:29:32.252213Z",
+   "is_new": true
+  },
+  {
    "id": "d1b4dbd9e1d0",
    "title": "L1 Service Desk Analyst",
    "company": "TECEZE",
@@ -222,22 +329,22 @@
    "is_new": false
   },
   {
-   "id": "fac4135b54b3",
-   "title": "Help Support Engineer 2",
-   "company": "Movate Technologies",
+   "id": "e3ca454106db",
+   "title": "Technical Support Engineer - Commerce Cloud",
+   "company": "621 Salesforce.com India Private Limited Hyderabad Branch",
    "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
+   "mode": "remote",
+   "voice": "",
    "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/help-support-engineer-2-movate-technologies-hyderabad--t7xk-881702094",
+   "source": "Workday",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Technical-Support-Engineer---Commerce-Cloud_JR353944-1",
    "posted": "2026-10-14T00:00:00.000Z",
    "score": 68,
    "matched": [
-    "Hardware troubleshooting"
+    "Salesforce"
    ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
+   "first_seen": "2026-10-19T06:29:32.252213Z",
+   "is_new": true
   },
   {
    "id": "ceee1ae1b9b9",
@@ -255,6 +362,24 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": false
+  },
+  {
+   "id": "fac4135b54b3",
+   "title": "Help Support Engineer 2",
+   "company": "Movate Technologies",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/help-support-engineer-2-movate-technologies-hyderabad--t7xk-881702094",
+   "posted": "2026-10-14T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   },
   {
@@ -309,7 +434,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "175fb4ba4d7e",
@@ -461,7 +586,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "3b7d32c1e95b",
@@ -515,7 +640,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "5f41b21ee03d",
@@ -589,7 +714,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "3149d1987e50",
