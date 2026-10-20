@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:29:32.252213Z",
+ "updated": "2026-10-20T06:17:08.122370Z",
  "sample": false,
  "jobs": [
   {
@@ -46,6 +46,30 @@
     "VPN"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
+   "is_new": true
+  },
+  {
+   "id": "434078723ffb",
+   "title": "EUC Support Engineer",
+   "company": "Vibrantzz Management Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/euc-support-engineer/vibrantzz-management-services/19816459",
+   "posted": "2026-10-15T00:00:00.000Z",
+   "score": 93,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "L1/L2 support",
+    "Microsoft 365",
+    "VPN"
+   ],
+   "first_seen": "2026-10-20T06:17:08.122370Z",
    "is_new": true
   },
   {
@@ -170,6 +194,26 @@
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
+  },
+  {
+   "id": "c08bf7daeb9f",
+   "title": "Tech Support Engineer",
+   "company": "AVEVA",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/tech-support-engineer-at-aveva-4442631191",
+   "posted": "2026-10-15T00:00:00.000Z",
+   "score": 80,
+   "matched": [
+    "Azure",
+    "L1/L2 support",
+    "VPN"
+   ],
+   "first_seen": "2026-10-20T06:17:08.122370Z",
+   "is_new": true
   },
   {
    "id": "6267a9a9bd5b",
@@ -473,22 +517,6 @@
    "is_new": false
   },
   {
-   "id": "b08ecbd9f550",
-   "title": "Fraud Investigator VOICE Hyderbad location salary 7.5lks",
-   "company": "Ignites Human Capital",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/fraud-investigator-voice-hyderbad-location-salary-75lks-ignites-human-capital-hyderabad--t7xk-881467530",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
    "id": "37464069cc91",
    "title": "Fraud Prevention Analyst - Acquiring and Risk Investigation",
    "company": "Tide Platform Private Limited",
@@ -498,6 +526,22 @@
    "degree": "any",
    "source": "Apna Jobs",
    "url": "https://apna.co/job/hyderabad/analyst-acquiring-arandi-preventive-fraud-6-months-1747901375",
+   "posted": "2026-10-14T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
+  },
+  {
+   "id": "b08ecbd9f550",
+   "title": "Fraud Investigator VOICE Hyderbad location salary 7.5lks",
+   "company": "Ignites Human Capital",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/fraud-investigator-voice-hyderbad-location-salary-75lks-ignites-human-capital-hyderabad--t7xk-881467530",
    "posted": "2026-10-14T00:00:00.000Z",
    "score": 60,
    "matched": [],
@@ -553,6 +597,24 @@
    "is_new": false
   },
   {
+   "id": "33d8990755c3",
+   "title": "IT Support Engineer \u2013 IT Operations, Software & Automation (Remote)",
+   "company": "thehivecareers.co",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "check",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/it-support-engineer-it-operations-software-automation-remote-thehivecareersco-hyderabad--ss-in-1j63i76",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 59,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-20T06:17:08.122370Z",
+   "is_new": true
+  },
+  {
    "id": "d27e8e4aa131",
    "title": "Client Service Desk Administrator - Managed Services",
    "company": "NTT DATA Global Delivery Services Ltd",
@@ -589,6 +651,38 @@
    "is_new": false
   },
   {
+   "id": "b28f76e5e7bd",
+   "title": "Credit Fraud Detection Analyst",
+   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/credit-fraud-detection-analyst/converse-placement-services-india-private-limited/19811516?position_in_results=19",
+   "posted": "2026-10-14T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-10-20T06:17:08.122370Z",
+   "is_new": true
+  },
+  {
+   "id": "3ab93bff8987",
+   "title": "Fraud Prevention Analyst",
+   "company": "Stalwart Management Consulting",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/fraud-prevention-analyst/stalwart-management-consulting/19805068?position_in_results=5",
+   "posted": "2026-10-14T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-10-20T06:17:08.122370Z",
+   "is_new": true
+  },
+  {
    "id": "3b7d32c1e95b",
    "title": "ASM - End Users / Industries / EPCs - Electrical or Automation",
    "company": "Talent Hired-the Job Store",
@@ -601,25 +695,6 @@
    "posted": "2026-10-14T00:00:00.000Z",
    "score": 55,
    "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "4340e8f9fd0f",
-   "title": "Product Support Specialist | Hyderabad | US EST",
-   "company": "cyberu",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Cornerstone OnDemand",
-   "url": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11583?c=cornerstone",
-   "posted": "2026-10-12T00:00:00.000Z",
-   "score": 54,
-   "matched": [
-    "L1/L2 support",
-    "Salesforce"
-   ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   },
@@ -640,6 +715,25 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
+   "is_new": false
+  },
+  {
+   "id": "4340e8f9fd0f",
+   "title": "Product Support Specialist | Hyderabad | US EST",
+   "company": "cyberu",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Cornerstone OnDemand",
+   "url": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11583?c=cornerstone",
+   "posted": "2026-10-12T00:00:00.000Z",
+   "score": 54,
+   "matched": [
+    "L1/L2 support",
+    "Salesforce"
+   ],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   },
   {
@@ -669,9 +763,9 @@
    "mode": "onsite",
    "voice": "",
    "degree": "engineering",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/servicenow-developer-h5-global-infovision-hyderabad--t7xk-883533733",
-   "posted": "2026-10-15T00:00:00.000Z",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/servicenow-developer-h5/global-infovision/19840762",
+   "posted": "2026-10-17T00:00:00.000Z",
    "score": 53,
    "matched": [
     "ServiceNow"
@@ -782,6 +876,22 @@
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
+  },
+  {
+   "id": "376b8c43ede6",
+   "title": "Risk Management Analyst",
+   "company": "Stalwart Management Consulting",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/risk-management-analyst/stalwart-management-consulting/19805505",
+   "posted": "2026-10-14T00:00:00.000Z",
+   "score": 37,
+   "matched": [],
+   "first_seen": "2026-10-20T06:17:08.122370Z",
+   "is_new": true
   },
   {
    "id": "d228a620f247",
