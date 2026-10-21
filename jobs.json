@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:17:08.122370Z",
+ "updated": "2026-10-21T06:16:52.681948Z",
  "sample": false,
  "jobs": [
   {
@@ -22,7 +22,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "01ead4585f78",
@@ -46,7 +46,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "434078723ffb",
@@ -91,7 +91,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "09d94a7e45a7",
@@ -133,7 +133,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "39ded744e790",
@@ -276,6 +276,25 @@
    "is_new": false
   },
   {
+   "id": "4a61ebb9ba74",
+   "title": "MSO Technical Support Engineer",
+   "company": "Viasat, Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Viasat Careers",
+   "url": "https://careers.viasat.com/jobs/6880?lang=en-us",
+   "posted": "2026-10-14T00:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "Hardware troubleshooting",
+    "Salesforce"
+   ],
+   "first_seen": "2026-10-21T06:16:52.681948Z",
+   "is_new": true
+  },
+  {
    "id": "0c57eedf00ae",
    "title": "L1 Technical Support Engineer - Hyderabad",
    "company": "CDA Technologies India Pvt. Ltd.",
@@ -311,7 +330,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d1b4dbd9e1d0",
@@ -373,6 +392,60 @@
    "is_new": false
   },
   {
+   "id": "7bcf633eb1c5",
+   "title": "L1 Production Support Engineer",
+   "company": "DXC Luxoft",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Luxoft",
+   "url": "https://career.luxoft.com/jobs/l1-production-support-engineer-27914",
+   "posted": "2026-10-15T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-21T06:16:52.681948Z",
+   "is_new": true
+  },
+  {
+   "id": "0f172ad9c3b9",
+   "title": "Level1 Technical Support - Service Desk Specialist",
+   "company": "Diebold",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/level1-technical-support-service-desk-specialist-diebold-hyderabad--t7xk-886785523",
+   "posted": "2026-10-16T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-21T06:16:52.681948Z",
+   "is_new": true
+  },
+  {
+   "id": "883747e69a31",
+   "title": "Associate Technical Service Desk Executive",
+   "company": "Unisys India Private Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/1777934186",
+   "posted": "2026-10-17T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-21T06:16:52.681948Z",
+   "is_new": true
+  },
+  {
    "id": "e3ca454106db",
    "title": "Technical Support Engineer - Commerce Cloud",
    "company": "621 Salesforce.com India Private Limited Hyderabad Branch",
@@ -388,7 +461,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "ceee1ae1b9b9",
@@ -649,6 +722,22 @@
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": false
+  },
+  {
+   "id": "a1491874183c",
+   "title": "Support Engineer 2",
+   "company": "Oracle",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/support-engineer-2-at-oracle-4478621847",
+   "posted": "2026-10-20T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-10-21T06:16:52.681948Z",
+   "is_new": true
   },
   {
    "id": "b28f76e5e7bd",
