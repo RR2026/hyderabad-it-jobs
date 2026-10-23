@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:16:52.681948Z",
+ "updated": "2026-10-23T06:14:44.737337Z",
  "sample": false,
  "jobs": [
   {
@@ -70,7 +70,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-20T06:17:08.122370Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "47ec15036abe",
@@ -196,6 +196,27 @@
    "is_new": false
   },
   {
+   "id": "8e9e1641a3be",
+   "title": "IT Service Desk QA & Project Coordinator (L1)",
+   "company": "Technology services",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "engineering",
+   "source": "Glassdoor",
+   "url": "https://www.glassdoor.co.in/job-listing/jv?jl=1010302445502",
+   "posted": "2026-10-21T00:00:00.000Z",
+   "score": 82,
+   "matched": [
+    "Active Directory",
+    "Intune",
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-23T06:14:44.737337Z",
+   "is_new": true
+  },
+  {
    "id": "c08bf7daeb9f",
    "title": "Tech Support Engineer",
    "company": "AVEVA",
@@ -213,7 +234,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-20T06:17:08.122370Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "6267a9a9bd5b",
@@ -292,7 +313,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-21T06:16:52.681948Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "0c57eedf00ae",
@@ -312,6 +333,25 @@
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
+  },
+  {
+   "id": "41faa44d0dbe",
+   "title": "Service Desk Analyst L1 Jobs at Wipro, Hyderabad - Apply Now",
+   "company": "Wipro",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Talentd",
+   "url": "https://www.talentd.in/jobs/service-desk-analyst-l1-jobs-at-wipro-hyderabad-apply-now",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-23T06:14:44.737337Z",
+   "is_new": true
   },
   {
    "id": "3c6a740429a5",
@@ -392,6 +432,24 @@
    "is_new": false
   },
   {
+   "id": "883747e69a31",
+   "title": "Associate Technical Service Desk Executive",
+   "company": "Unisys India Private Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/1777934186",
+   "posted": "2026-10-17T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-21T06:16:52.681948Z",
+   "is_new": false
+  },
+  {
    "id": "7bcf633eb1c5",
    "title": "L1 Production Support Engineer",
    "company": "DXC Luxoft",
@@ -407,7 +465,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-21T06:16:52.681948Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "0f172ad9c3b9",
@@ -425,25 +483,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-21T06:16:52.681948Z",
-   "is_new": true
-  },
-  {
-   "id": "883747e69a31",
-   "title": "Associate Technical Service Desk Executive",
-   "company": "Unisys India Private Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/1777934186",
-   "posted": "2026-10-17T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-21T06:16:52.681948Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "e3ca454106db",
@@ -500,6 +540,24 @@
    "is_new": false
   },
   {
+   "id": "fd2f9bd8bdb7",
+   "title": "Teamcenter Support Engineer",
+   "company": "Tekskills Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/teamcenter-support-engineer/tekskills-inc/19841308",
+   "posted": "2026-10-17T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
+  },
+  {
    "id": "f2cc11608c22",
    "title": "AI Support Engineer",
    "company": "Birlasoft Limited",
@@ -515,24 +573,6 @@
     "Azure"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
-  },
-  {
-   "id": "fd2f9bd8bdb7",
-   "title": "Teamcenter Support Engineer",
-   "company": "Tekskills Inc.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/teamcenter-support-engineer-tekskills-inc-hyderabad--t7xk-881665066",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 64,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   },
   {
@@ -570,6 +610,24 @@
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
+  },
+  {
+   "id": "30444301dfc8",
+   "title": "L 2.5 Support Engineer",
+   "company": "Indium Software",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Glassdoor",
+   "url": "https://www.glassdoor.co.in/job-listing/l25-support-engineer-indium-software-JV_KO0,20_KE21,36.htm?jl=1010143268036",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 61,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-23T06:14:44.737337Z",
+   "is_new": true
   },
   {
    "id": "fbe72fc29c88",
@@ -685,7 +743,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-20T06:17:08.122370Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d27e8e4aa131",
@@ -724,6 +782,38 @@
    "is_new": false
   },
   {
+   "id": "c2dfc3d49cf2",
+   "title": "Technical Support Engineer - Financial Performance Management Software",
+   "company": "Planful Software India Private Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/technical-support-engineer-1219836361",
+   "posted": "2026-10-21T00:00:00.000Z",
+   "score": 56,
+   "matched": [],
+   "first_seen": "2026-10-23T06:14:44.737337Z",
+   "is_new": true
+  },
+  {
+   "id": "a8ad4d9b5be0",
+   "title": "Walk-in || Support Engineer (Hyderabad)",
+   "company": "Bharatvoip Communications",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/walk-in-support-engineer-hyderabad/bharatvoip-communications/19866455",
+   "posted": "2026-10-20T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-10-23T06:14:44.737337Z",
+   "is_new": true
+  },
+  {
    "id": "a1491874183c",
    "title": "Support Engineer 2",
    "company": "Oracle",
@@ -737,7 +827,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-21T06:16:52.681948Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b28f76e5e7bd",
@@ -753,7 +843,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-20T06:17:08.122370Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "3ab93bff8987",
@@ -769,7 +859,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-20T06:17:08.122370Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "3b7d32c1e95b",
@@ -948,6 +1038,25 @@
    "is_new": false
   },
   {
+   "id": "d28044687c4a",
+   "title": "Network and Infrastructure Engineer",
+   "company": "Infosys",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/network-and-infrastructure-engineer/infosys/19863421",
+   "posted": "2026-10-20T00:00:00.000Z",
+   "score": 41,
+   "matched": [
+    "Azure",
+    "VPN"
+   ],
+   "first_seen": "2026-10-23T06:14:44.737337Z",
+   "is_new": true
+  },
+  {
    "id": "26e19c4e6464",
    "title": "Technical Analyst System User Enablement  (m/f/d)",
    "company": "BASF",
@@ -980,7 +1089,7 @@
    "score": 37,
    "matched": [],
    "first_seen": "2026-10-20T06:17:08.122370Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d228a620f247",
