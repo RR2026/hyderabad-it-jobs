@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:14:44.737337Z",
+ "updated": "2026-10-24T06:09:14.744907Z",
  "sample": false,
  "jobs": [
   {
@@ -237,6 +237,26 @@
    "is_new": false
   },
   {
+   "id": "1fcb1a6ce5fd",
+   "title": "Analyst App/prod Support - Servicenow Platform Production Support-tier 1 (Hyderabad)",
+   "company": "Atet",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/8878201940303937536",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 77,
+   "matched": [
+    "Active Directory",
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-24T06:09:14.744907Z",
+   "is_new": true
+  },
+  {
    "id": "6267a9a9bd5b",
    "title": "EUC Engineer",
    "company": "Parseq",
@@ -413,6 +433,25 @@
    "is_new": false
   },
   {
+   "id": "be0128149978",
+   "title": "Product Support Engineer - Boomi Hyderabad (India)",
+   "company": "Nameless",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/304058534302056448",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 69,
+   "matched": [
+    "Hardware troubleshooting",
+    "Salesforce"
+   ],
+   "first_seen": "2026-10-24T06:09:14.744907Z",
+   "is_new": true
+  },
+  {
    "id": "cca84918905e",
    "title": "ServiceNow Developer \u2014 Case Management",
    "company": "Virtusa",
@@ -430,6 +469,24 @@
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
+  },
+  {
+   "id": "89688ffae0be",
+   "title": "Customer Support Associate - L2",
+   "company": "Careers at Tide",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Haystack",
+   "url": "https://haystackapp.io/jobs/26d49434-c769-45af-8ab1-fb9b7c40af8f",
+   "posted": "2026-10-21T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-24T06:09:14.744907Z",
+   "is_new": true
   },
   {
    "id": "883747e69a31",
@@ -540,6 +597,25 @@
    "is_new": false
   },
   {
+   "id": "b2be7148702a",
+   "title": "ServiceNow Admin",
+   "company": "Valuelabs",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/8112794584386396844",
+   "posted": "2026-10-20T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "Azure",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-24T06:09:14.744907Z",
+   "is_new": true
+  },
+  {
    "id": "fd2f9bd8bdb7",
    "title": "Teamcenter Support Engineer",
    "company": "Tekskills Inc.",
@@ -603,13 +679,31 @@
    "degree": "any",
    "source": "JobLeads",
    "url": "https://www.jobleads.com/in/job/servicenow-developer-hrsd--hyderabad--e034409396589261f9b182677780a0884",
-   "posted": "2026-10-13T00:00:00.000Z",
+   "posted": "2026-10-19T00:00:00.000Z",
    "score": 63,
    "matched": [
     "ServiceNow"
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
+  },
+  {
+   "id": "6c8926fb5d62",
+   "title": "MFT / SFTP Support Engineer \u2013 Mainframe || 5+ Years || Hyderabad Only",
+   "company": "A Client of Neerinfo Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/mft-sftp-support-engineer-%E2%80%93-mainframe-5%2B-years-hyderabad-only-at-a-client-of-neerinfo-solutions-4482151104",
+   "posted": "2026-10-21T00:00:00.000Z",
+   "score": 61,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-24T06:09:14.744907Z",
+   "is_new": true
   },
   {
    "id": "30444301dfc8",
@@ -780,6 +874,22 @@
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": false
+  },
+  {
+   "id": "f1471240c063",
+   "title": "Support Engineer II, Selling Partner Experience, Selling Partner Experience - SPECS Invictus",
+   "company": "Amazon",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/support-engineer-ii-selling-partner-experience-selling-partner-experience-specs-invictus-at-amazon-4482728882",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 56,
+   "matched": [],
+   "first_seen": "2026-10-24T06:09:14.744907Z",
+   "is_new": true
   },
   {
    "id": "c2dfc3d49cf2",
@@ -1074,6 +1184,22 @@
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
+  },
+  {
+   "id": "ac47076967ba",
+   "title": "Service Engineer- UPS",
+   "company": "POWER LINKS",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/5shupJ2fMvN2qljrTns6lM3e3ux1waWOUxx7TNMZPK4sQFLANVPB7w",
+   "posted": "2026-10-17T00:00:00.000Z",
+   "score": 38,
+   "matched": [],
+   "first_seen": "2026-10-24T06:09:14.744907Z",
+   "is_new": true
   },
   {
    "id": "376b8c43ede6",
