@@ -1,7 +1,32 @@
 {
- "updated": "2026-10-24T06:09:14.744907Z",
+ "updated": "2026-10-25T06:29:40.271403Z",
  "sample": false,
  "jobs": [
+  {
+   "id": "ce2edcfca457",
+   "title": "Associate Support Engineer",
+   "company": "Solera Holdings, LLC.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/associate-support-engineer-at-solera-holdings-llc-4481666126",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 96,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "MFA",
+    "Microsoft 365",
+    "ServiceNow",
+    "VPN"
+   ],
+   "first_seen": "2026-10-25T06:29:40.271403Z",
+   "is_new": true
+  },
   {
    "id": "b6d684c0909c",
    "title": "Help Desk Executive - IT - HYD (15 Jun 26)",
@@ -71,6 +96,27 @@
    ],
    "first_seen": "2026-10-20T06:17:08.122370Z",
    "is_new": false
+  },
+  {
+   "id": "7832a6ef2d4e",
+   "title": "Service Desk Technician",
+   "company": "Capgemini Technology Services India Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/fbs-service-desk-technician-i-1895804841",
+   "posted": "2026-10-19T00:00:00.000Z",
+   "score": 92,
+   "matched": [
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-25T06:29:40.271403Z",
+   "is_new": true
   },
   {
    "id": "47ec15036abe",
@@ -214,7 +260,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c08bf7daeb9f",
@@ -254,7 +300,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "6267a9a9bd5b",
@@ -371,7 +417,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "3c6a740429a5",
@@ -449,7 +495,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "cca84918905e",
@@ -471,6 +517,24 @@
    "is_new": false
   },
   {
+   "id": "5d99ff1ddfdb",
+   "title": "Junior Siebel Support Engineer",
+   "company": "Datavail",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/junior-siebel-support-engineer-at-datavail-4482441812",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-25T06:29:40.271403Z",
+   "is_new": true
+  },
+  {
    "id": "89688ffae0be",
    "title": "Customer Support Associate - L2",
    "company": "Careers at Tide",
@@ -486,7 +550,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "883747e69a31",
@@ -613,7 +677,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "fd2f9bd8bdb7",
@@ -703,7 +767,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "30444301dfc8",
@@ -721,7 +785,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "fbe72fc29c88",
@@ -740,6 +804,22 @@
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
+  },
+  {
+   "id": "836721b06078",
+   "title": "Support Engineer",
+   "company": "TEKsystems Global Services in India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/support-engineer-at-teksystems-global-services-in-india-4480949170",
+   "posted": "2026-10-19T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-10-25T06:29:40.271403Z",
+   "is_new": true
   },
   {
    "id": "37464069cc91",
@@ -876,6 +956,22 @@
    "is_new": false
   },
   {
+   "id": "f131749ef9f0",
+   "title": "Customer Care-Technical Support Specialist",
+   "company": "UWorld",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/customer-care-technical-support-specialist-at-uworld-4480048596",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 56,
+   "matched": [],
+   "first_seen": "2026-10-25T06:29:40.271403Z",
+   "is_new": true
+  },
+  {
    "id": "f1471240c063",
    "title": "Support Engineer II, Selling Partner Experience, Selling Partner Experience - SPECS Invictus",
    "company": "Amazon",
@@ -889,7 +985,7 @@
    "score": 56,
    "matched": [],
    "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c2dfc3d49cf2",
@@ -905,7 +1001,7 @@
    "score": 56,
    "matched": [],
    "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "a8ad4d9b5be0",
@@ -921,7 +1017,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "a1491874183c",
@@ -1063,6 +1159,22 @@
    "is_new": false
   },
   {
+   "id": "7d288c786900",
+   "title": "Sales and Support Engineer",
+   "company": "Talent Corner Hr Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/sales-and-support-engineer--hyderabad--e3c1390f7acd3c0b9d70c030f6d0181ef",
+   "posted": "2026-10-19T00:00:00.000Z",
+   "score": 51,
+   "matched": [],
+   "first_seen": "2026-10-25T06:29:40.271403Z",
+   "is_new": true
+  },
+  {
    "id": "1914543b470e",
    "title": "Technical Product Support Specialist",
    "company": "KodeCorp",
@@ -1164,7 +1276,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "26e19c4e6464",
@@ -1199,7 +1311,7 @@
    "score": 38,
    "matched": [],
    "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "376b8c43ede6",
