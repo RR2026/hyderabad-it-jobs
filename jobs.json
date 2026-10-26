@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:29:40.271403Z",
+ "updated": "2026-10-26T06:39:41.140252Z",
  "sample": false,
  "jobs": [
   {
@@ -25,7 +25,7 @@
     "VPN"
    ],
    "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b6d684c0909c",
@@ -116,7 +116,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "47ec15036abe",
@@ -532,7 +532,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "89688ffae0be",
@@ -734,6 +734,42 @@
    "is_new": false
   },
   {
+   "id": "23c17dbdb3be",
+   "title": "It Support Engineer/System Administration (Secunderabad)",
+   "company": "Aparna Constructions & Estates",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/it-support-engineer-system-administration-secunderabad/aparna-constructions-estates/19901977",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-26T06:39:41.140252Z",
+   "is_new": true
+  },
+  {
+   "id": "8deef519e02a",
+   "title": "ServiceNow CMDB Administrator (Hyderabad)",
+   "company": "Important Business",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/servicenow-cmdb-administrator-hyderabad/important-business/19886639?jobtype=cr&position_in_results=6",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-26T06:39:41.140252Z",
+   "is_new": true
+  },
+  {
    "id": "175fb4ba4d7e",
    "title": "Servicenow Developer-HRSD",
    "company": "Infosys",
@@ -819,7 +855,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "37464069cc91",
@@ -969,7 +1005,7 @@
    "score": 56,
    "matched": [],
    "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f1471240c063",
@@ -981,7 +1017,7 @@
    "degree": "check",
    "source": "LinkedIn",
    "url": "https://in.linkedin.com/jobs/view/support-engineer-ii-selling-partner-experience-selling-partner-experience-specs-invictus-at-amazon-4482728882",
-   "posted": "2026-10-23T00:00:00.000Z",
+   "posted": "2026-10-22T00:00:00.000Z",
    "score": 56,
    "matched": [],
    "first_seen": "2026-10-24T06:09:14.744907Z",
@@ -1172,7 +1208,7 @@
    "score": 51,
    "matched": [],
    "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "1914543b470e",
