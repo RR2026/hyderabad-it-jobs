@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:39:41.140252Z",
+ "updated": "2026-10-27T06:34:11.476671Z",
  "sample": false,
  "jobs": [
   {
@@ -401,6 +401,25 @@
    "is_new": false
   },
   {
+   "id": "66d32ebc1829",
+   "title": "Technical Support, Associate Specialist",
+   "company": "blackbaud india",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/1096186992122287828",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "MFA",
+    "Salesforce"
+   ],
+   "first_seen": "2026-10-27T06:34:11.476671Z",
+   "is_new": true
+  },
+  {
    "id": "41faa44d0dbe",
    "title": "Service Desk Analyst L1 Jobs at Wipro, Hyderabad - Apply Now",
    "company": "Wipro",
@@ -515,6 +534,24 @@
    ],
    "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
+  },
+  {
+   "id": "404c41ab924a",
+   "title": "Technical Support Engineer (Immediate Joiner - 30th Oct)",
+   "company": "Salesforce, Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/technical-support-engineer-immediate-joiner-30th-oct--hyderabad--bengaluru--e4160b8c1d854627bd190929704d60b8b",
+   "posted": "2026-10-25T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Salesforce"
+   ],
+   "first_seen": "2026-10-27T06:34:11.476671Z",
+   "is_new": true
   },
   {
    "id": "5d99ff1ddfdb",
@@ -734,6 +771,24 @@
    "is_new": false
   },
   {
+   "id": "774483d41c41",
+   "title": "Desktop Support Technician",
+   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/desktop-support-technician/svn-systech-india-private-limited/19912199",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-27T06:34:11.476671Z",
+   "is_new": true
+  },
+  {
    "id": "23c17dbdb3be",
    "title": "It Support Engineer/System Administration (Secunderabad)",
    "company": "Aparna Constructions & Estates",
@@ -750,6 +805,24 @@
    ],
    "first_seen": "2026-10-26T06:39:41.140252Z",
    "is_new": true
+  },
+  {
+   "id": "d27e8e4aa131",
+   "title": "Client Service Desk Administrator - Managed Services",
+   "company": "NTT DATA Global Delivery Services Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/managed-services-client-service-desk-administrator-1172047438",
+   "posted": "2026-10-25T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
+   "is_new": false
   },
   {
    "id": "8deef519e02a",
@@ -788,24 +861,6 @@
    "is_new": false
   },
   {
-   "id": "6c8926fb5d62",
-   "title": "MFT / SFTP Support Engineer \u2013 Mainframe || 5+ Years || Hyderabad Only",
-   "company": "A Client of Neerinfo Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/mft-sftp-support-engineer-%E2%80%93-mainframe-5%2B-years-hyderabad-only-at-a-client-of-neerinfo-solutions-4482151104",
-   "posted": "2026-10-21T00:00:00.000Z",
-   "score": 61,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": false
-  },
-  {
    "id": "30444301dfc8",
    "title": "L 2.5 Support Engineer",
    "company": "Indium Software",
@@ -821,6 +876,24 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-23T06:14:44.737337Z",
+   "is_new": false
+  },
+  {
+   "id": "6c8926fb5d62",
+   "title": "MFT / SFTP Support Engineer \u2013 Mainframe || 5+ Years || Hyderabad Only",
+   "company": "A Client of Neerinfo Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/mft-sftp-support-engineer-%E2%80%93-mainframe-5%2B-years-hyderabad-only-at-a-client-of-neerinfo-solutions-4482151104",
+   "posted": "2026-10-21T00:00:00.000Z",
+   "score": 61,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-24T06:09:14.744907Z",
    "is_new": false
   },
   {
@@ -953,24 +1026,6 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-20T06:17:08.122370Z",
-   "is_new": false
-  },
-  {
-   "id": "d27e8e4aa131",
-   "title": "Client Service Desk Administrator - Managed Services",
-   "company": "NTT DATA Global Delivery Services Ltd",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "voice",
-   "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/graduate-engineer-ai-offensive-application-securit-1372452716",
-   "posted": "2026-10-12T00:00:00.000Z",
-   "score": 59,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
   },
   {
