@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:34:11.476671Z",
+ "updated": "2026-10-28T07:03:43.997029Z",
  "sample": false,
  "jobs": [
   {
@@ -401,6 +401,25 @@
    "is_new": false
   },
   {
+   "id": "370bfe795739",
+   "title": "Urgent hiring BIg4 ServiceNow developer CMDB /CSDM (Hyderabad)",
+   "company": "Contactx Resource Management",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Kit Job",
+   "url": "https://www.kitjob.in/job/347496976/urgent-hiring-big4-servicenow-developer-cmdb-csdm-hyderabad",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Azure",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-28T07:03:43.997029Z",
+   "is_new": true
+  },
+  {
    "id": "66d32ebc1829",
    "title": "Technical Support, Associate Specialist",
    "company": "blackbaud india",
@@ -417,7 +436,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-27T06:34:11.476671Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "41faa44d0dbe",
@@ -536,40 +555,22 @@
    "is_new": false
   },
   {
-   "id": "404c41ab924a",
-   "title": "Technical Support Engineer (Immediate Joiner - 30th Oct)",
-   "company": "Salesforce, Inc.",
+   "id": "c0ee4e553f59",
+   "title": "Technical Support Associate",
+   "company": "Blackbaud",
    "location": "Hyderabad",
    "mode": "onsite",
-   "voice": "",
+   "voice": "nonvoice",
    "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/technical-support-engineer-immediate-joiner-30th-oct--hyderabad--bengaluru--e4160b8c1d854627bd190929704d60b8b",
-   "posted": "2026-10-25T00:00:00.000Z",
+   "source": "Blackbaud Careers",
+   "url": "https://careers.blackbaud.com/us/en/job/R0014828/Technical-Support-Associate",
+   "posted": "2026-10-26T00:00:00.000Z",
    "score": 68,
    "matched": [
     "Salesforce"
    ],
-   "first_seen": "2026-10-27T06:34:11.476671Z",
+   "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": true
-  },
-  {
-   "id": "5d99ff1ddfdb",
-   "title": "Junior Siebel Support Engineer",
-   "company": "Datavail",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/junior-siebel-support-engineer-at-datavail-4482441812",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": false
   },
   {
    "id": "89688ffae0be",
@@ -587,6 +588,60 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-24T06:09:14.744907Z",
+   "is_new": false
+  },
+  {
+   "id": "d490a2f447f0",
+   "title": "Consultant-Servicenow-secops",
+   "company": "NTT DATA Business Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/consultant-servicenow-secops-at-ntt-data-business-solutions-4483563042",
+   "posted": "2026-10-26T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-28T07:03:43.997029Z",
+   "is_new": true
+  },
+  {
+   "id": "404c41ab924a",
+   "title": "Technical Support Engineer (Immediate Joiner - 30th Oct)",
+   "company": "Salesforce, Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/technical-support-engineer-immediate-joiner-30th-oct--hyderabad--bengaluru--e4160b8c1d854627bd190929704d60b8b",
+   "posted": "2026-10-25T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Salesforce"
+   ],
+   "first_seen": "2026-10-27T06:34:11.476671Z",
+   "is_new": false
+  },
+  {
+   "id": "5d99ff1ddfdb",
+   "title": "Junior Siebel Support Engineer",
+   "company": "Datavail",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/junior-siebel-support-engineer-at-datavail-4482441812",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-25T06:29:40.271403Z",
    "is_new": false
   },
   {
@@ -698,6 +753,43 @@
    "is_new": false
   },
   {
+   "id": "742a0efa0f43",
+   "title": "Desktop Support Engineer \u2013 Windows & MAC - US Shift",
+   "company": "UST",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/desktop-support-engineer-%E2%80%93-windows-mac-us-shift-at-ust-4481443227",
+   "posted": "2026-10-26T00:00:00.000Z",
+   "score": 65,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-28T07:03:43.997029Z",
+   "is_new": true
+  },
+  {
+   "id": "601d9feead02",
+   "title": "PLM Support Engineers-Immediate Joiner",
+   "company": "Tekskills Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/plm-support-engineers-immediate-joiner/tekskills-inc/19920682",
+   "posted": "2026-10-24T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-28T07:03:43.997029Z",
+   "is_new": true
+  },
+  {
    "id": "b2be7148702a",
    "title": "ServiceNow Admin",
    "company": "Valuelabs",
@@ -771,21 +863,21 @@
    "is_new": false
   },
   {
-   "id": "774483d41c41",
-   "title": "Desktop Support Technician",
+   "id": "c226e73aa29f",
+   "title": "Desktop Support Engineer",
    "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
    "degree": "any",
    "source": "Shine",
-   "url": "https://www.shine.com/jobs/desktop-support-technician/svn-systech-india-private-limited/19912199",
+   "url": "https://www.shine.com/jobs/desktop-support-engineer/svn-systech-india-private-limited/19913645",
    "posted": "2026-10-23T00:00:00.000Z",
    "score": 63,
    "matched": [
     "Hardware troubleshooting"
    ],
-   "first_seen": "2026-10-27T06:34:11.476671Z",
+   "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": true
   },
   {
@@ -804,6 +896,78 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-26T06:39:41.140252Z",
+   "is_new": false
+  },
+  {
+   "id": "774483d41c41",
+   "title": "Desktop Support Technician",
+   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/desktop-support-technician/svn-systech-india-private-limited/19912199",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-27T06:34:11.476671Z",
+   "is_new": false
+  },
+  {
+   "id": "5804f8d42eb5",
+   "title": "ServiceNow Administrator",
+   "company": "LIVEC STAFFING SERVICES PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/servicenow-administrator/livec-staffing-services-private-limited/19895672",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-28T07:03:43.997029Z",
+   "is_new": true
+  },
+  {
+   "id": "8deef519e02a",
+   "title": "ServiceNow CMDB Administrator (Hyderabad)",
+   "company": "Important Business",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/servicenow-cmdb-administrator-hyderabad/important-business/19886639?jobtype=cr&position_in_results=6",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-26T06:39:41.140252Z",
+   "is_new": false
+  },
+  {
+   "id": "c04d68451f60",
+   "title": "ServiceNow CMDB - Immediate Joiner",
+   "company": "Cerebra",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/servicenow-cmdb-immediate-joiner/cerebra/19885707",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": true
   },
   {
@@ -823,24 +987,6 @@
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
-  },
-  {
-   "id": "8deef519e02a",
-   "title": "ServiceNow CMDB Administrator (Hyderabad)",
-   "company": "Important Business",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/servicenow-cmdb-administrator-hyderabad/important-business/19886639?jobtype=cr&position_in_results=6",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-26T06:39:41.140252Z",
-   "is_new": true
   },
   {
    "id": "175fb4ba4d7e",
