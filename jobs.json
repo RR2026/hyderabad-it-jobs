@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:03:43.997029Z",
+ "updated": "2026-10-29T07:25:48.771940Z",
  "sample": false,
  "jobs": [
   {
@@ -325,6 +325,25 @@
    "is_new": false
   },
   {
+   "id": "ab6464c5c5b7",
+   "title": "Walk-in Drive on 24th Oct  | Help Desk Support Engineer",
+   "company": "Movate",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/walk-in-drive-on-24th-oct-help-desk-support-engineer-at-movate-4481663647",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-29T07:25:48.771940Z",
+   "is_new": true
+  },
+  {
    "id": "b673cc7584d7",
    "title": "Service Desk Engineer",
    "company": "TECEZE",
@@ -417,7 +436,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "66d32ebc1829",
@@ -570,7 +589,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "89688ffae0be",
@@ -606,7 +625,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "404c41ab924a",
@@ -769,7 +788,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "601d9feead02",
@@ -787,7 +806,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b2be7148702a",
@@ -878,7 +897,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "23c17dbdb3be",
@@ -896,6 +915,42 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-26T06:39:41.140252Z",
+   "is_new": false
+  },
+  {
+   "id": "288aaf4eb1fe",
+   "title": "Application Support or IT Support",
+   "company": "GLOBEX DIGITAL SOLUTIONS PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/application-support-or-it-support/globex-digital-solutions-private-limited/19896078",
+   "posted": "2026-10-22T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-29T07:25:48.771940Z",
+   "is_new": true
+  },
+  {
+   "id": "d27e8e4aa131",
+   "title": "Client Service Desk Administrator - Managed Services",
+   "company": "NTT DATA Global Delivery Services Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/managed-services-client-service-desk-administrator-1172047438",
+   "posted": "2026-10-25T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
   },
   {
@@ -932,7 +987,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "8deef519e02a",
@@ -968,24 +1023,6 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": true
-  },
-  {
-   "id": "d27e8e4aa131",
-   "title": "Client Service Desk Administrator - Managed Services",
-   "company": "NTT DATA Global Delivery Services Ltd",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/managed-services-client-service-desk-administrator-1172047438",
-   "posted": "2026-10-25T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
   },
   {
@@ -1239,6 +1276,22 @@
    "matched": [],
    "first_seen": "2026-10-23T06:14:44.737337Z",
    "is_new": false
+  },
+  {
+   "id": "ec424a08d19d",
+   "title": "Technical Support Associate | Customer Support",
+   "company": "Talent Acquaintance",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/technical-support-associate-customer-support--hyderabad--ebfe5aef4e6ff3fd7a51b23d82c7aa6a8",
+   "posted": "2026-10-25T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-10-29T07:25:48.771940Z",
+   "is_new": true
   },
   {
    "id": "a8ad4d9b5be0",
