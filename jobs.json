@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:25:48.771940Z",
+ "updated": "2026-10-30T07:28:58.581985Z",
  "sample": false,
  "jobs": [
   {
@@ -341,7 +341,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-29T07:25:48.771940Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b673cc7584d7",
@@ -390,8 +390,8 @@
    "voice": "",
    "degree": "check",
    "source": "Viasat Careers",
-   "url": "https://careers.viasat.com/jobs/6880?lang=en-us",
-   "posted": "2026-10-14T00:00:00.000Z",
+   "url": "https://careers.viasat.com/jobs/7153?lang=en-us",
+   "posted": "2026-10-23T00:00:00.000Z",
    "score": 72,
    "matched": [
     "Hardware troubleshooting",
@@ -592,6 +592,24 @@
    "is_new": false
   },
   {
+   "id": "d490a2f447f0",
+   "title": "Consultant-Servicenow-secops",
+   "company": "NTT DATA Business Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/consultant-servicenow-secops-at-ntt-data-business-solutions-4484077224",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-28T07:03:43.997029Z",
+   "is_new": false
+  },
+  {
    "id": "89688ffae0be",
    "title": "Customer Support Associate - L2",
    "company": "Careers at Tide",
@@ -607,24 +625,6 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": false
-  },
-  {
-   "id": "d490a2f447f0",
-   "title": "Consultant-Servicenow-secops",
-   "company": "NTT DATA Business Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/consultant-servicenow-secops-at-ntt-data-business-solutions-4483563042",
-   "posted": "2026-10-26T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": false
   },
   {
@@ -882,6 +882,60 @@
    "is_new": false
   },
   {
+   "id": "774483d41c41",
+   "title": "Desktop Support Technician",
+   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/desktop-support-technician/svn-systech-india-private-limited/19912199",
+   "posted": "2026-10-23T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-27T06:34:11.476671Z",
+   "is_new": false
+  },
+  {
+   "id": "175fb4ba4d7e",
+   "title": "Servicenow Developer-HRSD",
+   "company": "Infosys",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/servicenow-developer-hrsd--hyderabad--e034409396589261f9b182677780a0884",
+   "posted": "2026-10-26T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-16T10:35:51.155035Z",
+   "is_new": false
+  },
+  {
+   "id": "cb187d9f2510",
+   "title": "Servicenow Platform Engineering And Support 170155 Hyderabad (India)",
+   "company": "ADP",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/3793799520492453888",
+   "posted": "2026-10-25T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-10-30T07:28:58.581985Z",
+   "is_new": true
+  },
+  {
    "id": "c226e73aa29f",
    "title": "Desktop Support Engineer",
    "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
@@ -933,7 +987,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-29T07:25:48.771940Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d27e8e4aa131",
@@ -951,24 +1005,6 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
-  },
-  {
-   "id": "774483d41c41",
-   "title": "Desktop Support Technician",
-   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/desktop-support-technician/svn-systech-india-private-limited/19912199",
-   "posted": "2026-10-23T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-27T06:34:11.476671Z",
    "is_new": false
   },
   {
@@ -1026,22 +1062,22 @@
    "is_new": false
   },
   {
-   "id": "175fb4ba4d7e",
-   "title": "Servicenow Developer-HRSD",
-   "company": "Infosys",
+   "id": "374d34f540a9",
+   "title": "ServiceNow SAM Specialist",
+   "company": "Insight Global",
    "location": "Hyderabad",
-   "mode": "onsite",
+   "mode": "remote",
    "voice": "",
    "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/servicenow-developer-hrsd--hyderabad--e034409396589261f9b182677780a0884",
-   "posted": "2026-10-19T00:00:00.000Z",
-   "score": 63,
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/servicenow-sam-specialist-insight-global-hyderabad--t7xk-904432621",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 61,
    "matched": [
     "ServiceNow"
    ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
+   "first_seen": "2026-10-30T07:28:58.581985Z",
+   "is_new": true
   },
   {
    "id": "30444301dfc8",
@@ -1278,6 +1314,38 @@
    "is_new": false
   },
   {
+   "id": "103910efd96b",
+   "title": "Fraud and Dispute Analyst",
+   "company": "WINX Consulting Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/fraud-and-dispute-analyst/winx-consulting-services/19944084",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-10-30T07:28:58.581985Z",
+   "is_new": true
+  },
+  {
+   "id": "adbb13c21a63",
+   "title": "Fraud Operations Analyst (Hyderabad)",
+   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/7661114517648048128",
+   "posted": "2026-10-26T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-10-30T07:28:58.581985Z",
+   "is_new": true
+  },
+  {
    "id": "ec424a08d19d",
    "title": "Technical Support Associate | Customer Support",
    "company": "Talent Acquaintance",
@@ -1291,7 +1359,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-29T07:25:48.771940Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "a8ad4d9b5be0",
@@ -1500,6 +1568,22 @@
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": false
+  },
+  {
+   "id": "cf48ddda4410",
+   "title": "SAC Front-End / UX Developer",
+   "company": "Fusion Consulting",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/sac-front-end-ux-developer-at-fusion-consulting-4484444039",
+   "posted": "2026-10-28T00:00:00.000Z",
+   "score": 42,
+   "matched": [],
+   "first_seen": "2026-10-30T07:28:58.581985Z",
+   "is_new": true
   },
   {
    "id": "3149d1987e50",
