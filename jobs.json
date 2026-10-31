@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:28:58.581985Z",
+ "updated": "2026-10-31T07:17:18.766742Z",
  "sample": false,
  "jobs": [
   {
@@ -47,6 +47,28 @@
     "VPN"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
+   "is_new": false
+  },
+  {
+   "id": "c226e73aa29f",
+   "title": "Desktop Support Engineer",
+   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/desktop-support-engineer/svn-systech-india-private-limited/19932976",
+   "posted": "2026-10-26T00:00:00.000Z",
+   "score": 95,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "Microsoft 365",
+    "VPN"
+   ],
+   "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": false
   },
   {
@@ -140,27 +162,6 @@
    "is_new": false
   },
   {
-   "id": "09d94a7e45a7",
-   "title": "Information Technology Support Engineer",
-   "company": "SISL Global",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/information-technology-support-engineer-sisl-global-hyderabad--fj-2409687896",
-   "posted": "2026-10-12T00:00:00.000Z",
-   "score": 88,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "VPN"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
    "id": "0af7f92ef1a7",
    "title": "Hyderabad :Junior HelpDesk/ Service Desk Analyst ( Global+ Servicenow)",
    "company": "Purechase India",
@@ -179,66 +180,6 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": false
-  },
-  {
-   "id": "39ded744e790",
-   "title": "IT Support / Service Desk Analyst",
-   "company": "Interscripts, Inc.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Interscriptsus.zohorecruit.com",
-   "url": "https://interscriptsus.zohorecruit.com/jobs/Careers/741962000010586144/IT-Support-Service-Desk-Analyst?source=Google",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 84,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
-  },
-  {
-   "id": "5409df056449",
-   "title": "Desktop Support Engineer| Hyderabad",
-   "company": "NS Global Corporation",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/desktop-support-engineer-hyderabad-ns-global-corporation-hyderabad--t7xk-886866748",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 84,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
-  },
-  {
-   "id": "f7e501906700",
-   "title": "It Support Engineer Immediate Joiner Only Hyderabad (India)",
-   "company": "Ikontel Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/6979242967114448896",
-   "posted": "2026-10-12T00:00:00.000Z",
-   "score": 84,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   },
   {
@@ -303,26 +244,42 @@
    "is_new": false
   },
   {
-   "id": "6267a9a9bd5b",
-   "title": "EUC Engineer",
-   "company": "Parseq",
+   "id": "9ffcda7ac53b",
+   "title": "Technical Support Representative - Tier 2",
+   "company": "Side",
    "location": "Hyderabad",
-   "mode": "onsite",
+   "mode": "remote",
    "voice": "",
    "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/euc-engineer-parseq-hyderabad--fj-2417904610",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 77,
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/technical-support-representative-tier-2-at-side-4483861895",
+   "posted": "2026-10-28T00:00:00.000Z",
+   "score": 76,
    "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "Intune",
-    "L1/L2 support",
-    "Microsoft 365"
+    "Microsoft 365",
+    "VPN"
    ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
+  },
+  {
+   "id": "286c550b5689",
+   "title": "Technical Support, Associate Specialist",
+   "company": "Blackbaud",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Blackbaud Careers",
+   "url": "https://careers.blackbaud.com/us/en/job/R0014741/Technical-Support-Associate-Specialist",
+   "posted": "2026-10-29T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "MFA",
+    "Salesforce"
+   ],
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
   },
   {
    "id": "ab6464c5c5b7",
@@ -344,42 +301,23 @@
    "is_new": false
   },
   {
-   "id": "b673cc7584d7",
-   "title": "Service Desk Engineer",
-   "company": "TECEZE",
+   "id": "25dc926b7220",
+   "title": "Technical Support Specialist I",
+   "company": "OSI Systems, Inc",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/service-desk-engineer-at-teceze-4478406391",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 76,
+   "degree": "check",
+   "source": "Osi-Systems.jobs",
+   "url": "https://www.osi-systems.jobs/careers-home/jobs/37861?lang=en-us",
+   "posted": "2026-10-29T00:00:00.000Z",
+   "score": 72,
    "matched": [
     "Hardware troubleshooting",
     "L1/L2 support"
    ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "09510b6c7822",
-   "title": "Application Support \u2013 L1 Support",
-   "company": "Aftotech",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/application-support-%E2%80%93-l1-support-at-aftotech-4476299368",
-   "posted": "2026-10-09T00:00:00.000Z",
-   "score": 76,
-   "matched": [
-    "L1/L2 support",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
   },
   {
    "id": "4a61ebb9ba74",
@@ -398,25 +336,6 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-21T06:16:52.681948Z",
-   "is_new": false
-  },
-  {
-   "id": "0c57eedf00ae",
-   "title": "L1 Technical Support Engineer - Hyderabad",
-   "company": "CDA Technologies India Pvt. Ltd.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Placement India",
-   "url": "https://www.placementindia.com/job-detail/l1-technical-support-engineer-in-cda-technologies-india-pvt-ltd-at-hyderabad-1467833.htm",
-   "posted": "2026-10-12T00:00:00.000Z",
-   "score": 72,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   },
   {
@@ -496,46 +415,6 @@
    "is_new": false
   },
   {
-   "id": "d1b4dbd9e1d0",
-   "title": "L1 Service Desk Analyst",
-   "company": "TECEZE",
-   "location": "Secunderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Foundit",
-   "url": "https://www.foundit.in/job/l1-service-desk-analyst-teceze-hyderabad-secunderabad-telangana-69462776",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 71,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
-  },
-  {
-   "id": "d08587a033b8",
-   "title": "IT Analyst",
-   "company": "Infinite Computer Solutions",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/it-analyst-at-infinite-computer-solutions-4480144238",
-   "posted": "2026-10-15T00:00:00.000Z",
-   "score": 70,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "ServiceNow",
-    "VPN"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
-  },
-  {
    "id": "be0128149978",
    "title": "Product Support Engineer - Boomi Hyderabad (India)",
    "company": "Nameless",
@@ -555,23 +434,22 @@
    "is_new": false
   },
   {
-   "id": "cca84918905e",
-   "title": "ServiceNow Developer \u2014 Case Management",
-   "company": "Virtusa",
+   "id": "37462a90efb8",
+   "title": "Desktop Support Field Engineer Hyderabad (India)",
+   "company": "Voltriq India",
    "location": "Hyderabad",
    "mode": "onsite",
-   "voice": "voice",
+   "voice": "",
    "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/servicenow-developer-case-management-virtusa-hyderabad-telangana--t7xk-877745150",
-   "posted": "2026-10-11T00:00:00.000Z",
-   "score": 69,
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/2374812694638231552",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 68,
    "matched": [
-    "MFA",
-    "ServiceNow"
+    "Hardware troubleshooting"
    ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
   },
   {
    "id": "c0ee4e553f59",
@@ -736,42 +614,6 @@
    "is_new": false
   },
   {
-   "id": "ceee1ae1b9b9",
-   "title": "Service Desk Representative Level1 (Hyderabad)",
-   "company": "Diebold Nixdorf",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/service-desk-representative-level1-hyderabad/diebold-nixdorf/19795805",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
-  },
-  {
-   "id": "fac4135b54b3",
-   "title": "Help Support Engineer 2",
-   "company": "Movate Technologies",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/help-support-engineer-2-movate-technologies-hyderabad--t7xk-881702094",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
    "id": "742a0efa0f43",
    "title": "Desktop Support Engineer \u2013 Windows & MAC - US Shift",
    "company": "UST",
@@ -828,42 +670,6 @@
    "is_new": false
   },
   {
-   "id": "fd2f9bd8bdb7",
-   "title": "Teamcenter Support Engineer",
-   "company": "Tekskills Inc.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/teamcenter-support-engineer/tekskills-inc/19841308",
-   "posted": "2026-10-17T00:00:00.000Z",
-   "score": 64,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "f2cc11608c22",
-   "title": "AI Support Engineer",
-   "company": "Birlasoft Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/1527261626",
-   "posted": "2026-10-15T00:00:00.000Z",
-   "score": 64,
-   "matched": [
-    "Azure"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
-   "is_new": false
-  },
-  {
    "id": "0b22bd07775e",
    "title": "Operations Team Leader - Fraud Detection and Investigation",
    "company": "Goldman Sachs Services Pvt Ltd",
@@ -880,6 +686,24 @@
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": false
+  },
+  {
+   "id": "1bdd25cf2c2b",
+   "title": "Associate Technical Support Engineer - Core",
+   "company": "iCims",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "any",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/eWdjoE2f-USNjCzfOSq1tGOJgWpbWgL8nK4AQhqDj-tslKW0axH2NQ",
+   "posted": "2026-10-28T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
   },
   {
    "id": "774483d41c41",
@@ -900,24 +724,6 @@
    "is_new": false
   },
   {
-   "id": "175fb4ba4d7e",
-   "title": "Servicenow Developer-HRSD",
-   "company": "Infosys",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/servicenow-developer-hrsd--hyderabad--e034409396589261f9b182677780a0884",
-   "posted": "2026-10-26T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
    "id": "cb187d9f2510",
    "title": "Servicenow Platform Engineering And Support 170155 Hyderabad (India)",
    "company": "ADP",
@@ -934,24 +740,6 @@
    ],
    "first_seen": "2026-10-30T07:28:58.581985Z",
    "is_new": true
-  },
-  {
-   "id": "c226e73aa29f",
-   "title": "Desktop Support Engineer",
-   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/desktop-support-engineer/svn-systech-india-private-limited/19913645",
-   "posted": "2026-10-23T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
   },
   {
    "id": "23c17dbdb3be",
@@ -987,24 +775,6 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-29T07:25:48.771940Z",
-   "is_new": false
-  },
-  {
-   "id": "d27e8e4aa131",
-   "title": "Client Service Desk Administrator - Managed Services",
-   "company": "NTT DATA Global Delivery Services Ltd",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/managed-services-client-service-desk-administrator-1172047438",
-   "posted": "2026-10-25T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
   },
   {
@@ -1116,24 +886,6 @@
    "is_new": false
   },
   {
-   "id": "fbe72fc29c88",
-   "title": "Walk-in || Servicenow Developer | 17th Sept F2F | Hyderabad",
-   "company": "Hexaware Technologies",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/walk-in-servicenow-developer-17th-sept-f2f-hyderabad-hexaware-technologies-hyderabad--t7xk-881400625",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 61,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
    "id": "836721b06078",
    "title": "Support Engineer",
    "company": "TEKsystems Global Services in India",
@@ -1147,86 +899,6 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": false
-  },
-  {
-   "id": "37464069cc91",
-   "title": "Fraud Prevention Analyst - Acquiring and Risk Investigation",
-   "company": "Tide Platform Private Limited",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "voice",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/analyst-acquiring-arandi-preventive-fraud-6-months-1747901375",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "b08ecbd9f550",
-   "title": "Fraud Investigator VOICE Hyderbad location salary 7.5lks",
-   "company": "Ignites Human Capital",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/fraud-investigator-voice-hyderbad-location-salary-75lks-ignites-human-capital-hyderabad--t7xk-881467530",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "78c3236d8488",
-   "title": "Team Leader - Transaction Monitoring and Fraud Prevention",
-   "company": "Tide Platform Private Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/1079362708",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "3dcd7e6ac5d3",
-   "title": "Analyst, Enforcement and Reporting (Fraud Reporting) - 6 month contract",
-   "company": "Tide",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "voice",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/analyst-enforcement-and-reporting-fraud-reporting-6-month-contract-at-tide-4478413929",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "3461a287a323",
-   "title": "Analyst, Bank Payments, Reported Fraud, UK (6 months contract)",
-   "company": "Careers at Tide",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "SimplyHired",
-   "url": "https://www.simplyhired.co.in/job/GOPlpCuHi8TQ70g0gY8h0KNQVHgj21C1sC5jdITK5B2sVzyl7VIdkg",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   },
   {
@@ -1264,6 +936,22 @@
    ],
    "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": false
+  },
+  {
+   "id": "04c33076ca9b",
+   "title": "Technical Support Engineer-Night Shift",
+   "company": "CAMP Systems Private Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/technical-support-engineer-night-shift--hyderabad--efc15aeb5f90fed3d2aade74d49fa93c9",
+   "posted": "2026-10-28T00:00:00.000Z",
+   "score": 56,
+   "matched": [],
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
   },
   {
    "id": "f131749ef9f0",
@@ -1312,6 +1000,22 @@
    "matched": [],
    "first_seen": "2026-10-23T06:14:44.737337Z",
    "is_new": false
+  },
+  {
+   "id": "888754d2aeba",
+   "title": "Support Engineer 1",
+   "company": "Oracle",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/support-engineer-1-at-oracle-4483907743",
+   "posted": "2026-10-31T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
   },
   {
    "id": "103910efd96b",
@@ -1426,20 +1130,22 @@
    "is_new": false
   },
   {
-   "id": "3b7d32c1e95b",
-   "title": "ASM - End Users / Industries / EPCs - Electrical or Automation",
-   "company": "Talent Hired-the Job Store",
-   "location": "Hyderabad",
+   "id": "3fb12e9f2825",
+   "title": "Technical Support Specialist",
+   "company": "SAI Systems Technologies",
+   "location": "Secunderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/asm-end-users-industries-epcs-electrical-or-automation-talent-hired-the-job-store-hyderabad--t7xk-881353956",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
+   "degree": "check",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/-4043673265224668746",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 54,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
   },
   {
    "id": "2c2e498e47ef",
@@ -1461,60 +1167,39 @@
    "is_new": false
   },
   {
-   "id": "4340e8f9fd0f",
-   "title": "Product Support Specialist | Hyderabad | US EST",
-   "company": "cyberu",
+   "id": "2e5aab6f1a07",
+   "title": "Information Technology Support Specialist",
+   "company": "Artech",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "check",
-   "source": "Cornerstone OnDemand",
-   "url": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11583?c=cornerstone",
-   "posted": "2026-10-12T00:00:00.000Z",
-   "score": 54,
-   "matched": [
-    "L1/L2 support",
-    "Salesforce"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "5f41b21ee03d",
-   "title": "ITAM Specialist (Content Audit)",
-   "company": "ServiceNow",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "check",
-   "source": "Recruit.net",
-   "url": "https://www.recruit.net/job/itam-specialist-content-audit-jobs/0214CFBBD3FD6D37",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 54,
-   "matched": [
-    "Hardware troubleshooting",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "b20e87d7e2f0",
-   "title": "ServiceNow Developer</h5",
-   "company": "Global Infovision",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "engineering",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/servicenow-developer-h5/global-infovision/19840762",
-   "posted": "2026-10-17T00:00:00.000Z",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/information-technology-support-specialist-at-artech-4482912684",
+   "posted": "2026-10-26T00:00:00.000Z",
    "score": 53,
    "matched": [
-    "ServiceNow"
+    "Active Directory",
+    "Microsoft 365"
    ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
+  },
+  {
+   "id": "96d16468d92b",
+   "title": "Product Support Engineer",
+   "company": "Octave Intelligence",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "Glassdoor",
+   "url": "https://www.glassdoor.co.in/job-listing/jv?jl=1010308304262",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 51,
+   "matched": [],
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": true
   },
   {
    "id": "7d288c786900",
@@ -1530,25 +1215,6 @@
    "score": 51,
    "matched": [],
    "first_seen": "2026-10-25T06:29:40.271403Z",
-   "is_new": false
-  },
-  {
-   "id": "1914543b470e",
-   "title": "Technical Product Support Specialist",
-   "company": "KodeCorp",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/technical-product-support-specialist-at-kodecorp-4476012066",
-   "posted": "2026-10-12T00:00:00.000Z",
-   "score": 47,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   },
   {
@@ -1586,54 +1252,6 @@
    "is_new": true
   },
   {
-   "id": "3149d1987e50",
-   "title": "AML And Prohibited Activities Investigations Analyst 6 Months Contract",
-   "company": "Tide",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/aml-and-prohibited-activities-investigations-analyst-6-months-contract--hyderabad--eb7f91e3e6edb86842726c1c2ff0048f5",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 42,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "37ae53df5a84",
-   "title": "SAR Analyst, Fincrime Intelligence and Reporting, UK (6 month contract)",
-   "company": "Tide",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "Recruit.net",
-   "url": "https://www.recruit.net/job/sar-analyst-fincrime-intelligence-reporting-jobs/063B8FFCB3E8303F",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 42,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "6b1a7d5be824",
-   "title": "Payments Risk Analyst",
-   "company": "Coinbase India Services Private Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/payments-risk-analyst-ii-1021278389",
-   "posted": "2026-10-11T00:00:00.000Z",
-   "score": 42,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
    "id": "d28044687c4a",
    "title": "Network and Infrastructure Engineer",
    "company": "Infosys",
@@ -1650,25 +1268,6 @@
     "VPN"
    ],
    "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": false
-  },
-  {
-   "id": "26e19c4e6464",
-   "title": "Technical Analyst System User Enablement  (m/f/d)",
-   "company": "BASF",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/technical-analyst-system-user-enablement-m-f-d-at-basf-4475630006",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 41,
-   "matched": [
-    "Azure",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-10-17T05:51:37.335471Z",
    "is_new": false
   },
   {
@@ -1701,58 +1300,6 @@
    "score": 37,
    "matched": [],
    "first_seen": "2026-10-20T06:17:08.122370Z",
-   "is_new": false
-  },
-  {
-   "id": "d228a620f247",
-   "title": "Associate Front End Developer , Commercialization Technology",
-   "company": "Amgen",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Amgen",
-   "url": "https://careers.amgen.com/en/job/hyderabad/associate-front-end-developer-commercialization-technology/87/101898173072",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 34,
-   "matched": [
-    "Salesforce"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "1447c2f47d12",
-   "title": "SAP Security Consultant",
-   "company": "NTT DATA  Services",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "check",
-   "source": "NTT DATA Careers",
-   "url": "https://careers-inc.nttdata.com/job/Hyderabad-SAP-Security-Consultant-TG/1366977200/",
-   "posted": "2026-10-13T00:00:00.000Z",
-   "score": 31,
-   "matched": [],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
-   "is_new": false
-  },
-  {
-   "id": "dbfa070a7880",
-   "title": "Juniper L3 Support resource",
-   "company": "Netscribes",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/juniper-l3-support-resource-at-netscribes-4477097590",
-   "posted": "2026-10-15T15:00:00.000Z",
-   "score": 31,
-   "matched": [
-    "VPN"
-   ],
-   "first_seen": "2026-10-16T10:35:51.155035Z",
    "is_new": false
   }
  ]
