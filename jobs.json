@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:17:18.766742Z",
+ "updated": "2026-11-01T07:48:48.328735Z",
  "sample": false,
  "jobs": [
   {
@@ -260,6 +260,25 @@
     "VPN"
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": false
+  },
+  {
+   "id": "c94e522f6e6f",
+   "title": "L1 Support Engineering",
+   "company": "Velocity Clinical Research, Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "ICIMS",
+   "url": "https://intlcareers-velocityclinical.icims.com/jobs/3774/l1-support-engineering/job",
+   "posted": "2026-10-29T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
    "is_new": true
   },
   {
@@ -279,7 +298,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "ab6464c5c5b7",
@@ -317,7 +336,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "4a61ebb9ba74",
@@ -449,7 +468,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c0ee4e553f59",
@@ -633,6 +652,24 @@
    "is_new": false
   },
   {
+   "id": "0b22bd07775e",
+   "title": "Operations Team Leader - Fraud Detection and Investigation",
+   "company": "Goldman Sachs Services Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/wealth-management-digital-operations-back-office-f-1311363319",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-10-18T06:17:40.468795Z",
+   "is_new": false
+  },
+  {
    "id": "601d9feead02",
    "title": "PLM Support Engineers-Immediate Joiner",
    "company": "Tekskills Inc.",
@@ -670,24 +707,6 @@
    "is_new": false
   },
   {
-   "id": "0b22bd07775e",
-   "title": "Operations Team Leader - Fraud Detection and Investigation",
-   "company": "Goldman Sachs Services Pvt Ltd",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/wealth-management-digital-operations-back-office-f-1597503060",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 64,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-18T06:17:40.468795Z",
-   "is_new": false
-  },
-  {
    "id": "1bdd25cf2c2b",
    "title": "Associate Technical Support Engineer - Core",
    "company": "iCims",
@@ -703,6 +722,96 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": false
+  },
+  {
+   "id": "e896d3089789",
+   "title": "Technical Support Consultant",
+   "company": "Focus Softnet",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Foundit",
+   "url": "https://www.foundit.in/job/technical-support-consultant-focus-softnet-hyderabad-secunderabad-telangana-69660512",
+   "posted": "2026-10-31T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "VPN"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
+  },
+  {
+   "id": "c2a85ab3567c",
+   "title": "ServiceNow Administrator",
+   "company": "Integrated Personnel Services Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/servicenow-administrator/integrated-personnel-services-limited/19969177",
+   "posted": "2026-10-30T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
+  },
+  {
+   "id": "302792a33f0e",
+   "title": "Sde I Servicenow Hyderabad",
+   "company": "Entain India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Kit Job",
+   "url": "https://www.kitjob.in/job/348774203/sde-i-servicenow-hyderabad",
+   "posted": "2026-10-28T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
+  },
+  {
+   "id": "c05b93d53aa6",
+   "title": "ServiceNow ITSM Consultant",
+   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/servicenow-itsm-consultant/converse-placement-services-india-private-limited/19934128",
+   "posted": "2026-10-26T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
+  },
+  {
+   "id": "175fb4ba4d7e",
+   "title": "Servicenow Developer-HRSD",
+   "company": "Infosys",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/servicenow-developer-hrsd--hyderabad--e034409396589261f9b182677780a0884",
+   "posted": "2026-10-26T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
    "is_new": true
   },
   {
@@ -739,7 +848,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-30T07:28:58.581985Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "23c17dbdb3be",
@@ -832,6 +941,24 @@
    "is_new": false
   },
   {
+   "id": "b1a6d11a219a",
+   "title": "Satellite Communication Support Engineer",
+   "company": "Amazon India Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/support-engineer-amazon-leo-enterprise-customer-su-1750600059",
+   "posted": "2026-10-31T00:00:00.000Z",
+   "score": 61,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
+  },
+  {
    "id": "374d34f540a9",
    "title": "ServiceNow SAM Specialist",
    "company": "Insight Global",
@@ -847,7 +974,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-30T07:28:58.581985Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "30444301dfc8",
@@ -920,24 +1047,6 @@
    "is_new": false
   },
   {
-   "id": "7e09e0a186c3",
-   "title": "Associate Software Engineer, ServiceNow (Hyderabad)",
-   "company": "Align Technology",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/3161004946342543360",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 57,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-18T06:17:40.468795Z",
-   "is_new": false
-  },
-  {
    "id": "04c33076ca9b",
    "title": "Technical Support Engineer-Night Shift",
    "company": "CAMP Systems Private Limited",
@@ -951,7 +1060,7 @@
    "score": 56,
    "matched": [],
    "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f131749ef9f0",
@@ -1002,6 +1111,22 @@
    "is_new": false
   },
   {
+   "id": "33eaaf4fa641",
+   "title": "Fraud Operations Analyst",
+   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/fraud-operations-analyst/converse-placement-services-india-private-limited/19941796",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
+  },
+  {
    "id": "888754d2aeba",
    "title": "Support Engineer 1",
    "company": "Oracle",
@@ -1015,7 +1140,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "103910efd96b",
@@ -1031,7 +1156,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-30T07:28:58.581985Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "adbb13c21a63",
@@ -1047,7 +1172,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-30T07:28:58.581985Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "ec424a08d19d",
@@ -1145,25 +1270,6 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": true
-  },
-  {
-   "id": "2c2e498e47ef",
-   "title": "IT Asset Management Specialist - Content Audit",
-   "company": "SERVICENOW SOFTWARE DEVELOPMENT INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/itam-specialist-content-audit-1198430564",
-   "posted": "2026-10-15T00:00:00.000Z",
-   "score": 54,
-   "matched": [
-    "Hardware troubleshooting",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-18T06:17:40.468795Z",
    "is_new": false
   },
   {
@@ -1183,6 +1289,22 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": false
+  },
+  {
+   "id": "041f31888578",
+   "title": "Fraud Investigative Analyst",
+   "company": "Xforia Technologies",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/fraud-investigative-analyst--hyderabad--bengaluru--e93cf5a24ede7fa09371dd76f7f6ff63e",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 51,
+   "matched": [],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
    "is_new": true
   },
   {
@@ -1199,7 +1321,7 @@
    "score": 51,
    "matched": [],
    "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "7d288c786900",
@@ -1218,22 +1340,40 @@
    "is_new": false
   },
   {
-   "id": "35875db1d08e",
-   "title": "RightFax",
-   "company": "Quess Corp Limited",
+   "id": "b84bdb01a123",
+   "title": "service now - Vulnerability",
+   "company": "TymblHub",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
    "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/rightfax-quess-corp-limited-hyderabad-telangana--t7xk-885193513",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 43,
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/service-now-vulnerability/tymblhub/19940005",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 50,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
+  },
+  {
+   "id": "d865c431bed5",
+   "title": "IT Consulting/Projects - Systems Administrator II",
+   "company": "VR Della It Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/it-consulting-projects-systems-administrator-ii--hyderabad--e1529b1089c5518dc86076ebe9916aff3",
+   "posted": "2026-10-28T00:00:00.000Z",
+   "score": 45,
    "matched": [
     "Hardware troubleshooting"
    ],
-   "first_seen": "2026-10-18T06:17:40.468795Z",
-   "is_new": false
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
   },
   {
    "id": "cf48ddda4410",
@@ -1249,7 +1389,7 @@
    "score": 42,
    "matched": [],
    "first_seen": "2026-10-30T07:28:58.581985Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d28044687c4a",
@@ -1269,6 +1409,22 @@
    ],
    "first_seen": "2026-10-23T06:14:44.737337Z",
    "is_new": false
+  },
+  {
+   "id": "6b1a7d5be824",
+   "title": "Payments Risk Analyst",
+   "company": "Coinbase India Services Private Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/payments-risk-analyst-ii-1862586538",
+   "posted": "2026-10-31T00:00:00.000Z",
+   "score": 38,
+   "matched": [],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
   },
   {
    "id": "ac47076967ba",
@@ -1301,6 +1457,24 @@
    "matched": [],
    "first_seen": "2026-10-20T06:17:08.122370Z",
    "is_new": false
+  },
+  {
+   "id": "3659125ebaab",
+   "title": "Global Network Design Data Engineer, End-to-End Supply Chain",
+   "company": "PepsiCo",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/global-network-design-data-engineer-end-to-end-supply-chain-at-pepsico-4482545584",
+   "posted": "2026-10-28T00:00:00.000Z",
+   "score": 34,
+   "matched": [
+    "Azure"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
+   "is_new": true
   }
  ]
 }
