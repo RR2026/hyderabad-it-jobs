@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:48:48.328735Z",
+ "updated": "2026-11-02T07:54:58.043520Z",
  "sample": false,
  "jobs": [
   {
@@ -28,28 +28,6 @@
    "is_new": false
   },
   {
-   "id": "b6d684c0909c",
-   "title": "Help Desk Executive - IT - HYD (15 Jun 26)",
-   "company": "Eclat Health Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "check",
-   "source": "Glassdoor",
-   "url": "https://www.glassdoor.co.in/job-listing/help-desk-executive-it-hyd-15-jun-26-eclat-health-solutions-JV_IC2865319_KO0,36_KE37,59.htm?jl=1010169593918",
-   "posted": "2026-10-16T00:00:00.000Z",
-   "score": 96,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "Microsoft 365",
-    "ServiceNow",
-    "VPN"
-   ],
-   "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": false
-  },
-  {
    "id": "c226e73aa29f",
    "title": "Desktop Support Engineer",
    "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
@@ -69,30 +47,6 @@
     "VPN"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
-  },
-  {
-   "id": "01ead4585f78",
-   "title": "Infrastructure Support Engineers (Level 1 & 2)",
-   "company": "Digital Minds Software Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/infrastructure-support-engineers-level-1-2-digital-minds-software-solutions-hyderabad--t7xk-881808486",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 95,
-   "matched": [
-    "Active Directory",
-    "Azure",
-    "Hardware troubleshooting",
-    "Intune",
-    "Microsoft 365",
-    "ServiceNow",
-    "VPN"
-   ],
-   "first_seen": "2026-10-19T06:29:32.252213Z",
    "is_new": false
   },
   {
@@ -141,48 +95,6 @@
    "is_new": false
   },
   {
-   "id": "47ec15036abe",
-   "title": "Desktop Support Specialist",
-   "company": "SISL Global",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/desktop-support-specialist-at-sisl-global-4478395306",
-   "posted": "2026-10-12T00:00:00.000Z",
-   "score": 88,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "VPN"
-   ],
-   "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": false
-  },
-  {
-   "id": "0af7f92ef1a7",
-   "title": "Hyderabad :Junior HelpDesk/ Service Desk Analyst ( Global+ Servicenow)",
-   "company": "Purechase India",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/hyderabad-junior-helpdesk-service-desk-analyst-global-servicenow--hyderabad--e516ce3501ee64e7d70ea19c3bdb24cae",
-   "posted": "2026-10-15T00:00:00.000Z",
-   "score": 87,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "Microsoft 365",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": false
-  },
-  {
    "id": "8e9e1641a3be",
    "title": "IT Service Desk QA & Project Coordinator (L1)",
    "company": "Technology services",
@@ -224,6 +136,26 @@
    "is_new": false
   },
   {
+   "id": "2f751ba9584b",
+   "title": "Sailpoint Support Engineer (Secunderabad)",
+   "company": "MassMutual India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/sailpoint-support-engineer-secunderabad/massmutual-india/19966092",
+   "posted": "2026-10-30T00:00:00.000Z",
+   "score": 77,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-02T07:54:58.043520Z",
+   "is_new": true
+  },
+  {
    "id": "1fcb1a6ce5fd",
    "title": "Analyst App/prod Support - Servicenow Platform Production Support-tier 1 (Hyderabad)",
    "company": "Atet",
@@ -263,25 +195,6 @@
    "is_new": false
   },
   {
-   "id": "c94e522f6e6f",
-   "title": "L1 Support Engineering",
-   "company": "Velocity Clinical Research, Inc.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "ICIMS",
-   "url": "https://intlcareers-velocityclinical.icims.com/jobs/3774/l1-support-engineering/job",
-   "posted": "2026-10-29T00:00:00.000Z",
-   "score": 76,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
-  },
-  {
    "id": "286c550b5689",
    "title": "Technical Support, Associate Specialist",
    "company": "Blackbaud",
@@ -298,6 +211,44 @@
     "Salesforce"
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": false
+  },
+  {
+   "id": "8a33654f3116",
+   "title": "Service Desk Agent I",
+   "company": "Swiss Re",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/6634986084466725620",
+   "posted": "2026-10-28T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-02T07:54:58.043520Z",
+   "is_new": true
+  },
+  {
+   "id": "c94e522f6e6f",
+   "title": "L1 Support Engineering",
+   "company": "Velocity Clinical Research, Inc.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "ICIMS",
+   "url": "https://intlcareers-velocityclinical.icims.com/jobs/3774/l1-support-engineering/job",
+   "posted": "2026-10-29T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-01T07:48:48.328735Z",
    "is_new": false
   },
   {
@@ -415,25 +366,6 @@
    "is_new": false
   },
   {
-   "id": "3c6a740429a5",
-   "title": "Wipro Hiring Service Desk Analyst L1 in Hyderabad | Apply Now",
-   "company": "Wipro",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Talentd",
-   "url": "https://www.talentd.in/jobs/wipro-hiring-service-desk-analyst-l1-in-hyderabad-apply-now",
-   "posted": "2026-10-15T00:00:00.000Z",
-   "score": 71,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": false
-  },
-  {
    "id": "be0128149978",
    "title": "Product Support Engineer - Boomi Hyderabad (India)",
    "company": "Nameless",
@@ -469,6 +401,42 @@
    ],
    "first_seen": "2026-10-31T07:17:18.766742Z",
    "is_new": false
+  },
+  {
+   "id": "a0fd6a45b543",
+   "title": "Java/OpenJDK Support Engineer - IN",
+   "company": "ALLPS",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/java-openjdk-support-engineer-in-at-allps-4481888088",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-02T07:54:58.043520Z",
+   "is_new": true
+  },
+  {
+   "id": "4212a78c2184",
+   "title": "L1 Production support: Hyderabad",
+   "company": "Luxoft",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/l1-production-support-hyderabad--hyderabad--e2ffd337bf5dc517600ea10fdcbb78242",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-02T07:54:58.043520Z",
+   "is_new": true
   },
   {
    "id": "c0ee4e553f59",
@@ -615,24 +583,6 @@
    "is_new": false
   },
   {
-   "id": "e3ca454106db",
-   "title": "Technical Support Engineer - Commerce Cloud",
-   "company": "621 Salesforce.com India Private Limited Hyderabad Branch",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "Workday",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Technical-Support-Engineer---Commerce-Cloud_JR353944-1",
-   "posted": "2026-10-14T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "Salesforce"
-   ],
-   "first_seen": "2026-10-19T06:29:32.252213Z",
-   "is_new": false
-  },
-  {
    "id": "742a0efa0f43",
    "title": "Desktop Support Engineer \u2013 Windows & MAC - US Shift",
    "company": "UST",
@@ -652,22 +602,22 @@
    "is_new": false
   },
   {
-   "id": "0b22bd07775e",
-   "title": "Operations Team Leader - Fraud Detection and Investigation",
-   "company": "Goldman Sachs Services Pvt Ltd",
+   "id": "a50ed29b1955",
+   "title": "Desktop & Site Support Engineer",
+   "company": "TP",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
    "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/wealth-management-digital-operations-back-office-f-1311363319",
-   "posted": "2026-10-27T00:00:00.000Z",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/desktop-site-support-engineer-tp-hyderabad--t7xk-908437319",
+   "posted": "2026-10-29T00:00:00.000Z",
    "score": 64,
    "matched": [
-    "L1/L2 support"
+    "Hardware troubleshooting"
    ],
-   "first_seen": "2026-10-18T06:17:40.468795Z",
-   "is_new": false
+   "first_seen": "2026-11-02T07:54:58.043520Z",
+   "is_new": true
   },
   {
    "id": "601d9feead02",
@@ -707,24 +657,6 @@
    "is_new": false
   },
   {
-   "id": "1bdd25cf2c2b",
-   "title": "Associate Technical Support Engineer - Core",
-   "company": "iCims",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "any",
-   "source": "SimplyHired",
-   "url": "https://www.simplyhired.co.in/job/eWdjoE2f-USNjCzfOSq1tGOJgWpbWgL8nK4AQhqDj-tslKW0axH2NQ",
-   "posted": "2026-10-28T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
-  },
-  {
    "id": "e896d3089789",
    "title": "Technical Support Consultant",
    "company": "Focus Softnet",
@@ -740,7 +672,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c2a85ab3567c",
@@ -758,7 +690,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "302792a33f0e",
@@ -776,7 +708,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c05b93d53aa6",
@@ -794,7 +726,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "175fb4ba4d7e",
@@ -812,7 +744,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "774483d41c41",
@@ -956,7 +888,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "374d34f540a9",
@@ -1047,6 +979,24 @@
    "is_new": false
   },
   {
+   "id": "1bdd25cf2c2b",
+   "title": "Associate Technical Support Engineer - Core",
+   "company": "iCIMS",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Foundit",
+   "url": "https://www.foundit.in/job/associate-technical-support-engineer-core-icims-hyderabad-secunderabad-telangana-69641841",
+   "posted": "2026-10-29T00:00:00.000Z",
+   "score": 58,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-10-31T07:17:18.766742Z",
+   "is_new": false
+  },
+  {
    "id": "04c33076ca9b",
    "title": "Technical Support Engineer-Night Shift",
    "company": "CAMP Systems Private Limited",
@@ -1124,7 +1074,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "888754d2aeba",
@@ -1305,7 +1255,7 @@
    "score": 51,
    "matched": [],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "96d16468d92b",
@@ -1355,7 +1305,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d865c431bed5",
@@ -1373,7 +1323,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "cf48ddda4410",
@@ -1411,6 +1361,24 @@
    "is_new": false
   },
   {
+   "id": "ae515d7b76d6",
+   "title": "Network Operations Center - Analyst",
+   "company": "Zelis Healthcare",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/network-operations-center-analyst--hyderabad--e4ec529cd3517b7dfe6068710881837cb",
+   "posted": "2026-10-27T00:00:00.000Z",
+   "score": 39,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-02T07:54:58.043520Z",
+   "is_new": true
+  },
+  {
    "id": "6b1a7d5be824",
    "title": "Payments Risk Analyst",
    "company": "Coinbase India Services Private Limited",
@@ -1424,7 +1392,7 @@
    "score": 38,
    "matched": [],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "ac47076967ba",
@@ -1474,7 +1442,7 @@
     "Azure"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": true
+   "is_new": false
   }
  ]
 }
