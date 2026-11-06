@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:09:22.489435Z",
+ "updated": "2026-11-06T08:13:25.530207Z",
  "sample": false,
  "jobs": [
   {
@@ -26,6 +26,28 @@
    ],
    "first_seen": "2026-10-25T06:29:40.271403Z",
    "is_new": false
+  },
+  {
+   "id": "f3adfefdcbf6",
+   "title": "Technical Associate, Service Desk (5A)",
+   "company": "Genpact",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Classic Jobs",
+   "url": "https://classicjobs.in/blog/genpact-service-desk-associate-hyderabad/",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 95,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-06T08:13:25.530207Z",
+   "is_new": true
   },
   {
    "id": "c226e73aa29f",
@@ -91,27 +113,6 @@
    "is_new": false
   },
   {
-   "id": "8e9e1641a3be",
-   "title": "IT Service Desk QA & Project Coordinator (L1)",
-   "company": "Technology services",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "engineering",
-   "source": "Glassdoor",
-   "url": "https://www.glassdoor.co.in/job-listing/jv?jl=1010302445502",
-   "posted": "2026-10-21T00:00:00.000Z",
-   "score": 82,
-   "matched": [
-    "Active Directory",
-    "Intune",
-    "L1/L2 support",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": false
-  },
-  {
    "id": "2f751ba9584b",
    "title": "Sailpoint Support Engineer (Secunderabad)",
    "company": "MassMutual India",
@@ -168,6 +169,44 @@
     "VPN"
    ],
    "first_seen": "2026-11-05T08:09:22.489435Z",
+   "is_new": false
+  },
+  {
+   "id": "86136d3c1d2c",
+   "title": "Service Desk Level 1 Support Technician (Hyderabad)",
+   "company": "Unisys India Private",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/6726655665558781952",
+   "posted": "2026-11-04T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-06T08:13:25.530207Z",
+   "is_new": true
+  },
+  {
+   "id": "7c603aa6ff9d",
+   "title": "Desktop Support Engineer - L1",
+   "company": "Sysnet Global Technologies Pvt.Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Glassdoor",
+   "url": "https://www.glassdoor.co.in/job-listing/desktop-support-engineer-l1-sysnet-global-technologies-JV_IC2865319_KO0,27_KE28,54.htm?jl=1009956172750",
+   "posted": "2026-11-02T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": true
   },
   {
@@ -342,23 +381,23 @@
    "is_new": false
   },
   {
-   "id": "41faa44d0dbe",
-   "title": "Service Desk Analyst L1 Jobs at Wipro, Hyderabad - Apply Now",
-   "company": "Wipro",
+   "id": "fccb59102273",
+   "title": "Service Desk Specialist (Night Shift)",
+   "company": "Deliveroo",
    "location": "Hyderabad",
    "mode": "onsite",
-   "voice": "nonvoice",
+   "voice": "",
    "degree": "any",
-   "source": "Talentd",
-   "url": "https://www.talentd.in/jobs/service-desk-analyst-l1-jobs-at-wipro-hyderabad-apply-now",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 71,
+   "source": "Jooble",
+   "url": "https://in.jooble.org/rjdp/-1975201165676649539",
+   "posted": "2026-10-30T00:00:00.000Z",
+   "score": 69,
    "matched": [
     "Hardware troubleshooting",
-    "L1/L2 support"
+    "Intune"
    ],
-   "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": false
+   "first_seen": "2026-11-06T08:13:25.530207Z",
+   "is_new": true
   },
   {
    "id": "be0128149978",
@@ -558,7 +597,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "47c987fbc18a",
@@ -653,6 +692,24 @@
    "is_new": false
   },
   {
+   "id": "0bc17d69902f",
+   "title": "IT Support - Hyderabad, Vizag, Tirupati",
+   "company": "Vijaya Diagnostic",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/it-support-hyderabad-vizag-tirupati-67075209",
+   "posted": "2026-10-31T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-04T07:44:45.203758Z",
+   "is_new": false
+  },
+  {
    "id": "8d61f3f3840a",
    "title": "ServiceNow Developer home tutor",
    "company": "TeacherOn.com",
@@ -668,7 +725,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "22bbf18ae604",
@@ -681,24 +738,6 @@
    "source": "Shine",
    "url": "https://www.shine.com/jobs/hiring-for-technical-support-service-desk/izee-manpower-consultancy-pvt-ltd/19998262",
    "posted": "2026-11-03T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
-   "id": "0bc17d69902f",
-   "title": "IT Support - Hyderabad, Vizag, Tirupati",
-   "company": "Vijaya Diagnostic",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/it-support-hyderabad-vizag-tirupati-67075209",
-   "posted": "2026-10-31T00:00:00.000Z",
    "score": 63,
    "matched": [
     "Hardware troubleshooting"
@@ -938,7 +977,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b1a6d11a219a",
@@ -974,24 +1013,6 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-30T07:28:58.581985Z",
-   "is_new": false
-  },
-  {
-   "id": "30444301dfc8",
-   "title": "L 2.5 Support Engineer",
-   "company": "Indium Software",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Glassdoor",
-   "url": "https://www.glassdoor.co.in/job-listing/l25-support-engineer-indium-software-JV_KO0,20_KE21,36.htm?jl=1010143268036",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 61,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-23T06:14:44.737337Z",
    "is_new": false
   },
   {
@@ -1130,7 +1151,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "8b965ee3060d",
@@ -1213,20 +1234,20 @@
    "is_new": false
   },
   {
-   "id": "c2dfc3d49cf2",
-   "title": "Technical Support Engineer - Financial Performance Management Software",
-   "company": "Planful Software India Private Limited",
+   "id": "61344935cd37",
+   "title": "Technical support and service stability",
+   "company": "Tech Mahindra",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/technical-support-engineer-1219836361",
-   "posted": "2026-10-21T00:00:00.000Z",
-   "score": 56,
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/technical-support-and-service-stability--hyderabad--ec0fe565022c5d9b26c515f15d1a5d606",
+   "posted": "2026-11-02T00:00:00.000Z",
+   "score": 55,
    "matched": [],
-   "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": false
+   "first_seen": "2026-11-06T08:13:25.530207Z",
+   "is_new": true
   },
   {
    "id": "73ead8ebad45",
@@ -1242,7 +1263,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "eabc9afc48d9",
@@ -1357,22 +1378,6 @@
    "is_new": false
   },
   {
-   "id": "a8ad4d9b5be0",
-   "title": "Walk-in || Support Engineer (Hyderabad)",
-   "company": "Bharatvoip Communications",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/walk-in-support-engineer-hyderabad/bharatvoip-communications/19866455",
-   "posted": "2026-10-20T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": false
-  },
-  {
    "id": "3fb12e9f2825",
    "title": "Technical Support Specialist",
    "company": "SAI Systems Technologies",
@@ -1391,6 +1396,22 @@
    "is_new": false
   },
   {
+   "id": "2abe2dbcdcd4",
+   "title": "Advanced Technical Support Engineer - APJ, EMEA & AMER Shift - copy",
+   "company": "cyberu",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Cornerstone OnDemand",
+   "url": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11769?c=cornerstone",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 53,
+   "matched": [],
+   "first_seen": "2026-11-06T08:13:25.530207Z",
+   "is_new": true
+  },
+  {
    "id": "b3a5f0f01aa8",
    "title": "Live Ops Support Engineer, Prime Video Live Operations",
    "company": "Amazon",
@@ -1404,7 +1425,7 @@
    "score": 53,
    "matched": [],
    "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "9a1a04935d52",
@@ -1542,25 +1563,6 @@
    "is_new": false
   },
   {
-   "id": "d28044687c4a",
-   "title": "Network and Infrastructure Engineer",
-   "company": "Infosys",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/network-and-infrastructure-engineer/infosys/19863421",
-   "posted": "2026-10-20T00:00:00.000Z",
-   "score": 41,
-   "matched": [
-    "Azure",
-    "VPN"
-   ],
-   "first_seen": "2026-10-23T06:14:44.737337Z",
-   "is_new": false
-  },
-  {
    "id": "ae515d7b76d6",
    "title": "Network Operations Center - Analyst",
    "company": "Zelis Healthcare",
@@ -1642,7 +1644,7 @@
    "score": 33,
    "matched": [],
    "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "8e649552ec1d",
