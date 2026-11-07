@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:13:25.530207Z",
+ "updated": "2026-11-07T07:30:17.571516Z",
  "sample": false,
  "jobs": [
   {
@@ -93,6 +93,27 @@
    "is_new": false
   },
   {
+   "id": "58d6018f2548",
+   "title": "Software Engineer Ii Servicenow & Integration Hub Hyderabad",
+   "company": "Blue Yonder",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Kit Job",
+   "url": "https://www.kitjob.in/job/350361893/software-engineer-ii-servicenow-integration-hub-hyderabad",
+   "posted": "2026-11-04T00:00:00.000Z",
+   "score": 85,
+   "matched": [
+    "Azure",
+    "Microsoft 365",
+    "Salesforce",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": true
+  },
+  {
    "id": "3aa5734634cc",
    "title": "Service Desk Engineer L1",
    "company": "NISC Exports LTD",
@@ -130,26 +151,6 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-02T07:54:58.043520Z",
-   "is_new": false
-  },
-  {
-   "id": "1fcb1a6ce5fd",
-   "title": "Analyst App/prod Support - Servicenow Platform Production Support-tier 1 (Hyderabad)",
-   "company": "Atet",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/8878201940303937536",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 77,
-   "matched": [
-    "Active Directory",
-    "L1/L2 support",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-24T06:09:14.744907Z",
    "is_new": false
   },
   {
@@ -324,6 +325,29 @@
    "is_new": false
   },
   {
+   "id": "c120bb1aab12",
+   "title": "Technical Specialist-Cloud & Infra Engg",
+   "company": "Birlasoft Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Birlasoft",
+   "url": "https://jobs.birlasoft.com/job/Hyderabad-Technical-Specialist-Cloud-&-Infra-Engg-INDI/58698444/",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "Microsoft 365",
+    "VPN"
+   ],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": true
+  },
+  {
    "id": "7a0cb8b30e81",
    "title": "ServiceNow TOSCA & ATF Tester",
    "company": "CGT Solutions",
@@ -398,25 +422,6 @@
    ],
    "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": true
-  },
-  {
-   "id": "be0128149978",
-   "title": "Product Support Engineer - Boomi Hyderabad (India)",
-   "company": "Nameless",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/304058534302056448",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 69,
-   "matched": [
-    "Hardware troubleshooting",
-    "Salesforce"
-   ],
-   "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": false
   },
   {
    "id": "a0fd6a45b543",
@@ -509,24 +514,6 @@
    "is_new": false
   },
   {
-   "id": "89688ffae0be",
-   "title": "Customer Support Associate - L2",
-   "company": "Careers at Tide",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Haystack",
-   "url": "https://haystackapp.io/jobs/26d49434-c769-45af-8ab1-fb9b7c40af8f",
-   "posted": "2026-10-21T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": false
-  },
-  {
    "id": "404c41ab924a",
    "title": "Technical Support Engineer (Immediate Joiner - 30th Oct)",
    "company": "Salesforce, Inc.",
@@ -598,6 +585,24 @@
    ],
    "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
+  },
+  {
+   "id": "317cdffa5354",
+   "title": "Warehouse Management System Support Engineer",
+   "company": "Blue Yonder Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/support-engineer-wms-and-pl-sql-1376319521",
+   "posted": "2026-11-03T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": true
   },
   {
    "id": "47c987fbc18a",
@@ -673,22 +678,21 @@
    "is_new": false
   },
   {
-   "id": "b2be7148702a",
-   "title": "ServiceNow Admin",
-   "company": "Valuelabs",
-   "location": "Secunderabad",
-   "mode": "onsite",
+   "id": "8d61f3f3840a",
+   "title": "ServiceNow Developer home tutor",
+   "company": "TeacherOn.com",
+   "location": "Hyderabad",
+   "mode": "remote",
    "voice": "",
    "degree": "any",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/jdp/8112794584386396844",
-   "posted": "2026-10-20T00:00:00.000Z",
-   "score": 64,
+   "source": "TeacherOn",
+   "url": "https://www.teacheron.com/teacher-job/7sYn",
+   "posted": "2026-11-02T00:00:00.000Z",
+   "score": 63,
    "matched": [
-    "Azure",
     "ServiceNow"
    ],
-   "first_seen": "2026-10-24T06:09:14.744907Z",
+   "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
   },
   {
@@ -707,24 +711,6 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
-   "id": "8d61f3f3840a",
-   "title": "ServiceNow Developer home tutor",
-   "company": "TeacherOn.com",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "TeacherOn",
-   "url": "https://www.teacheron.com/teacher-job/7sYn",
-   "posted": "2026-11-02T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
   },
   {
@@ -1016,22 +1002,20 @@
    "is_new": false
   },
   {
-   "id": "6c8926fb5d62",
-   "title": "MFT / SFTP Support Engineer \u2013 Mainframe || 5+ Years || Hyderabad Only",
-   "company": "A Client of Neerinfo Solutions",
+   "id": "35ad724ec597",
+   "title": "Tech Mahindra is hiring For Trust & Safety (Fraud Analyst)",
+   "company": "Tech Mahindra",
    "location": "Hyderabad",
    "mode": "onsite",
-   "voice": "",
+   "voice": "nonvoice",
    "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/mft-sftp-support-engineer-%E2%80%93-mainframe-5%2B-years-hyderabad-only-at-a-client-of-neerinfo-solutions-4482151104",
-   "posted": "2026-10-21T00:00:00.000Z",
-   "score": 61,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": false
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/tech-mahindra-is-hiring-for-trust-safety-fraud-analyst--hyderabad--eafc3e965e2fd93bc2cf67b59b23910d9",
+   "posted": "2026-11-03T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": true
   },
   {
    "id": "6339ba22e39e",
@@ -1154,6 +1138,22 @@
    "is_new": false
   },
   {
+   "id": "1c53015dcc07",
+   "title": "Investment Technology Support Engineer",
+   "company": "Invesco (india) Private Limited",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/eng-i-ii-eng-run-1527011054",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 56,
+   "matched": [],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": true
+  },
+  {
    "id": "8b965ee3060d",
    "title": "Technical Support Executive - International and Chat",
    "company": "Gratitude Inc",
@@ -1218,22 +1218,6 @@
    "is_new": false
   },
   {
-   "id": "f1471240c063",
-   "title": "Support Engineer II, Selling Partner Experience, Selling Partner Experience - SPECS Invictus",
-   "company": "Amazon",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/support-engineer-ii-selling-partner-experience-selling-partner-experience-specs-invictus-at-amazon-4482728882",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 56,
-   "matched": [],
-   "first_seen": "2026-10-24T06:09:14.744907Z",
-   "is_new": false
-  },
-  {
    "id": "61344935cd37",
    "title": "Technical support and service stability",
    "company": "Tech Mahindra",
@@ -1247,6 +1231,22 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-06T08:13:25.530207Z",
+   "is_new": true
+  },
+  {
+   "id": "a653b7f58d9d",
+   "title": "Warehouse Support Engineer M/F",
+   "company": "Safran Aircraft Engines Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Safran",
+   "url": "https://www.safran-group.com/jobs/india/hyderabad/warehouse-support-engineer-mf-182421",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
    "is_new": true
   },
   {
@@ -1396,22 +1396,6 @@
    "is_new": false
   },
   {
-   "id": "2abe2dbcdcd4",
-   "title": "Advanced Technical Support Engineer - APJ, EMEA & AMER Shift - copy",
-   "company": "cyberu",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Cornerstone OnDemand",
-   "url": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11769?c=cornerstone",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 53,
-   "matched": [],
-   "first_seen": "2026-11-06T08:13:25.530207Z",
-   "is_new": true
-  },
-  {
    "id": "b3a5f0f01aa8",
    "title": "Live Ops Support Engineer, Prime Video Live Operations",
    "company": "Amazon",
@@ -1426,6 +1410,22 @@
    "matched": [],
    "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
+  },
+  {
+   "id": "2abe2dbcdcd4",
+   "title": "Advanced Technical Support Engineer - APJ, EMEA & AMER Shift - copy",
+   "company": "cyberu",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Cornerstone OnDemand",
+   "url": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11769?c=cornerstone",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 53,
+   "matched": [],
+   "first_seen": "2026-11-06T08:13:25.530207Z",
+   "is_new": true
   },
   {
    "id": "9a1a04935d52",
@@ -1529,6 +1529,42 @@
    "is_new": false
   },
   {
+   "id": "de7f6aa8281e",
+   "title": "Source-to-Pay Strategic Support Specialist (Hyderabad)",
+   "company": "Sanofi India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/7090496432695672832",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 46,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": true
+  },
+  {
+   "id": "d145e807642e",
+   "title": "ITSM",
+   "company": "Hr Remedy India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Talent.com",
+   "url": "https://in.talent.com/view?id=644899349567835462",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 45,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": true
+  },
+  {
    "id": "d865c431bed5",
    "title": "IT Consulting/Projects - Systems Administrator II",
    "company": "VR Della It Services",
@@ -1594,22 +1630,6 @@
    "score": 38,
    "matched": [],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": false
-  },
-  {
-   "id": "ac47076967ba",
-   "title": "Service Engineer- UPS",
-   "company": "POWER LINKS",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "SimplyHired",
-   "url": "https://www.simplyhired.co.in/job/5shupJ2fMvN2qljrTns6lM3e3ux1waWOUxx7TNMZPK4sQFLANVPB7w",
-   "posted": "2026-10-17T00:00:00.000Z",
-   "score": 38,
-   "matched": [],
-   "first_seen": "2026-10-24T06:09:14.744907Z",
    "is_new": false
   },
   {
