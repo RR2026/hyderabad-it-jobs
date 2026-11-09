@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:41:38.276381Z",
+ "updated": "2026-11-09T08:21:25.811672Z",
  "sample": false,
  "jobs": [
   {
@@ -45,6 +45,27 @@
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": false
+  },
+  {
+   "id": "98e31ff9ae0a",
+   "title": "Software Engineer - ServiceNow Integrations",
+   "company": "Blue Yonder Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/software-engineer-ii-servicenow-and-integration-hu-1467026338",
+   "posted": "2026-11-03T00:00:00.000Z",
+   "score": 85,
+   "matched": [
+    "Azure",
+    "Microsoft 365",
+    "Salesforce",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-09T08:21:25.811672Z",
+   "is_new": true
   },
   {
    "id": "58d6018f2548",
@@ -106,7 +127,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "2f751ba9584b",
@@ -316,7 +337,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c120bb1aab12",
@@ -408,14 +429,14 @@
    "degree": "any",
    "source": "LinkedIn",
    "url": "https://in.linkedin.com/jobs/view/qa-automation-tier-2-production-support-engineer-at-nforce-one-4485539104",
-   "posted": "2026-11-05T00:00:00.000Z",
+   "posted": "2026-11-04T00:00:00.000Z",
    "score": 69,
    "matched": [
     "Azure",
     "ServiceNow"
    ],
    "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "fccb59102273",
@@ -437,6 +458,60 @@
    "is_new": false
   },
   {
+   "id": "60931ef13bc9",
+   "title": "Technical Support Engineering App Services Dev",
+   "company": "Microsoft",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/technical-support-engineering-app-services-dev-at-microsoft-4487771679",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Azure"
+   ],
+   "first_seen": "2026-11-09T08:21:25.811672Z",
+   "is_new": true
+  },
+  {
+   "id": "dfe92929b41c",
+   "title": "ServiceNow Solution Consultant",
+   "company": "INRY",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/servicenow-solution-consultant-at-inry-4485879276",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-09T08:21:25.811672Z",
+   "is_new": true
+  },
+  {
+   "id": "b268a15ab7c3",
+   "title": "Software Engineer Ii Servicenow & Itsm Hyderabad (India)",
+   "company": "Blue Yonder",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/8023760802840313856",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-09T08:21:25.811672Z",
+   "is_new": true
+  },
+  {
    "id": "39318471b034",
    "title": "Application L2 Support (Insurance Domain Must) _Hyderabad",
    "company": "Techouts",
@@ -452,7 +527,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "a0fd6a45b543",
@@ -871,24 +946,6 @@
    "is_new": false
   },
   {
-   "id": "23c17dbdb3be",
-   "title": "It Support Engineer/System Administration (Secunderabad)",
-   "company": "Aparna Constructions & Estates",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/it-support-engineer-system-administration-secunderabad/aparna-constructions-estates/19901977",
-   "posted": "2026-10-23T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-26T06:39:41.140252Z",
-   "is_new": false
-  },
-  {
    "id": "288aaf4eb1fe",
    "title": "Application Support or IT Support",
    "company": "GLOBEX DIGITAL SOLUTIONS PRIVATE LIMITED",
@@ -922,24 +979,6 @@
     "ServiceNow"
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
-  },
-  {
-   "id": "8deef519e02a",
-   "title": "ServiceNow CMDB Administrator (Hyderabad)",
-   "company": "Important Business",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/servicenow-cmdb-administrator-hyderabad/important-business/19886639?jobtype=cr&position_in_results=6",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-26T06:39:41.140252Z",
    "is_new": false
   },
   {
@@ -1015,6 +1054,54 @@
    "is_new": false
   },
   {
+   "id": "35ad724ec597",
+   "title": "Tech Mahindra is hiring For Trust & Safety (Fraud Analyst)",
+   "company": "Tech Mahindra",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/tech-mahindra-is-hiring-for-trust-safety-fraud-analyst--hyderabad--eafc3e965e2fd93bc2cf67b59b23910d9",
+   "posted": "2026-11-03T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": false
+  },
+  {
+   "id": "21b28383f601",
+   "title": "Transaction Monitoring \u2013 Fraud Detection",
+   "company": "First Meridian Global",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "HiringJet",
+   "url": "https://www.hiringjet.com/transaction-monitoring-fraud-detection-jobs-in-hyderabad-india-first-meridian-global-onsite-b3e74a8e-212f-4c47-82fc-d0b663a19b77",
+   "posted": "2026-11-03T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-11-09T08:21:25.811672Z",
+   "is_new": true
+  },
+  {
+   "id": "574d49d03b2d",
+   "title": "Analyst, FRR, Reported Fraud, OM, UK",
+   "company": "Tide",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Built In",
+   "url": "https://builtin.com/job/analyst-frr-reported-fraud-om-uk/12093214",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-11-09T08:21:25.811672Z",
+   "is_new": true
+  },
+  {
    "id": "e54d1ba565d1",
    "title": "Walk-in | Service Desk Analyst 1",
    "company": "Wipro",
@@ -1028,7 +1115,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "608c189167fd",
@@ -1044,22 +1131,6 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": true
-  },
-  {
-   "id": "35ad724ec597",
-   "title": "Tech Mahindra is hiring For Trust & Safety (Fraud Analyst)",
-   "company": "Tech Mahindra",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/tech-mahindra-is-hiring-for-trust-safety-fraud-analyst--hyderabad--eafc3e965e2fd93bc2cf67b59b23910d9",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-07T07:30:17.571516Z",
    "is_new": false
   },
   {
