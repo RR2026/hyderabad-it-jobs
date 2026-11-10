@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T08:21:25.811672Z",
+ "updated": "2026-11-10T08:38:41.695506Z",
  "sample": false,
  "jobs": [
+  {
+   "id": "2c8dc9916e9b",
+   "title": "Infrastructure Support Engineers Level 1 Hyderabad",
+   "company": "Digital Minds Software Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Kit Job",
+   "url": "https://www.kitjob.in/job/351010462/infrastructure-support-engineers-level-1-hyderabad",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 95,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
+  },
   {
    "id": "f3adfefdcbf6",
    "title": "Technical Associate, Service Desk (5A)",
@@ -65,7 +87,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "58d6018f2548",
@@ -109,6 +131,27 @@
    "is_new": false
   },
   {
+   "id": "fe9823167c6a",
+   "title": "Walk-in | System Administrator / Desktop Support Engineer",
+   "company": "eSolutionsFirst",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/walk-in-system-administrator-desktop-support-engineer--hyderabad--e6642d9fb3efd763f6e4509a927cb73d8",
+   "posted": "2026-11-04T00:00:00.000Z",
+   "score": 81,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "Microsoft 365",
+    "VPN"
+   ],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
+  },
+  {
    "id": "fc55a5c05620",
    "title": "Walk-in | System Administrator / Desktop Support Engineer",
    "company": "eSolutionsFirst LLC",
@@ -130,6 +173,26 @@
    "is_new": false
   },
   {
+   "id": "84865cf958fb",
+   "title": "L3 Platform Support Engineer -AKS/EKS",
+   "company": "EverestDX Inc",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/l3-platform-support-engineer-aks-eks-at-everestdx-inc-4487911553?position=4&pageNum=0&refId=IM2S6%2FFS7bpSTCphoWEH4w%3D%3D&trackingId=L8%2F4uIX3uOZz9f5i01yNJg%3D%3D",
+   "posted": "2026-11-09T14:00:00.000Z",
+   "score": 77,
+   "matched": [
+    "Azure",
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
+  },
+  {
    "id": "2f751ba9584b",
    "title": "Sailpoint Support Engineer (Secunderabad)",
    "company": "MassMutual India",
@@ -147,6 +210,25 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-02T07:54:58.043520Z",
+   "is_new": false
+  },
+  {
+   "id": "86136d3c1d2c",
+   "title": "Service Desk Level 1 Support Technician (Hyderabad)",
+   "company": "Unisys India Private",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/6726655665558781952",
+   "posted": "2026-11-04T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
   },
   {
@@ -179,25 +261,6 @@
    "source": "Glassdoor",
    "url": "https://www.glassdoor.co.in/job-listing/desktop-support-engineer-l1-sysnet-global-technologies-JV_IC2865319_KO0,27_KE28,54.htm?jl=1009956172750",
    "posted": "2026-11-02T00:00:00.000Z",
-   "score": 76,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-06T08:13:25.530207Z",
-   "is_new": false
-  },
-  {
-   "id": "86136d3c1d2c",
-   "title": "Service Desk Level 1 Support Technician (Hyderabad)",
-   "company": "Unisys India Private",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/6726655665558781952",
-   "posted": "2026-11-04T00:00:00.000Z",
    "score": 76,
    "matched": [
     "Hardware troubleshooting",
@@ -401,25 +464,6 @@
    "is_new": false
   },
   {
-   "id": "66d32ebc1829",
-   "title": "Technical Support, Associate Specialist",
-   "company": "blackbaud india",
-   "location": "Secunderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/jdp/1096186992122287828",
-   "posted": "2026-10-23T00:00:00.000Z",
-   "score": 71,
-   "matched": [
-    "MFA",
-    "Salesforce"
-   ],
-   "first_seen": "2026-10-27T06:34:11.476671Z",
-   "is_new": false
-  },
-  {
    "id": "bffc18e30383",
    "title": "QA Automation & Tier 2 Production Support Engineer",
    "company": "NForce One",
@@ -473,7 +517,7 @@
     "Azure"
    ],
    "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "dfe92929b41c",
@@ -491,7 +535,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b268a15ab7c3",
@@ -509,7 +553,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "39318471b034",
@@ -620,22 +664,42 @@
    "is_new": false
   },
   {
-   "id": "404c41ab924a",
-   "title": "Technical Support Engineer (Immediate Joiner - 30th Oct)",
-   "company": "Salesforce, Inc.",
+   "id": "6de6531b2fa4",
+   "title": "Help Desk Analyst Hyderabad (India)",
+   "company": "Verisk Careers | Verisk",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/technical-support-engineer-immediate-joiner-30th-oct--hyderabad--bengaluru--e4160b8c1d854627bd190929704d60b8b",
-   "posted": "2026-10-25T00:00:00.000Z",
-   "score": 68,
+   "degree": "check",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/9143209428286177280",
+   "posted": "2026-11-09T00:00:00.000Z",
+   "score": 67,
    "matched": [
-    "Salesforce"
+    "Hardware troubleshooting",
+    "L1/L2 support"
    ],
-   "first_seen": "2026-10-27T06:34:11.476671Z",
-   "is_new": false
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
+  },
+  {
+   "id": "004db2a76e44",
+   "title": "DC-ACI L2 Engineer | Immediate",
+   "company": "Neev",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/dc-aci-l2-engineer-immediate/neev/20018461",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 65,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
   },
   {
    "id": "742a0efa0f43",
@@ -764,6 +828,24 @@
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": false
+  },
+  {
+   "id": "a48b53782900",
+   "title": "Technical Support Specialist",
+   "company": "Hucon Solutions India Pvt.Ltd.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/technical-support-specialist/hucon-solutions-india-pvtltd/20003423",
+   "posted": "2026-11-03T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
   },
   {
    "id": "22bbf18ae604",
@@ -910,24 +992,6 @@
    "is_new": false
   },
   {
-   "id": "774483d41c41",
-   "title": "Desktop Support Technician",
-   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/desktop-support-technician/svn-systech-india-private-limited/19912199",
-   "posted": "2026-10-23T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-27T06:34:11.476671Z",
-   "is_new": false
-  },
-  {
    "id": "cb187d9f2510",
    "title": "Servicenow Platform Engineering And Support 170155 Hyderabad (India)",
    "company": "ADP",
@@ -998,6 +1062,26 @@
    ],
    "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": false
+  },
+  {
+   "id": "ab50141b6699",
+   "title": "Application Support Specialist",
+   "company": "Kotak Mahindra Bank",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/application-support-specialist-at-kotak-mahindra-bank-4488113630",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 61,
+   "matched": [
+    "Azure",
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
   },
   {
    "id": "93aede03b049",
@@ -1083,7 +1167,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "574d49d03b2d",
@@ -1099,7 +1183,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "e54d1ba565d1",
@@ -1164,6 +1248,24 @@
    "matched": [],
    "first_seen": "2026-11-04T07:44:45.203758Z",
    "is_new": false
+  },
+  {
+   "id": "9fb4315a1dfa",
+   "title": "Support Engineer I",
+   "company": "Arrise Solutions (India) Pvt. Ltd.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/support-engineer-i--hyderabad--ee22d230050eb4ceebf71bb26e2a44525",
+   "posted": "2026-11-08T00:00:00.000Z",
+   "score": 59,
+   "matched": [
+    "Azure"
+   ],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
   },
   {
    "id": "f470de77b328",
@@ -1300,6 +1402,22 @@
    "matched": [],
    "first_seen": "2026-10-31T07:17:18.766742Z",
    "is_new": false
+  },
+  {
+   "id": "86c568cf3a43",
+   "title": "Pe-cx-multi Channel Helpdesk (Hyderabad)",
+   "company": "Cognizant",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/6996599342274445312",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
   },
   {
    "id": "61344935cd37",
@@ -1480,6 +1598,22 @@
    "is_new": false
   },
   {
+   "id": "58f37cfc0ce9",
+   "title": "Support Engineer II \u2013 AI Platform",
+   "company": "Oteemo, Inc",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "SmartRecruiters Jobs",
+   "url": "https://jobs.smartrecruiters.com/OteemoInc/744000160567469-support-engineer-ii-ai-platform",
+   "posted": "2026-11-09T09:00:00.000Z",
+   "score": 53,
+   "matched": [],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
+  },
+  {
    "id": "b3a5f0f01aa8",
    "title": "Live Ops Support Engineer, Prime Video Live Operations",
    "company": "Amazon",
@@ -1613,6 +1747,24 @@
    ],
    "first_seen": "2026-11-07T07:30:17.571516Z",
    "is_new": false
+  },
+  {
+   "id": "a77337faaef7",
+   "title": "IT Technical Field Engineer",
+   "company": "Instawis Networks Private Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/it-technical-field-engineer-111185368",
+   "posted": "2026-11-04T00:00:00.000Z",
+   "score": 45,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-10T08:38:41.695506Z",
+   "is_new": true
   },
   {
    "id": "d145e807642e",
