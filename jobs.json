@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:38:41.695506Z",
+ "updated": "2026-11-11T07:58:43.282584Z",
  "sample": false,
  "jobs": [
   {
@@ -47,28 +47,6 @@
    "is_new": false
   },
   {
-   "id": "c226e73aa29f",
-   "title": "Desktop Support Engineer",
-   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/desktop-support-engineer/svn-systech-india-private-limited/19932976",
-   "posted": "2026-10-26T00:00:00.000Z",
-   "score": 95,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "Microsoft 365",
-    "VPN"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
-  },
-  {
    "id": "98e31ff9ae0a",
    "title": "Software Engineer - ServiceNow Integrations",
    "company": "Blue Yonder Pvt Ltd",
@@ -109,6 +87,26 @@
    ],
    "first_seen": "2026-11-07T07:30:17.571516Z",
    "is_new": false
+  },
+  {
+   "id": "9b7d69a74780",
+   "title": "L1 Support Engineer",
+   "company": "TECEZE",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/l1-support-engineer-at-teceze-4486936991",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 84,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-11T07:58:43.282584Z",
+   "is_new": true
   },
   {
    "id": "3aa5734634cc",
@@ -181,8 +179,8 @@
    "voice": "",
    "degree": "any",
    "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/l3-platform-support-engineer-aks-eks-at-everestdx-inc-4487911553?position=4&pageNum=0&refId=IM2S6%2FFS7bpSTCphoWEH4w%3D%3D&trackingId=L8%2F4uIX3uOZz9f5i01yNJg%3D%3D",
-   "posted": "2026-11-09T14:00:00.000Z",
+   "url": "https://in.linkedin.com/jobs/view/l3-platform-support-engineer-aks-eks-at-everestdx-inc-4487911553",
+   "posted": "2026-11-09T00:00:00.000Z",
    "score": 77,
    "matched": [
     "Azure",
@@ -384,23 +382,42 @@
    "is_new": false
   },
   {
-   "id": "94ddafa954db",
-   "title": "L3 Support Engineer",
-   "company": "Alphacom Systems and Solutions Pvt Ltd",
+   "id": "a9ee74c825bc",
+   "title": "Business Analyst Servicenow Hyderabad (India)",
+   "company": "Tekskills",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
    "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/l3-support-engineer/alphacom-systems-and-solutions-pvt-ltd/20007655",
-   "posted": "2026-11-04T00:00:00.000Z",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/668707064528240640",
+   "posted": "2026-11-09T00:00:00.000Z",
    "score": 71,
    "matched": [
     "Hardware troubleshooting",
-    "L1/L2 support"
+    "ServiceNow"
    ],
-   "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": false
+   "first_seen": "2026-11-11T07:58:43.282584Z",
+   "is_new": true
+  },
+  {
+   "id": "2889da4beb32",
+   "title": "ServiceNow TOSCA & ATF Tester (SIR POD)",
+   "company": "Purview Services",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/servicenow-tosca-atf-tester-sir-pod-purview-services-hyderabad--t7xk-920753154",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Hardware troubleshooting",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-11T07:58:43.282584Z",
+   "is_new": true
   },
   {
    "id": "c120bb1aab12",
@@ -426,6 +443,25 @@
    "is_new": false
   },
   {
+   "id": "94ddafa954db",
+   "title": "L3 Support Engineer",
+   "company": "Alphacom Systems and Solutions Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/l3-support-engineer/alphacom-systems-and-solutions-pvt-ltd/20007655",
+   "posted": "2026-11-04T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-08T07:41:38.276381Z",
+   "is_new": false
+  },
+  {
    "id": "7a0cb8b30e81",
    "title": "ServiceNow TOSCA & ATF Tester",
    "company": "CGT Solutions",
@@ -442,25 +478,6 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-03T08:15:02.931307Z",
-   "is_new": false
-  },
-  {
-   "id": "370bfe795739",
-   "title": "Urgent hiring BIg4 ServiceNow developer CMDB /CSDM (Hyderabad)",
-   "company": "Contactx Resource Management",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Kit Job",
-   "url": "https://www.kitjob.in/job/347496976/urgent-hiring-big4-servicenow-developer-cmdb-csdm-hyderabad",
-   "posted": "2026-10-23T00:00:00.000Z",
-   "score": 71,
-   "matched": [
-    "Azure",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
    "is_new": false
   },
   {
@@ -502,6 +519,24 @@
    "is_new": false
   },
   {
+   "id": "b268a15ab7c3",
+   "title": "Software Engineer Ii Servicenow & Itsm Hyderabad (India)",
+   "company": "Blue Yonder",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/8023760802840313856",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-09T08:21:25.811672Z",
+   "is_new": false
+  },
+  {
    "id": "60931ef13bc9",
    "title": "Technical Support Engineering App Services Dev",
    "company": "Microsoft",
@@ -529,24 +564,6 @@
    "degree": "any",
    "source": "LinkedIn",
    "url": "https://in.linkedin.com/jobs/view/servicenow-solution-consultant-at-inry-4485879276",
-   "posted": "2026-11-06T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": false
-  },
-  {
-   "id": "b268a15ab7c3",
-   "title": "Software Engineer Ii Servicenow & Itsm Hyderabad (India)",
-   "company": "Blue Yonder",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/8023760802840313856",
    "posted": "2026-11-06T00:00:00.000Z",
    "score": 68,
    "matched": [
@@ -628,42 +645,6 @@
    "is_new": false
   },
   {
-   "id": "c0ee4e553f59",
-   "title": "Technical Support Associate",
-   "company": "Blackbaud",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Blackbaud Careers",
-   "url": "https://careers.blackbaud.com/us/en/job/R0014828/Technical-Support-Associate",
-   "posted": "2026-10-26T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "Salesforce"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
-  },
-  {
-   "id": "d490a2f447f0",
-   "title": "Consultant-Servicenow-secops",
-   "company": "NTT DATA Business Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/consultant-servicenow-secops-at-ntt-data-business-solutions-4484077224",
-   "posted": "2026-10-27T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
-  },
-  {
    "id": "6de6531b2fa4",
    "title": "Help Desk Analyst Hyderabad (India)",
    "company": "Verisk Careers | Verisk",
@@ -700,25 +681,6 @@
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
    "is_new": true
-  },
-  {
-   "id": "742a0efa0f43",
-   "title": "Desktop Support Engineer \u2013 Windows & MAC - US Shift",
-   "company": "UST",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/desktop-support-engineer-%E2%80%93-windows-mac-us-shift-at-ust-4481443227",
-   "posted": "2026-10-26T00:00:00.000Z",
-   "score": 65,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
   },
   {
    "id": "428880c91704",
@@ -812,22 +774,40 @@
    "is_new": false
   },
   {
-   "id": "601d9feead02",
-   "title": "PLM Support Engineers-Immediate Joiner",
-   "company": "Tekskills Inc.",
+   "id": "8d61f3f3840a",
+   "title": "ServiceNow Developer home tutor",
+   "company": "TeacherOn.com",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "TeacherOn",
+   "url": "https://www.teacheron.com/teacher-job/7tBZ",
+   "posted": "2026-11-09T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-05T08:09:22.489435Z",
+   "is_new": false
+  },
+  {
+   "id": "3aa9633d8187",
+   "title": "Servicenow Developer \u2014 Itom Discovery / Service Mapping Hyderabad",
+   "company": "CGI",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "check",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/plm-support-engineers-immediate-joiner/tekskills-inc/19920682",
-   "posted": "2026-10-24T00:00:00.000Z",
-   "score": 64,
+   "degree": "any",
+   "source": "Kit Job",
+   "url": "https://www.kitjob.in/job/351018080/servicenow-developer-itom-discovery-service-mapping-hyderabad",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 63,
    "matched": [
-    "L1/L2 support"
+    "ServiceNow"
    ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
+   "first_seen": "2026-11-11T07:58:43.282584Z",
+   "is_new": true
   },
   {
    "id": "a48b53782900",
@@ -863,24 +843,6 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
-   "id": "8d61f3f3840a",
-   "title": "ServiceNow Developer home tutor",
-   "company": "TeacherOn.com",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "TeacherOn",
-   "url": "https://www.teacheron.com/teacher-job/7sYn",
-   "posted": "2026-11-02T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
   },
   {
@@ -1028,42 +990,6 @@
    "is_new": false
   },
   {
-   "id": "5804f8d42eb5",
-   "title": "ServiceNow Administrator",
-   "company": "LIVEC STAFFING SERVICES PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/servicenow-administrator/livec-staffing-services-private-limited/19895672",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
-  },
-  {
-   "id": "c04d68451f60",
-   "title": "ServiceNow CMDB - Immediate Joiner",
-   "company": "Cerebra",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/servicenow-cmdb-immediate-joiner/cerebra/19885707",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-28T07:03:43.997029Z",
-   "is_new": false
-  },
-  {
    "id": "ab50141b6699",
    "title": "Application Support Specialist",
    "company": "Kotak Mahindra Bank",
@@ -1136,6 +1062,22 @@
    ],
    "first_seen": "2026-10-30T07:28:58.581985Z",
    "is_new": false
+  },
+  {
+   "id": "9ec23bb916f9",
+   "title": "Fraud Alert Review Analyst - Bank Payments",
+   "company": "Tide Platform Private Limited",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/analyst-bank-payments-arandi-preventive-fraud-6-mo-1364678499",
+   "posted": "2026-11-09T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-11-11T07:58:43.282584Z",
+   "is_new": true
   },
   {
    "id": "35ad724ec597",
@@ -1322,6 +1264,24 @@
    "is_new": false
   },
   {
+   "id": "9bd4b1283724",
+   "title": "ServiceNow Developer_104366",
+   "company": "MyCareernet",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/servicenow-developer-104366-at-mycareernet-4485803913",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 57,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-11T07:58:43.282584Z",
+   "is_new": true
+  },
+  {
    "id": "254ef1c2a25a",
    "title": "Solution Advisor - ServiceNow SAM Pro",
    "company": "TechAIVV Technologies",
@@ -1404,6 +1364,38 @@
    "is_new": false
   },
   {
+   "id": "bca896f7ebe0",
+   "title": "Technical Support Specialist",
+   "company": "Accentrix Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/technical-support-specialist/accentrix-solutions/20011680",
+   "posted": "2026-11-04T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-11T07:58:43.282584Z",
+   "is_new": true
+  },
+  {
+   "id": "a653b7f58d9d",
+   "title": "Warehouse Support Engineer M/F",
+   "company": "Safran Aircraft Engines Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Safran",
+   "url": "https://www.safran-group.com/jobs/india/hyderabad/warehouse-support-engineer-mf-182421",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-07T07:30:17.571516Z",
+   "is_new": false
+  },
+  {
    "id": "86c568cf3a43",
    "title": "Pe-cx-multi Channel Helpdesk (Hyderabad)",
    "company": "Cognizant",
@@ -1433,22 +1425,6 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-06T08:13:25.530207Z",
-   "is_new": false
-  },
-  {
-   "id": "a653b7f58d9d",
-   "title": "Warehouse Support Engineer M/F",
-   "company": "Safran Aircraft Engines Services",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Safran",
-   "url": "https://www.safran-group.com/jobs/india/hyderabad/warehouse-support-engineer-mf-182421",
-   "posted": "2026-11-06T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-07T07:30:17.571516Z",
    "is_new": false
   },
   {
@@ -1851,6 +1827,22 @@
    "matched": [],
    "first_seen": "2026-11-01T07:48:48.328735Z",
    "is_new": false
+  },
+  {
+   "id": "3dd690221f09",
+   "title": "Service Engineer \u2013 Bio",
+   "company": "Tofflon India Pvt. Ltd.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/service-engineer-%E2%80%93-bio-at-tofflon-india-pvt-ltd-4488705137",
+   "posted": "2026-11-07T00:00:00.000Z",
+   "score": 37,
+   "matched": [],
+   "first_seen": "2026-11-11T07:58:43.282584Z",
+   "is_new": true
   },
   {
    "id": "3659125ebaab",
