@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:58:43.282584Z",
+ "updated": "2026-11-12T08:37:48.565037Z",
  "sample": false,
  "jobs": [
   {
@@ -22,7 +22,7 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f3adfefdcbf6",
@@ -45,6 +45,27 @@
    ],
    "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
+  },
+  {
+   "id": "f78cb0295b08",
+   "title": "Information Technology Support Engineer",
+   "company": "Imaging Endpoints",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/information-technology-support-engineer-at-imaging-endpoints-4486582593",
+   "posted": "2026-11-05T00:00:00.000Z",
+   "score": 87,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
   },
   {
    "id": "98e31ff9ae0a",
@@ -106,7 +127,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "3aa5734634cc",
@@ -147,7 +168,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "fc55a5c05620",
@@ -188,7 +209,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "2f751ba9584b",
@@ -344,23 +365,61 @@
    "is_new": false
   },
   {
-   "id": "ab6464c5c5b7",
-   "title": "Walk-in Drive on 24th Oct  | Help Desk Support Engineer",
-   "company": "Movate",
+   "id": "5353c4b1f858",
+   "title": "Associate Consultant - Service Desk Job",
+   "company": "YASH Technologies",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "nonvoice",
-   "degree": "any",
+   "degree": "check",
    "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/walk-in-drive-on-24th-oct-help-desk-support-engineer-at-movate-4481663647",
-   "posted": "2026-10-23T00:00:00.000Z",
-   "score": 76,
+   "url": "https://in.linkedin.com/jobs/view/associate-consultant-service-desk-job-at-yash-technologies-4488316130",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 72,
    "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
+    "Active Directory",
+    "Hardware troubleshooting"
    ],
-   "first_seen": "2026-10-29T07:25:48.771940Z",
-   "is_new": false
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
+  },
+  {
+   "id": "fab5122b055d",
+   "title": "Technical Support Escalation Engineer",
+   "company": "Microsoft Corporation India Pvt Ltd.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/support-escalation-engineer-csp-1176962076",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "Azure",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
+  },
+  {
+   "id": "b08d72b22ba2",
+   "title": "Specialist - Research IT Technical Support",
+   "company": "MSD",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "MSD Careers",
+   "url": "https://jobs.msd.com/gb/en/job/R415994/Specialist-Research-IT-Technical-Support",
+   "posted": "2026-11-11T00:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
   },
   {
    "id": "25dc926b7220",
@@ -398,7 +457,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "2889da4beb32",
@@ -417,7 +476,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c120bb1aab12",
@@ -517,6 +576,24 @@
    ],
    "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
+  },
+  {
+   "id": "bb6c6bb9cd04",
+   "title": "Technical Support Engineer - Commerce Cloud",
+   "company": "Salesforce.com India Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/technical-support-engineer-commerce-cloud-1953831409",
+   "posted": "2026-11-11T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "Salesforce"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
   },
   {
    "id": "b268a15ab7c3",
@@ -661,7 +738,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "004db2a76e44",
@@ -680,7 +757,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "428880c91704",
@@ -807,7 +884,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "a48b53782900",
@@ -825,7 +902,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "22bbf18ae604",
@@ -972,22 +1049,24 @@
    "is_new": false
   },
   {
-   "id": "288aaf4eb1fe",
-   "title": "Application Support or IT Support",
-   "company": "GLOBEX DIGITAL SOLUTIONS PRIVATE LIMITED",
+   "id": "2c4b883b3b70",
+   "title": "Analyst, EUC",
+   "company": "ICE",
    "location": "Hyderabad",
    "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/application-support-or-it-support/globex-digital-solutions-private-limited/19896078",
-   "posted": "2026-10-22T00:00:00.000Z",
-   "score": 63,
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/analyst-euc-at-ice-4480324508",
+   "posted": "2026-11-06T00:00:00.000Z",
+   "score": 62,
    "matched": [
-    "Hardware troubleshooting"
+    "Active Directory",
+    "Hardware troubleshooting",
+    "VPN"
    ],
-   "first_seen": "2026-10-29T07:25:48.771940Z",
-   "is_new": false
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
   },
   {
    "id": "ab50141b6699",
@@ -1007,7 +1086,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "93aede03b049",
@@ -1064,6 +1143,22 @@
    "is_new": false
   },
   {
+   "id": "18d1bd795468",
+   "title": "Engineer \u2013 Technical Support Broadcast Hyderabad (India)",
+   "company": "Qube Cinema",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/1071465595486076928",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
+  },
+  {
    "id": "9ec23bb916f9",
    "title": "Fraud Alert Review Analyst - Bank Payments",
    "company": "Tide Platform Private Limited",
@@ -1077,7 +1172,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "35ad724ec597",
@@ -1207,7 +1302,7 @@
     "Azure"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f470de77b328",
@@ -1264,6 +1359,24 @@
    "is_new": false
   },
   {
+   "id": "7ee7a329a9b3",
+   "title": "Level 2 Production Support Engineer - Java/Python, Cloud & Agile",
+   "company": "Synechron Technologies",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/l2-production-support-engineer-java-python-cloud-a-1739856546",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 57,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
+  },
+  {
    "id": "9bd4b1283724",
    "title": "ServiceNow Developer_104366",
    "company": "MyCareernet",
@@ -1279,7 +1392,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "254ef1c2a25a",
@@ -1377,7 +1490,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "a653b7f58d9d",
@@ -1409,7 +1522,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "61344935cd37",
@@ -1540,22 +1653,6 @@
    "is_new": false
   },
   {
-   "id": "ec424a08d19d",
-   "title": "Technical Support Associate | Customer Support",
-   "company": "Talent Acquaintance",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/technical-support-associate-customer-support--hyderabad--ebfe5aef4e6ff3fd7a51b23d82c7aa6a8",
-   "posted": "2026-10-25T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-10-29T07:25:48.771940Z",
-   "is_new": false
-  },
-  {
    "id": "3fb12e9f2825",
    "title": "Technical Support Specialist",
    "company": "SAI Systems Technologies",
@@ -1587,7 +1684,7 @@
    "score": 53,
    "matched": [],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b3a5f0f01aa8",
@@ -1740,7 +1837,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d145e807642e",
@@ -1829,6 +1926,22 @@
    "is_new": false
   },
   {
+   "id": "a40a00368f5b",
+   "title": "Technical Voice Support SME",
+   "company": "Gratitude India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Glassdoor",
+   "url": "https://www.glassdoor.co.in/job-listing/jv?jl=1010323038814",
+   "posted": "2026-11-11T00:00:00.000Z",
+   "score": 37,
+   "matched": [],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
+  },
+  {
    "id": "3dd690221f09",
    "title": "Service Engineer \u2013 Bio",
    "company": "Tofflon India Pvt. Ltd.",
@@ -1842,7 +1955,7 @@
    "score": 37,
    "matched": [],
    "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "3659125ebaab",
