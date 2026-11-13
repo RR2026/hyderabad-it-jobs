@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:37:48.565037Z",
+ "updated": "2026-11-13T08:26:35.226968Z",
  "sample": false,
  "jobs": [
   {
@@ -232,6 +232,25 @@
    "is_new": false
   },
   {
+   "id": "902f332168f0",
+   "title": "Servicenow Configuration Analyst",
+   "company": "Experian",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobs | Experian",
+   "url": "https://jobs.experian.com/job/servicenow-configuration-analyst-in-hyderabad-india-jid-6579",
+   "posted": "2026-11-12T00:00:00.000Z",
+   "score": 76,
+   "matched": [
+    "Hardware troubleshooting",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-13T08:26:35.226968Z",
+   "is_new": true
+  },
+  {
    "id": "86136d3c1d2c",
    "title": "Service Desk Level 1 Support Technician (Hyderabad)",
    "company": "Unisys India Private",
@@ -365,25 +384,6 @@
    "is_new": false
   },
   {
-   "id": "5353c4b1f858",
-   "title": "Associate Consultant - Service Desk Job",
-   "company": "YASH Technologies",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/associate-consultant-service-desk-job-at-yash-technologies-4488316130",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 72,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
-  },
-  {
    "id": "fab5122b055d",
    "title": "Technical Support Escalation Engineer",
    "company": "Microsoft Corporation India Pvt Ltd.",
@@ -398,6 +398,25 @@
    "matched": [
     "Azure",
     "Microsoft 365"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": true
+  },
+  {
+   "id": "5353c4b1f858",
+   "title": "Associate Consultant - Service Desk Job",
+   "company": "YASH Technologies",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/associate-consultant-service-desk-job-at-yash-technologies-4488316130",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
    "is_new": true
@@ -576,6 +595,24 @@
    ],
    "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
+  },
+  {
+   "id": "da95f89861eb",
+   "title": "Consultant-Servicenow Presale",
+   "company": "NTT DATA Business Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/consultant-servicenow-presale-at-ntt-data-business-solutions-4489458103",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-13T08:26:35.226968Z",
+   "is_new": true
   },
   {
    "id": "bb6c6bb9cd04",
@@ -758,6 +795,24 @@
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
    "is_new": false
+  },
+  {
+   "id": "b7aa5dac8dff",
+   "title": "Desktop & Site Support Engineer",
+   "company": "TGBPL TP India - IBU",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/MzGt20_XteMibNhouXHIiQrkpcH3O2s_9bv_xDCHs-2MiwsLpMtSbA",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-13T08:26:35.226968Z",
+   "is_new": true
   },
   {
    "id": "428880c91704",
@@ -1031,24 +1086,6 @@
    "is_new": false
   },
   {
-   "id": "cb187d9f2510",
-   "title": "Servicenow Platform Engineering And Support 170155 Hyderabad (India)",
-   "company": "ADP",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/3793799520492453888",
-   "posted": "2026-10-25T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-30T07:28:58.581985Z",
-   "is_new": false
-  },
-  {
    "id": "2c4b883b3b70",
    "title": "Analyst, EUC",
    "company": "ICE",
@@ -1067,6 +1104,24 @@
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
    "is_new": true
+  },
+  {
+   "id": "93aede03b049",
+   "title": "Servicenow Developer",
+   "company": "Inmorphis Services",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/servicenow-developer--hyderabad--bengaluru--ef688fd59819bad1cf7b703dcea58e659",
+   "posted": "2026-11-09T00:00:00.000Z",
+   "score": 61,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-05T08:09:22.489435Z",
+   "is_new": false
   },
   {
    "id": "ab50141b6699",
@@ -1089,24 +1144,6 @@
    "is_new": false
   },
   {
-   "id": "93aede03b049",
-   "title": "Servicenow Developer",
-   "company": "Inmorphis Services",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/servicenow-developer--hyderabad--bengaluru--ef688fd59819bad1cf7b703dcea58e659",
-   "posted": "2026-11-01T00:00:00.000Z",
-   "score": 61,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": false
-  },
-  {
    "id": "b1a6d11a219a",
    "title": "Satellite Communication Support Engineer",
    "company": "Amazon India Limited",
@@ -1125,21 +1162,19 @@
    "is_new": false
   },
   {
-   "id": "374d34f540a9",
-   "title": "ServiceNow SAM Specialist",
-   "company": "Insight Global",
+   "id": "9ec23bb916f9",
+   "title": "Fraud Alert Review Analyst - Bank Payments",
+   "company": "Tide Platform Private Limited",
    "location": "Hyderabad",
    "mode": "remote",
    "voice": "",
    "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/servicenow-sam-specialist-insight-global-hyderabad--t7xk-904432621",
-   "posted": "2026-10-27T00:00:00.000Z",
-   "score": 61,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-10-30T07:28:58.581985Z",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/analyst-bank-payments-arandi-preventive-fraud-6-mo-1364678499",
+   "posted": "2026-11-09T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-11-11T07:58:43.282584Z",
    "is_new": false
   },
   {
@@ -1157,22 +1192,6 @@
    "matched": [],
    "first_seen": "2026-11-12T08:37:48.565037Z",
    "is_new": true
-  },
-  {
-   "id": "9ec23bb916f9",
-   "title": "Fraud Alert Review Analyst - Bank Payments",
-   "company": "Tide Platform Private Limited",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/analyst-bank-payments-arandi-preventive-fraud-6-mo-1364678499",
-   "posted": "2026-11-09T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": false
   },
   {
    "id": "35ad724ec597",
@@ -1573,22 +1592,6 @@
    "is_new": false
   },
   {
-   "id": "103910efd96b",
-   "title": "Fraud and Dispute Analyst",
-   "company": "WINX Consulting Services",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/fraud-and-dispute-analyst/winx-consulting-services/19944084",
-   "posted": "2026-10-27T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-10-30T07:28:58.581985Z",
-   "is_new": false
-  },
-  {
    "id": "7841d2f9bfa9",
    "title": "Fraud Risk Auditor",
    "company": "ARJAVA CONSULTANTS LLP",
@@ -1634,22 +1637,6 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
-  },
-  {
-   "id": "adbb13c21a63",
-   "title": "Fraud Operations Analyst (Hyderabad)",
-   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/7661114517648048128",
-   "posted": "2026-10-26T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-10-30T07:28:58.581985Z",
    "is_new": false
   },
   {
@@ -1786,6 +1773,24 @@
    "is_new": false
   },
   {
+   "id": "29f478ef5bd9",
+   "title": "Technical Solutions Engineer \u2013 SaaS Integrations & APIs",
+   "company": "BrightEdge",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/technical-solutions-engineer-%E2%80%93-saas-integrations-apis-at-brightedge-4489078442",
+   "posted": "2026-11-12T00:00:00.000Z",
+   "score": 50,
+   "matched": [
+    "Salesforce"
+   ],
+   "first_seen": "2026-11-13T08:26:35.226968Z",
+   "is_new": true
+  },
+  {
    "id": "b84bdb01a123",
    "title": "service now - Vulnerability",
    "company": "TymblHub",
@@ -1802,6 +1807,22 @@
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
    "is_new": false
+  },
+  {
+   "id": "f5fd6d7704a4",
+   "title": "Technical Sales & Support Engineer - Hyderabad, AP, Telangana",
+   "company": "Micro-Epsilon India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/technical-sales-support-engineer-hyderabad-ap-telangana-micro-epsilon-india-hyderabad--fj-2459514875",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 49,
+   "matched": [],
+   "first_seen": "2026-11-13T08:26:35.226968Z",
+   "is_new": true
   },
   {
    "id": "de7f6aa8281e",
@@ -1873,22 +1894,6 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": false
-  },
-  {
-   "id": "cf48ddda4410",
-   "title": "SAC Front-End / UX Developer",
-   "company": "Fusion Consulting",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/sac-front-end-ux-developer-at-fusion-consulting-4484444039",
-   "posted": "2026-10-28T00:00:00.000Z",
-   "score": 42,
-   "matched": [],
-   "first_seen": "2026-10-30T07:28:58.581985Z",
    "is_new": false
   },
   {
@@ -1990,6 +1995,22 @@
    "matched": [],
    "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
+  },
+  {
+   "id": "f5063c521326",
+   "title": "Strategic Revenue Management- Trade Architecture (Fixed 15 Months contract role)",
+   "company": "Mars",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Careers At Mars - Mars, Incorporated",
+   "url": "https://careers.mars.com/global/en/job/R171485/Strategic-Revenue-Management-Trade-Architecture-Fixed-15-Months-contract-role",
+   "posted": "2026-11-12T00:00:00.000Z",
+   "score": 31,
+   "matched": [],
+   "first_seen": "2026-11-13T08:26:35.226968Z",
+   "is_new": true
   },
   {
    "id": "8e649552ec1d",
