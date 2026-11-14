@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T08:26:35.226968Z",
+ "updated": "2026-11-14T07:48:38.565805Z",
  "sample": false,
  "jobs": [
   {
@@ -47,6 +47,50 @@
    "is_new": false
   },
   {
+   "id": "2808c537d781",
+   "title": "L2- M365 & Windows Support Engineer",
+   "company": "World Wide Technology",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/l2-m365-windows-support-engineer-world-wide-technology-hyderabad--techmap_in_EFF601737F9143F7BAAE94C054DB2312",
+   "posted": "2026-11-12T00:00:00.000Z",
+   "score": 93,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Intune",
+    "L1/L2 support",
+    "MFA",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-14T07:48:38.565805Z",
+   "is_new": true
+  },
+  {
+   "id": "f3fde282b1fd",
+   "title": "Help Desk Technician",
+   "company": "Kiely Family of Companies",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/help-desk-technician-at-kiely-family-of-companies-4489083409",
+   "posted": "2026-11-12T00:00:00.000Z",
+   "score": 92,
+   "matched": [
+    "Intune",
+    "L1/L2 support",
+    "MFA",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-14T07:48:38.565805Z",
+   "is_new": true
+  },
+  {
    "id": "f78cb0295b08",
    "title": "Information Technology Support Engineer",
    "company": "Imaging Endpoints",
@@ -65,7 +109,7 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "98e31ff9ae0a",
@@ -192,6 +236,26 @@
    "is_new": false
   },
   {
+   "id": "7a939e64de38",
+   "title": "Junior Support Analyst",
+   "company": "Crowe Capability Center - India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/R6xZbdZpBoJF4WhcuKe-BrBIHZVf7bnCmYmBX4myzw5GuSz5oVDeOg",
+   "posted": "2026-11-13T00:00:00.000Z",
+   "score": 80,
+   "matched": [
+    "Azure",
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-14T07:48:38.565805Z",
+   "is_new": true
+  },
+  {
    "id": "84865cf958fb",
    "title": "L3 Platform Support Engineer -AKS/EKS",
    "company": "EverestDX Inc",
@@ -308,44 +372,6 @@
    "is_new": false
   },
   {
-   "id": "9ffcda7ac53b",
-   "title": "Technical Support Representative - Tier 2",
-   "company": "Side",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/technical-support-representative-tier-2-at-side-4483861895",
-   "posted": "2026-10-28T00:00:00.000Z",
-   "score": 76,
-   "matched": [
-    "Microsoft 365",
-    "VPN"
-   ],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
-  },
-  {
-   "id": "286c550b5689",
-   "title": "Technical Support, Associate Specialist",
-   "company": "Blackbaud",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Blackbaud Careers",
-   "url": "https://careers.blackbaud.com/us/en/job/R0014741/Technical-Support-Associate-Specialist",
-   "posted": "2026-10-29T00:00:00.000Z",
-   "score": 76,
-   "matched": [
-    "MFA",
-    "Salesforce"
-   ],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
-  },
-  {
    "id": "8a33654f3116",
    "title": "Service Desk Agent I",
    "company": "Swiss Re",
@@ -384,25 +410,6 @@
    "is_new": false
   },
   {
-   "id": "fab5122b055d",
-   "title": "Technical Support Escalation Engineer",
-   "company": "Microsoft Corporation India Pvt Ltd.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/support-escalation-engineer-csp-1176962076",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 72,
-   "matched": [
-    "Azure",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
-  },
-  {
    "id": "5353c4b1f858",
    "title": "Associate Consultant - Service Desk Job",
    "company": "YASH Technologies",
@@ -419,7 +426,26 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "fab5122b055d",
+   "title": "Technical Support Escalation Engineer",
+   "company": "Microsoft Corporation India Pvt Ltd.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/support-escalation-engineer-csp-1176962076",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "Azure",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": false
   },
   {
    "id": "b08d72b22ba2",
@@ -438,26 +464,26 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "25dc926b7220",
-   "title": "Technical Support Specialist I",
-   "company": "OSI Systems, Inc",
-   "location": "Hyderabad",
+   "id": "66d32ebc1829",
+   "title": "Technical Support, Associate Specialist",
+   "company": "blackbaud india",
+   "location": "Secunderabad",
    "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Osi-Systems.jobs",
-   "url": "https://www.osi-systems.jobs/careers-home/jobs/37861?lang=en-us",
-   "posted": "2026-10-29T00:00:00.000Z",
-   "score": 72,
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/1096186992122287828",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 71,
    "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
+    "MFA",
+    "Salesforce"
    ],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
+   "first_seen": "2026-11-14T07:48:38.565805Z",
+   "is_new": true
   },
   {
    "id": "a9ee74c825bc",
@@ -630,7 +656,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b268a15ab7c3",
@@ -723,24 +749,6 @@
    "is_new": false
   },
   {
-   "id": "37462a90efb8",
-   "title": "Desktop Support Field Engineer Hyderabad (India)",
-   "company": "Voltriq India",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/2374812694638231552",
-   "posted": "2026-10-27T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
-  },
-  {
    "id": "4212a78c2184",
    "title": "L1 Production support: Hyderabad",
    "company": "Luxoft",
@@ -795,6 +803,24 @@
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
    "is_new": false
+  },
+  {
+   "id": "5b33d195fc2b",
+   "title": "Desktop & Site Support Engineer",
+   "company": "Teleperformance",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/desktop-site-support-engineer-teleperformance-hyderabad--fj-2459374769",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-14T07:48:38.565805Z",
+   "is_new": true
   },
   {
    "id": "b7aa5dac8dff",
@@ -1103,7 +1129,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "93aede03b049",
@@ -1191,7 +1217,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "35ad724ec597",
@@ -1360,24 +1386,6 @@
    "is_new": false
   },
   {
-   "id": "1bdd25cf2c2b",
-   "title": "Associate Technical Support Engineer - Core",
-   "company": "iCIMS",
-   "location": "Secunderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Foundit",
-   "url": "https://www.foundit.in/job/associate-technical-support-engineer-core-icims-hyderabad-secunderabad-telangana-69641841",
-   "posted": "2026-10-29T00:00:00.000Z",
-   "score": 58,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
-  },
-  {
    "id": "7ee7a329a9b3",
    "title": "Level 2 Production Support Engineer - Java/Python, Cloud & Agile",
    "company": "Synechron Technologies",
@@ -1393,7 +1401,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "9bd4b1283724",
@@ -1477,22 +1485,6 @@
    "score": 56,
    "matched": [],
    "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
-   "id": "04c33076ca9b",
-   "title": "Technical Support Engineer-Night Shift",
-   "company": "CAMP Systems Private Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/technical-support-engineer-night-shift--hyderabad--efc15aeb5f90fed3d2aade74d49fa93c9",
-   "posted": "2026-10-28T00:00:00.000Z",
-   "score": 56,
-   "matched": [],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
    "is_new": false
   },
   {
@@ -1624,38 +1616,23 @@
    "is_new": false
   },
   {
-   "id": "888754d2aeba",
-   "title": "Support Engineer 1",
-   "company": "Oracle",
+   "id": "ac9e417328d2",
+   "title": "Information Technology Support Specialist",
+   "company": "Freyr Solutions",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/support-engineer-1-at-oracle-4483907743",
-   "posted": "2026-10-31T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
-  },
-  {
-   "id": "3fb12e9f2825",
-   "title": "Technical Support Specialist",
-   "company": "SAI Systems Technologies",
-   "location": "Secunderabad",
-   "mode": "onsite",
-   "voice": "",
    "degree": "check",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/jdp/-4043673265224668746",
-   "posted": "2026-10-27T00:00:00.000Z",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/information-technology-support-specialist-at-freyr-solutions-4489244935",
+   "posted": "2026-11-12T00:00:00.000Z",
    "score": 54,
    "matched": [
-    "Hardware troubleshooting"
+    "Hardware troubleshooting",
+    "Microsoft 365"
    ],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
+   "first_seen": "2026-11-14T07:48:38.565805Z",
+   "is_new": true
   },
   {
    "id": "58f37cfc0ce9",
@@ -1722,25 +1699,6 @@
    "is_new": false
   },
   {
-   "id": "2e5aab6f1a07",
-   "title": "Information Technology Support Specialist",
-   "company": "Artech",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/information-technology-support-specialist-at-artech-4482912684",
-   "posted": "2026-10-26T00:00:00.000Z",
-   "score": 53,
-   "matched": [
-    "Active Directory",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
-   "is_new": false
-  },
-  {
    "id": "041f31888578",
    "title": "Fraud Investigative Analyst",
    "company": "Xforia Technologies",
@@ -1754,22 +1712,6 @@
    "score": 51,
    "matched": [],
    "first_seen": "2026-11-01T07:48:48.328735Z",
-   "is_new": false
-  },
-  {
-   "id": "96d16468d92b",
-   "title": "Product Support Engineer",
-   "company": "Octave Intelligence",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "check",
-   "source": "Glassdoor",
-   "url": "https://www.glassdoor.co.in/job-listing/jv?jl=1010308304262",
-   "posted": "2026-10-27T00:00:00.000Z",
-   "score": 51,
-   "matched": [],
-   "first_seen": "2026-10-31T07:17:18.766742Z",
    "is_new": false
   },
   {
@@ -1906,7 +1848,7 @@
    "degree": "check",
    "source": "JobLeads",
    "url": "https://www.jobleads.com/in/job/network-operations-center-analyst--hyderabad--e4ec529cd3517b7dfe6068710881837cb",
-   "posted": "2026-10-27T00:00:00.000Z",
+   "posted": "2026-11-10T00:00:00.000Z",
    "score": 39,
    "matched": [
     "L1/L2 support"
@@ -1944,7 +1886,7 @@
    "score": 37,
    "matched": [],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "3dd690221f09",
