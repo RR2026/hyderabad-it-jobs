@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:06:53.223982Z",
+ "updated": "2026-11-16T08:15:25.247533Z",
  "sample": false,
  "jobs": [
   {
@@ -22,7 +22,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "2c8dc9916e9b",
@@ -111,6 +111,29 @@
    ],
    "first_seen": "2026-11-14T07:48:38.565805Z",
    "is_new": false
+  },
+  {
+   "id": "709ae3cd32cc",
+   "title": "Technical Service Desk Analyst L1",
+   "company": "Unisys",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "Foundit",
+   "url": "https://www.foundit.in/job/technical-service-desk-analyst-l1-unisys-hyderabad-secunderabad-telangana-69810830",
+   "posted": "2026-11-14T00:00:00.000Z",
+   "score": 91,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "Microsoft 365",
+    "ServiceNow",
+    "VPN"
+   ],
+   "first_seen": "2026-11-16T08:15:25.247533Z",
+   "is_new": true
   },
   {
    "id": "f78cb0295b08",
@@ -298,26 +321,6 @@
    "is_new": false
   },
   {
-   "id": "2f751ba9584b",
-   "title": "Sailpoint Support Engineer (Secunderabad)",
-   "company": "MassMutual India",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/sailpoint-support-engineer-secunderabad/massmutual-india/19966092",
-   "posted": "2026-10-30T00:00:00.000Z",
-   "score": 77,
-   "matched": [
-    "Active Directory",
-    "Azure",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-02T07:54:58.043520Z",
-   "is_new": false
-  },
-  {
    "id": "286c550b5689",
    "title": "Technical Support, Associate Specialist",
    "company": "Blackbaud",
@@ -334,7 +337,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "902f332168f0",
@@ -413,23 +416,23 @@
    "is_new": false
   },
   {
-   "id": "8a33654f3116",
-   "title": "Service Desk Agent I",
-   "company": "Swiss Re",
+   "id": "6d40bfe60d9b",
+   "title": "Service Desk Engineer Pan India Wfo Hyderabad",
+   "company": "Shivoham InfoSolutions",
    "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/jdp/6634986084466725620",
-   "posted": "2026-10-28T00:00:00.000Z",
-   "score": 76,
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Kit Job",
+   "url": "https://www.kitjob.in/job/352681264/service-desk-engineer-pan-india-wfo-hyderabad",
+   "posted": "2026-11-13T00:00:00.000Z",
+   "score": 72,
    "matched": [
-    "L1/L2 support",
-    "ServiceNow"
+    "Hardware troubleshooting",
+    "L1/L2 support"
    ],
-   "first_seen": "2026-11-02T07:54:58.043520Z",
-   "is_new": false
+   "first_seen": "2026-11-16T08:15:25.247533Z",
+   "is_new": true
   },
   {
    "id": "fab5122b055d",
@@ -446,6 +449,25 @@
    "matched": [
     "Azure",
     "Microsoft 365"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": false
+  },
+  {
+   "id": "b08d72b22ba2",
+   "title": "Specialist - Research IT Technical Support",
+   "company": "MSD",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "MSD Careers",
+   "url": "https://jobs.msd.com/gb/en/job/R415994/Specialist-Research-IT-Technical-Support",
+   "posted": "2026-11-11T00:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "L1/L2 support",
+    "ServiceNow"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
    "is_new": false
@@ -470,23 +492,23 @@
    "is_new": false
   },
   {
-   "id": "b08d72b22ba2",
-   "title": "Specialist - Research IT Technical Support",
-   "company": "MSD",
+   "id": "aaca5da827a4",
+   "title": "Technical Support Specialist - Troubleshooting, Windows, Microsoft 365",
+   "company": "LIVEC STAFFING SERVICES PRIVATE LIMITED",
    "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "check",
-   "source": "MSD Careers",
-   "url": "https://jobs.msd.com/gb/en/job/R415994/Specialist-Research-IT-Technical-Support",
-   "posted": "2026-11-11T00:00:00.000Z",
-   "score": 72,
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/technical-support-specialist-troubleshooting-windows-microsoft/livec-staffing-services-private-limited/20071064",
+   "posted": "2026-11-14T00:00:00.000Z",
+   "score": 71,
    "matched": [
-    "L1/L2 support",
-    "ServiceNow"
+    "Hardware troubleshooting",
+    "Microsoft 365"
    ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
+   "first_seen": "2026-11-16T08:15:25.247533Z",
+   "is_new": true
   },
   {
    "id": "66d32ebc1829",
@@ -645,6 +667,24 @@
    "is_new": false
   },
   {
+   "id": "80003914a075",
+   "title": "Technical Support Executive (PST Shift)",
+   "company": "Techdome",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/_NcYPbE-kC43EXbFMyPdMNFVkVIXkSKlUTQZdAVyVrs4TdXhywC7Vg",
+   "posted": "2026-11-16T05:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-16T08:15:25.247533Z",
+   "is_new": true
+  },
+  {
    "id": "da95f89861eb",
    "title": "Consultant-Servicenow Presale",
    "company": "NTT DATA Business Solutions",
@@ -750,42 +790,6 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": false
-  },
-  {
-   "id": "a0fd6a45b543",
-   "title": "Java/OpenJDK Support Engineer - IN",
-   "company": "ALLPS",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/java-openjdk-support-engineer-in-at-allps-4481888088",
-   "posted": "2026-10-27T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-02T07:54:58.043520Z",
-   "is_new": false
-  },
-  {
-   "id": "4212a78c2184",
-   "title": "L1 Production support: Hyderabad",
-   "company": "Luxoft",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/l1-production-support-hyderabad--hyderabad--e2ffd337bf5dc517600ea10fdcbb78242",
-   "posted": "2026-10-27T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-02T07:54:58.043520Z",
    "is_new": false
   },
   {
@@ -936,22 +940,22 @@
    "is_new": false
   },
   {
-   "id": "a50ed29b1955",
-   "title": "Desktop & Site Support Engineer",
-   "company": "TP",
+   "id": "a694a5fcd2a6",
+   "title": "Technical Support Associate \u2013 Global  Process",
+   "company": "Gratitude Inc",
    "location": "Hyderabad",
    "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/desktop-site-support-engineer-tp-hyderabad--t7xk-908437319",
-   "posted": "2026-10-29T00:00:00.000Z",
-   "score": 64,
+   "voice": "voice",
+   "degree": "any",
+   "source": "MyGlit ATS",
+   "url": "https://myglit.com/india/job/gratitude-india-technical-support-associate-global-voice-process-hyderabad-0BZ6",
+   "posted": "2026-11-11T00:00:00.000Z",
+   "score": 63,
    "matched": [
-    "Hardware troubleshooting"
+    "L1/L2 support"
    ],
-   "first_seen": "2026-11-02T07:54:58.043520Z",
-   "is_new": false
+   "first_seen": "2026-11-16T08:15:25.247533Z",
+   "is_new": true
   },
   {
    "id": "8d61f3f3840a",
@@ -1131,7 +1135,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "4e9e7df0edf2",
@@ -1147,7 +1151,7 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "18d1bd795468",
@@ -1293,7 +1297,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "24e9fda74378",
@@ -1311,7 +1315,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "9fb4315a1dfa",
@@ -1698,7 +1702,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f5fd6d7704a4",
@@ -1771,24 +1775,6 @@
    "is_new": false
   },
   {
-   "id": "ae515d7b76d6",
-   "title": "Network Operations Center - Analyst",
-   "company": "Zelis Healthcare",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/network-operations-center-analyst--hyderabad--e4ec529cd3517b7dfe6068710881837cb",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 39,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-02T07:54:58.043520Z",
-   "is_new": false
-  },
-  {
    "id": "a40a00368f5b",
    "title": "Technical Voice Support SME",
    "company": "Gratitude India",
@@ -1834,7 +1820,7 @@
    "score": 33,
    "matched": [],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "418f069da560",
