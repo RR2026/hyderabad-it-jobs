@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:15:25.247533Z",
+ "updated": "2026-11-17T09:29:48.896826Z",
  "sample": false,
  "jobs": [
   {
@@ -133,7 +133,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-16T08:15:25.247533Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f78cb0295b08",
@@ -416,6 +416,25 @@
    "is_new": false
   },
   {
+   "id": "5353c4b1f858",
+   "title": "Associate Consultant - Service Desk Job",
+   "company": "YASH Technologies",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/associate-consultant-service-desk-job-at-yash-technologies-4488316130",
+   "posted": "2026-11-10T00:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-12T08:37:48.565037Z",
+   "is_new": false
+  },
+  {
    "id": "6d40bfe60d9b",
    "title": "Service Desk Engineer Pan India Wfo Hyderabad",
    "company": "Shivoham InfoSolutions",
@@ -432,7 +451,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-16T08:15:25.247533Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "fab5122b055d",
@@ -473,25 +492,6 @@
    "is_new": false
   },
   {
-   "id": "5353c4b1f858",
-   "title": "Associate Consultant - Service Desk Job",
-   "company": "YASH Technologies",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/associate-consultant-service-desk-job-at-yash-technologies-4488316130",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 72,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
    "id": "aaca5da827a4",
    "title": "Technical Support Specialist - Troubleshooting, Windows, Microsoft 365",
    "company": "LIVEC STAFFING SERVICES PRIVATE LIMITED",
@@ -508,7 +508,7 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-11-16T08:15:25.247533Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "66d32ebc1829",
@@ -610,25 +610,6 @@
    "is_new": false
   },
   {
-   "id": "7a0cb8b30e81",
-   "title": "ServiceNow TOSCA & ATF Tester",
-   "company": "CGT Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/servicenow-tosca-atf-tester-at-cgt-solutions-4485716698",
-   "posted": "2026-11-02T13:00:00.000Z",
-   "score": 71,
-   "matched": [
-    "Hardware troubleshooting",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-03T08:15:02.931307Z",
-   "is_new": false
-  },
-  {
    "id": "bffc18e30383",
    "title": "QA Automation & Tier 2 Production Support Engineer",
    "company": "NForce One",
@@ -676,13 +657,13 @@
    "degree": "any",
    "source": "SimplyHired",
    "url": "https://www.simplyhired.co.in/job/_NcYPbE-kC43EXbFMyPdMNFVkVIXkSKlUTQZdAVyVrs4TdXhywC7Vg",
-   "posted": "2026-11-16T05:00:00.000Z",
+   "posted": "2026-11-16T00:00:00.000Z",
    "score": 68,
    "matched": [
     "L1/L2 support"
    ],
    "first_seen": "2026-11-16T08:15:25.247533Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "da95f89861eb",
@@ -955,6 +936,24 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-16T08:15:25.247533Z",
+   "is_new": false
+  },
+  {
+   "id": "202ca0ff186e",
+   "title": "Desktop Support Engineer - Technical Support, IT Support, Remote Support",
+   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/desktop-support-engineer-technical-support-it-support-remote-support/svn-systech-india-private-limited/20059277",
+   "posted": "2026-11-11T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-17T09:29:48.896826Z",
    "is_new": true
   },
   {
@@ -1106,22 +1105,6 @@
    "is_new": false
   },
   {
-   "id": "9ec23bb916f9",
-   "title": "Fraud Alert Review Analyst - Bank Payments",
-   "company": "Tide Platform Private Limited",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/analyst-bank-payments-arandi-preventive-fraud-6-mo-1364678499",
-   "posted": "2026-11-09T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": false
-  },
-  {
    "id": "e564bfa064f9",
    "title": "Analyst, Enforcement and Reporting (Fraud Reporting)",
    "company": "Tide Software BV",
@@ -1151,6 +1134,22 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-15T08:06:53.223982Z",
+   "is_new": false
+  },
+  {
+   "id": "9ec23bb916f9",
+   "title": "Fraud Alert Review Analyst - Bank Payments",
+   "company": "Tide Platform Private Limited",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/analyst-bank-payments-arandi-preventive-fraud-6-mo-1364678499",
+   "posted": "2026-11-09T00:00:00.000Z",
+   "score": 60,
+   "matched": [],
+   "first_seen": "2026-11-11T07:58:43.282584Z",
    "is_new": false
   },
   {
@@ -1250,22 +1249,6 @@
    "is_new": false
   },
   {
-   "id": "6339ba22e39e",
-   "title": "Fraud Data Scientist (Hyderabad)",
-   "company": "Straive",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/fraud-data-scientist-hyderabad/straive/19989191",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-03T08:15:02.931307Z",
-   "is_new": false
-  },
-  {
    "id": "0ce678dad87b",
    "title": "Walk-in || Hiring For Technical Support Engineer and PMO",
    "company": "Suja Associates",
@@ -1354,24 +1337,6 @@
    "is_new": false
   },
   {
-   "id": "a15f74eb69a8",
-   "title": "Product Support Engineer Hyderabad (India)",
-   "company": "Pi Square Technologies",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/7654668218413350912",
-   "posted": "2026-10-31T00:00:00.000Z",
-   "score": 59,
-   "matched": [
-    "Azure"
-   ],
-   "first_seen": "2026-11-03T08:15:02.931307Z",
-   "is_new": false
-  },
-  {
    "id": "7ee7a329a9b3",
    "title": "Level 2 Production Support Engineer - Java/Python, Cloud & Agile",
    "company": "Synechron Technologies",
@@ -1442,22 +1407,6 @@
    "is_new": false
   },
   {
-   "id": "8b965ee3060d",
-   "title": "Technical Support Executive - International and Chat",
-   "company": "Gratitude Inc",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "check",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/jdp/-5961558031398203263",
-   "posted": "2026-10-31T00:00:00.000Z",
-   "score": 56,
-   "matched": [],
-   "first_seen": "2026-11-03T08:15:02.931307Z",
-   "is_new": false
-  },
-  {
    "id": "d061b79e1eeb",
    "title": "International Technical Support Executive - & Chat*",
    "company": "Gratitude Inc",
@@ -1472,6 +1421,22 @@
    "matched": [],
    "first_seen": "2026-11-04T07:44:45.203758Z",
    "is_new": false
+  },
+  {
+   "id": "0ef3e0bff565",
+   "title": "Customer Service Executive / Technical Support Executive",
+   "company": "Gratitude India",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/TgALq4NbEVjNyQlRpZi8YCgZsZB5rNk0BzA-FHcDz4YNAu-r3C0KUw",
+   "posted": "2026-11-12T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-17T09:29:48.896826Z",
+   "is_new": true
   },
   {
    "id": "bca896f7ebe0",
@@ -1554,38 +1519,6 @@
    "is_new": false
   },
   {
-   "id": "eabc9afc48d9",
-   "title": "Fraud Analyst",
-   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/fraud-analyst/converse-placement-services-india-private-limited/19955161",
-   "posted": "2026-10-29T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-03T08:15:02.931307Z",
-   "is_new": false
-  },
-  {
-   "id": "7841d2f9bfa9",
-   "title": "Fraud Risk Auditor",
-   "company": "ARJAVA CONSULTANTS LLP",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/fraud-risk-auditor/arjava-consultants-llp/19969536",
-   "posted": "2026-10-30T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-03T08:15:02.931307Z",
-   "is_new": false
-  },
-  {
    "id": "ac9e417328d2",
    "title": "Information Technology Support Specialist",
    "company": "Freyr Solutions",
@@ -1653,19 +1586,55 @@
    "is_new": false
   },
   {
-   "id": "9a1a04935d52",
-   "title": "KYC & CARD FRAUD",
-   "company": "Converse Placement Services India Private Limited",
-   "location": "Secunderabad",
+   "id": "1898393b4c80",
+   "title": "Fraud Analyst Hyderabad (India)",
+   "company": "Buzzworks Business Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/879983583924584448",
+   "posted": "2026-11-14T00:00:00.000Z",
+   "score": 51,
+   "matched": [],
+   "first_seen": "2026-11-17T09:29:48.896826Z",
+   "is_new": true
+  },
+  {
+   "id": "b08207fd9c6a",
+   "title": "Research EngineerScientist",
+   "company": "ServiceNow",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "Talent.com",
+   "url": "https://in.talent.com/view?id=646298226647697938",
+   "posted": "2026-11-16T00:00:00.000Z",
+   "score": 50,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-17T09:29:48.896826Z",
+   "is_new": true
+  },
+  {
+   "id": "2d83a844f2a0",
+   "title": "Application Development Engineer",
+   "company": "SERVICENOW SOFTWARE DEVELOPMENT INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
    "degree": "any",
-   "source": "Foundit",
-   "url": "https://www.foundit.in/job/kyc-card-fraud-converse-placement-services-india-private-limited-hyderabad-secunderabad-telangana-69620662",
-   "posted": "2026-10-28T00:00:00.000Z",
-   "score": 53,
-   "matched": [],
-   "first_seen": "2026-11-03T08:15:02.931307Z",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/applications-dev-engineer-1557719574",
+   "posted": "2026-11-12T00:00:00.000Z",
+   "score": 50,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-15T08:06:53.223982Z",
    "is_new": false
   },
   {
@@ -1684,24 +1653,6 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-13T08:26:35.226968Z",
-   "is_new": false
-  },
-  {
-   "id": "2d83a844f2a0",
-   "title": "Application Development Engineer",
-   "company": "SERVICENOW SOFTWARE DEVELOPMENT INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/applications-dev-engineer-1557719574",
-   "posted": "2026-11-12T00:00:00.000Z",
-   "score": 50,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-15T08:06:53.223982Z",
    "is_new": false
   },
   {
@@ -1773,6 +1724,22 @@
    ],
    "first_seen": "2026-11-07T07:30:17.571516Z",
    "is_new": false
+  },
+  {
+   "id": "bafc8cbf08af",
+   "title": "Service Engineer & Drive Expert",
+   "company": "XPEEDAS INDUSTRIAL AUTOMATION TECHNOLOGIES",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "NextHire",
+   "url": "https://www.nexthireconsulting.com/jobs/view/service-engineer-drive-expert-at-xpeedas-industrial-automation-technologies-dkqwbxv2dy/",
+   "posted": "2026-11-15T00:00:00.000Z",
+   "score": 37,
+   "matched": [],
+   "first_seen": "2026-11-17T09:29:48.896826Z",
+   "is_new": true
   },
   {
    "id": "a40a00368f5b",
@@ -1852,22 +1819,6 @@
    "score": 31,
    "matched": [],
    "first_seen": "2026-11-13T08:26:35.226968Z",
-   "is_new": false
-  },
-  {
-   "id": "8e649552ec1d",
-   "title": "Process Coordinator - Blackline Admin",
-   "company": "IFF Family of Companies",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "check",
-   "source": "Built In",
-   "url": "https://builtin.com/job/process-coordinator-blackline-admin/12009168",
-   "posted": "2026-11-02T00:00:00.000Z",
-   "score": 31,
-   "matched": [],
-   "first_seen": "2026-11-03T08:15:02.931307Z",
    "is_new": false
   }
  ]
