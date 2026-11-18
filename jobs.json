@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T09:29:48.896826Z",
+ "updated": "2026-11-18T08:49:52.732512Z",
  "sample": false,
  "jobs": [
   {
@@ -67,6 +67,29 @@
    ],
    "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
+  },
+  {
+   "id": "7f990e99a87d",
+   "title": "End User Support Specialist",
+   "company": "Navsan",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/end-user-support-specialist-at-navsan-4490273727",
+   "posted": "2026-11-16T00:00:00.000Z",
+   "score": 93,
+   "matched": [
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "MFA",
+    "Microsoft 365",
+    "VPN"
+   ],
+   "first_seen": "2026-11-18T08:49:52.732512Z",
+   "is_new": true
   },
   {
    "id": "2808c537d781",
@@ -219,26 +242,6 @@
    "is_new": false
   },
   {
-   "id": "3aa5734634cc",
-   "title": "Service Desk Engineer L1",
-   "company": "NISC Exports LTD",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Glassdoor",
-   "url": "https://www.glassdoor.co.in/job-listing/jv?jl=1010315435941",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 84,
-   "matched": [
-    "Hardware troubleshooting",
-    "Intune",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
    "id": "fe9823167c6a",
    "title": "Walk-in | System Administrator / Desktop Support Engineer",
    "company": "eSolutionsFirst",
@@ -299,6 +302,26 @@
    ],
    "first_seen": "2026-11-14T07:48:38.565805Z",
    "is_new": false
+  },
+  {
+   "id": "737aca468de1",
+   "title": "EUC - Remote Desktop Support Engineer - Virtual Drive 19th Nov",
+   "company": "Cerebra",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/euc-remote-desktop-support-engineer-virtual-drive-19th-nov-cerebra-hyderabad--t7xk-948446291",
+   "posted": "2026-11-17T00:00:00.000Z",
+   "score": 77,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-18T08:49:52.732512Z",
+   "is_new": true
   },
   {
    "id": "84865cf958fb",
@@ -884,43 +907,6 @@
    "is_new": false
   },
   {
-   "id": "47c987fbc18a",
-   "title": "Service Desk Specialist",
-   "company": "Deliveroo",
-   "location": "Secunderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Foundit",
-   "url": "https://www.foundit.in/job/service-desk-specialist-deliveroo-hyderabad-secunderabad-telangana-69662199",
-   "posted": "2026-10-31T00:00:00.000Z",
-   "score": 64,
-   "matched": [
-    "Hardware troubleshooting",
-    "Intune"
-   ],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
-   "id": "4553ac999bd0",
-   "title": "Service Desk Associate",
-   "company": "Zelis Healthcare",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/service-desk-associate--hyderabad--e13946b5deefe9e3ebd1c01d01fe0100f",
-   "posted": "2026-11-01T00:00:00.000Z",
-   "score": 64,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
    "id": "a694a5fcd2a6",
    "title": "Technical Support Associate \u2013 Global  Process",
    "company": "Gratitude Inc",
@@ -1008,42 +994,6 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": false
-  },
-  {
-   "id": "22bbf18ae604",
-   "title": "Hiring for Technical Support/ Service desk",
-   "company": "IZEE MANPOWER CONSULTANCY PVT LTD",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/hiring-for-technical-support-service-desk/izee-manpower-consultancy-pvt-ltd/19998262",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
-   "id": "0bc17d69902f",
-   "title": "IT Support - Hyderabad, Vizag, Tirupati",
-   "company": "Vijaya Diagnostic",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/it-support-hyderabad-vizag-tirupati-67075209",
-   "posted": "2026-10-31T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
    "is_new": false
   },
   {
@@ -1249,22 +1199,6 @@
    "is_new": false
   },
   {
-   "id": "0ce678dad87b",
-   "title": "Walk-in || Hiring For Technical Support Engineer and PMO",
-   "company": "Suja Associates",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/walk-in-hiring-for-technical-support-engineer-and-pmo-suja-associates-hyderabad--t7xk-917099706",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
-  },
-  {
    "id": "b06ff1b18f84",
    "title": "Support Engineer III, BXT",
    "company": "Amazon Railings",
@@ -1316,24 +1250,6 @@
     "Azure"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": false
-  },
-  {
-   "id": "f470de77b328",
-   "title": "Support Engineer I Hyderabad (India)",
-   "company": "Arrise Solutions India Private",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/7889665876545241088",
-   "posted": "2026-10-30T00:00:00.000Z",
-   "score": 59,
-   "matched": [
-    "Azure"
-   ],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
    "is_new": false
   },
   {
@@ -1407,20 +1323,20 @@
    "is_new": false
   },
   {
-   "id": "d061b79e1eeb",
-   "title": "International Technical Support Executive - & Chat*",
-   "company": "Gratitude Inc",
+   "id": "0b6bf7b2dec1",
+   "title": "Junior Technical Support Associate - Fresher",
+   "company": "Educase India",
    "location": "Hyderabad",
    "mode": "onsite",
-   "voice": "voice",
-   "degree": "check",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/jdp/3689394681490200213",
-   "posted": "2026-10-31T00:00:00.000Z",
-   "score": 56,
+   "voice": "",
+   "degree": "any",
+   "source": "Internshala",
+   "url": "https://internshala.com/job/detail/fresher-junior-technical-support-associate-job-in-hyderabad-at-educase-india1794678625",
+   "posted": "2026-11-14T00:00:00.000Z",
+   "score": 55,
    "matched": [],
-   "first_seen": "2026-11-04T07:44:45.203758Z",
-   "is_new": false
+   "first_seen": "2026-11-18T08:49:52.732512Z",
+   "is_new": true
   },
   {
    "id": "0ef3e0bff565",
@@ -1538,6 +1454,22 @@
    "is_new": false
   },
   {
+   "id": "6867845187bb",
+   "title": "App Dev & Support Engineer II",
+   "company": "Conduent",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/app-dev-support-engineer-ii-at-conduent-4483316097",
+   "posted": "2026-11-14T00:00:00.000Z",
+   "score": 53,
+   "matched": [],
+   "first_seen": "2026-11-18T08:49:52.732512Z",
+   "is_new": true
+  },
+  {
    "id": "58f37cfc0ce9",
    "title": "Support Engineer II \u2013 AI Platform",
    "company": "Oteemo, Inc",
@@ -1584,6 +1516,22 @@
    "matched": [],
    "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
+  },
+  {
+   "id": "36a4a2453657",
+   "title": "Service Desk Trainer \u2013 US Process",
+   "company": "HTC Global Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/service-desk-trainer-%E2%80%93-us-process-at-htc-global-services-4490960374",
+   "posted": "2026-11-17T00:00:00.000Z",
+   "score": 51,
+   "matched": [],
+   "first_seen": "2026-11-18T08:49:52.732512Z",
+   "is_new": true
   },
   {
    "id": "1898393b4c80",
@@ -1724,6 +1672,25 @@
    ],
    "first_seen": "2026-11-07T07:30:17.571516Z",
    "is_new": false
+  },
+  {
+   "id": "8fe2f81438a7",
+   "title": "Virtual Desktop Engineer",
+   "company": "Macquarie Group",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/virtual-desktop-engineer-at-macquarie-group-4490298822",
+   "posted": "2026-11-16T00:00:00.000Z",
+   "score": 41,
+   "matched": [
+    "Azure",
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-18T08:49:52.732512Z",
+   "is_new": true
   },
   {
    "id": "bafc8cbf08af",
