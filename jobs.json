@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:49:52.732512Z",
+ "updated": "2026-11-19T09:04:31.406235Z",
  "sample": false,
  "jobs": [
   {
@@ -89,7 +89,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-18T08:49:52.732512Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "2808c537d781",
@@ -321,7 +321,7 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-11-18T08:49:52.732512Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "84865cf958fb",
@@ -398,25 +398,6 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-06T08:13:25.530207Z",
-   "is_new": false
-  },
-  {
-   "id": "73ebcba1f706",
-   "title": "Desktop Support Engineer Field Work Hyderabad (India)",
-   "company": "Acute Informatics",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/7213772302012383232",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 76,
-   "matched": [
-    "Hardware troubleshooting",
-    "VPN"
-   ],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
   },
   {
@@ -671,6 +652,24 @@
    "is_new": false
   },
   {
+   "id": "d490a2f447f0",
+   "title": "Consultant-Servicenow-secops",
+   "company": "NTT DATA Business Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/consultant-servicenow-secops-at-ntt-data-business-solutions-4484077224",
+   "posted": "2026-11-18T11:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-19T09:04:31.406235Z",
+   "is_new": true
+  },
+  {
    "id": "80003914a075",
    "title": "Technical Support Executive (PST Shift)",
    "company": "Techdome",
@@ -871,24 +870,6 @@
    "is_new": false
   },
   {
-   "id": "428880c91704",
-   "title": "Service Desk Engineer",
-   "company": "Virginia Transformer Corp",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/service-desk-engineer-at-virginia-transformer-corp-4487233446",
-   "posted": "2026-11-04T00:00:00.000Z",
-   "score": 64,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": false
-  },
-  {
    "id": "317cdffa5354",
    "title": "Warehouse Management System Support Engineer",
    "company": "Blue Yonder Pvt Ltd",
@@ -905,6 +886,42 @@
    ],
    "first_seen": "2026-11-07T07:30:17.571516Z",
    "is_new": false
+  },
+  {
+   "id": "cb183454d6d2",
+   "title": "ServiceNow Developer - Itsm, Itom, Cmdb",
+   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/servicenow-developer-itsm-itom-cmdb/converse-placement-services-india-private-limited/20082805",
+   "posted": "2026-11-14T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-19T09:04:31.406235Z",
+   "is_new": true
+  },
+  {
+   "id": "cb187d9f2510",
+   "title": "Servicenow Platform Engineering And Support 170155 Hyderabad (India)",
+   "company": "ADP",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/7681174660620222464",
+   "posted": "2026-11-13T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-19T09:04:31.406235Z",
+   "is_new": true
   },
   {
    "id": "a694a5fcd2a6",
@@ -940,24 +957,6 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-17T09:29:48.896826Z",
-   "is_new": true
-  },
-  {
-   "id": "8d61f3f3840a",
-   "title": "ServiceNow Developer home tutor",
-   "company": "TeacherOn.com",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "TeacherOn",
-   "url": "https://www.teacheron.com/teacher-job/7tBZ",
-   "posted": "2026-11-09T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
   },
   {
@@ -1014,24 +1013,6 @@
     "VPN"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
-   "id": "93aede03b049",
-   "title": "Servicenow Developer",
-   "company": "Inmorphis Services",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/servicenow-developer--hyderabad--bengaluru--ef688fd59819bad1cf7b703dcea58e659",
-   "posted": "2026-11-09T00:00:00.000Z",
-   "score": 61,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
   },
   {
@@ -1289,24 +1270,6 @@
    "is_new": false
   },
   {
-   "id": "254ef1c2a25a",
-   "title": "Solution Advisor - ServiceNow SAM Pro",
-   "company": "TechAIVV Technologies",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/solution-advisor-servicenow-sam-pro-at-techaivv-technologies-4486823195",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 57,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": false
-  },
-  {
    "id": "1c53015dcc07",
    "title": "Investment Technology Support Engineer",
    "company": "Invesco (india) Private Limited",
@@ -1336,7 +1299,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-18T08:49:52.732512Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "0ef3e0bff565",
@@ -1352,7 +1315,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-17T09:29:48.896826Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "bca896f7ebe0",
@@ -1419,22 +1382,6 @@
    "is_new": false
   },
   {
-   "id": "73ead8ebad45",
-   "title": "Fraud Investigation Analyst",
-   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/fraud-investigation-analyst/converse-placement-services-india-private-limited/19976059",
-   "posted": "2026-10-30T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": false
-  },
-  {
    "id": "ac9e417328d2",
    "title": "Information Technology Support Specialist",
    "company": "Freyr Solutions",
@@ -1467,7 +1414,7 @@
    "score": 53,
    "matched": [],
    "first_seen": "2026-11-18T08:49:52.732512Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "58f37cfc0ce9",
@@ -1483,22 +1430,6 @@
    "score": 53,
    "matched": [],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": false
-  },
-  {
-   "id": "b3a5f0f01aa8",
-   "title": "Live Ops Support Engineer, Prime Video Live Operations",
-   "company": "Amazon",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Talent.com",
-   "url": "https://in.talent.com/view?id=644416275859964061",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 53,
-   "matched": [],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
    "is_new": false
   },
   {
@@ -1518,6 +1449,22 @@
    "is_new": false
   },
   {
+   "id": "1898393b4c80",
+   "title": "Fraud Analyst Hyderabad (India)",
+   "company": "Buzzworks Business Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/fraud-analyst-hyderabad-india/buzzworks-business-services/20086752",
+   "posted": "2026-11-16T00:00:00.000Z",
+   "score": 51,
+   "matched": [],
+   "first_seen": "2026-11-17T09:29:48.896826Z",
+   "is_new": false
+  },
+  {
    "id": "36a4a2453657",
    "title": "Service Desk Trainer \u2013 US Process",
    "company": "HTC Global Services",
@@ -1531,23 +1478,7 @@
    "score": 51,
    "matched": [],
    "first_seen": "2026-11-18T08:49:52.732512Z",
-   "is_new": true
-  },
-  {
-   "id": "1898393b4c80",
-   "title": "Fraud Analyst Hyderabad (India)",
-   "company": "Buzzworks Business Services",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/879983583924584448",
-   "posted": "2026-11-14T00:00:00.000Z",
-   "score": 51,
-   "matched": [],
-   "first_seen": "2026-11-17T09:29:48.896826Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b08207fd9c6a",
@@ -1565,7 +1496,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-17T09:29:48.896826Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "2d83a844f2a0",
@@ -1690,7 +1621,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-18T08:49:52.732512Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "bafc8cbf08af",
@@ -1706,6 +1637,22 @@
    "score": 37,
    "matched": [],
    "first_seen": "2026-11-17T09:29:48.896826Z",
+   "is_new": false
+  },
+  {
+   "id": "cf50b6da371a",
+   "title": "Application Support - ASP.Net and C#",
+   "company": "Edvensoft Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/application-support-asp-net-and-c%23-at-edvensoft-solutions-4490869502",
+   "posted": "2026-11-18T00:00:00.000Z",
+   "score": 37,
+   "matched": [],
+   "first_seen": "2026-11-19T09:04:31.406235Z",
    "is_new": true
   },
   {
@@ -1757,20 +1704,20 @@
    "is_new": false
   },
   {
-   "id": "418f069da560",
-   "title": "Mechanical Service Engineer",
-   "company": "Hydro Mechanic Transmission (India) Pvt Limited",
+   "id": "c819119e0118",
+   "title": "Assistant Vice President,Trade Investigations",
+   "company": "HSBC",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
    "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad-region/mechanical-service-engineer-238139069",
-   "posted": "2026-11-04T12:00:00.000Z",
-   "score": 33,
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/assistant-vice-president-trade-investigations-at-hsbc-4490652175",
+   "posted": "2026-11-16T00:00:00.000Z",
+   "score": 31,
    "matched": [],
-   "first_seen": "2026-11-05T08:09:22.489435Z",
-   "is_new": false
+   "first_seen": "2026-11-19T09:04:31.406235Z",
+   "is_new": true
   },
   {
    "id": "f5063c521326",
