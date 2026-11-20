@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-19T09:04:31.406235Z",
+ "updated": "2026-11-20T08:50:32.526695Z",
  "sample": false,
  "jobs": [
+  {
+   "id": "57f242906315",
+   "title": "Technical Service Desk - L1+/L2",
+   "company": "SHI Solutions India Pvt. Ltd.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/technical-service-desk-l1%2B-l2-at-shi-solutions-india-pvt-ltd-4492412673?position=54&pageNum=0&refId=cFbbzbLqt2HwvxL1U49fsA%3D%3D&trackingId=SpFpz%2Bxk6bgUYGQWucvn5Q%3D%3D",
+   "posted": "2026-11-19T10:00:00.000Z",
+   "score": 95,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "L1/L2 support",
+    "Microsoft 365",
+    "VPN"
+   ],
+   "first_seen": "2026-11-20T08:50:32.526695Z",
+   "is_new": true
+  },
   {
    "id": "c226e73aa29f",
    "title": "Desktop Support Engineer",
@@ -44,28 +68,6 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": false
-  },
-  {
-   "id": "f3adfefdcbf6",
-   "title": "Technical Associate, Service Desk (5A)",
-   "company": "Genpact",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Classic Jobs",
-   "url": "https://classicjobs.in/blog/genpact-service-desk-associate-hyderabad/",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 95,
-   "matched": [
-    "Active Directory",
-    "Azure",
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
   },
   {
@@ -284,6 +286,26 @@
    "is_new": false
   },
   {
+   "id": "757031a8ab5a",
+   "title": "Support Engineer I",
+   "company": "Seismic",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/7tdXiKJw0lwVCoc5IV-am7oC9P_Tq-19fftBrNuITVumldKLdjdgZQ",
+   "posted": "2026-11-18T00:00:00.000Z",
+   "score": 80,
+   "matched": [
+    "L1/L2 support",
+    "Salesforce",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-20T08:50:32.526695Z",
+   "is_new": true
+  },
+  {
    "id": "7a939e64de38",
    "title": "Junior Support Analyst",
    "company": "Crowe Capability Center - India",
@@ -302,6 +324,26 @@
    ],
    "first_seen": "2026-11-14T07:48:38.565805Z",
    "is_new": false
+  },
+  {
+   "id": "0eb1d972a231",
+   "title": "Service Desk Analyst - Technical Support, Troubleshooting, Itil",
+   "company": "GHRS TRAINING LLP",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/service-desk-analyst-technical-support-troubleshooting-itil/ghrs-training-llp/20070054",
+   "posted": "2026-11-13T00:00:00.000Z",
+   "score": 79,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-20T08:50:32.526695Z",
+   "is_new": true
   },
   {
    "id": "737aca468de1",
@@ -379,44 +421,6 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-13T08:26:35.226968Z",
-   "is_new": false
-  },
-  {
-   "id": "86136d3c1d2c",
-   "title": "Service Desk Level 1 Support Technician (Hyderabad)",
-   "company": "Unisys India Private",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/6726655665558781952",
-   "posted": "2026-11-04T00:00:00.000Z",
-   "score": 76,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-06T08:13:25.530207Z",
-   "is_new": false
-  },
-  {
-   "id": "7c603aa6ff9d",
-   "title": "Desktop Support Engineer - L1",
-   "company": "Sysnet Global Technologies Pvt.Ltd",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Glassdoor",
-   "url": "https://www.glassdoor.co.in/job-listing/desktop-support-engineer-l1-sysnet-global-technologies-JV_IC2865319_KO0,27_KE28,54.htm?jl=1009956172750",
-   "posted": "2026-11-02T00:00:00.000Z",
-   "score": 76,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
   },
   {
@@ -633,25 +637,6 @@
    "is_new": false
   },
   {
-   "id": "fccb59102273",
-   "title": "Service Desk Specialist (Night Shift)",
-   "company": "Deliveroo",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/rjdp/-1975201165676649539",
-   "posted": "2026-10-30T00:00:00.000Z",
-   "score": 69,
-   "matched": [
-    "Hardware troubleshooting",
-    "Intune"
-   ],
-   "first_seen": "2026-11-06T08:13:25.530207Z",
-   "is_new": false
-  },
-  {
    "id": "d490a2f447f0",
    "title": "Consultant-Servicenow-secops",
    "company": "NTT DATA Business Solutions",
@@ -832,6 +817,24 @@
    ],
    "first_seen": "2026-11-10T08:38:41.695506Z",
    "is_new": false
+  },
+  {
+   "id": "48f07f7d69b1",
+   "title": "NOC Engineer L1",
+   "company": "iBASIS",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/noc-engineer-l1-at-ibasis-4492439948",
+   "posted": "2026-11-19T15:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-20T08:50:32.526695Z",
+   "is_new": true
   },
   {
    "id": "5b33d195fc2b",
@@ -1180,6 +1183,24 @@
    "is_new": false
   },
   {
+   "id": "e4f8f7b9304c",
+   "title": "Junior Service Desk Engineer",
+   "company": "Guidehouse India Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/Pa443eM-Mjf65psfGNjceCVuEjvhxQLWc8-6Ezm3pVJXRGyDmkAF9g",
+   "posted": "2026-11-19T00:00:00.000Z",
+   "score": 59,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-20T08:50:32.526695Z",
+   "is_new": true
+  },
+  {
    "id": "b06ff1b18f84",
    "title": "Support Engineer III, BXT",
    "company": "Amazon Railings",
@@ -1286,6 +1307,22 @@
    "is_new": false
   },
   {
+   "id": "55ddb51c669b",
+   "title": "Technical Support Associate - Voice Process, Chat Process",
+   "company": "Accentrix Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/technical-support-associate-voice-process-chat-process/accentrix-solutions/20086122",
+   "posted": "2026-11-16T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-20T08:50:32.526695Z",
+   "is_new": true
+  },
+  {
    "id": "0b6bf7b2dec1",
    "title": "Junior Technical Support Associate - Fresher",
    "company": "Educase India",
@@ -1366,22 +1403,6 @@
    "is_new": false
   },
   {
-   "id": "61344935cd37",
-   "title": "Technical support and service stability",
-   "company": "Tech Mahindra",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/technical-support-and-service-stability--hyderabad--ec0fe565022c5d9b26c515f15d1a5d606",
-   "posted": "2026-11-02T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-06T08:13:25.530207Z",
-   "is_new": false
-  },
-  {
    "id": "ac9e417328d2",
    "title": "Information Technology Support Specialist",
    "company": "Freyr Solutions",
@@ -1430,22 +1451,6 @@
    "score": 53,
    "matched": [],
    "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": false
-  },
-  {
-   "id": "2abe2dbcdcd4",
-   "title": "Advanced Technical Support Engineer - APJ, EMEA & AMER Shift - copy",
-   "company": "cyberu",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Cornerstone OnDemand",
-   "url": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11769?c=cornerstone",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 53,
-   "matched": [],
-   "first_seen": "2026-11-06T08:13:25.530207Z",
    "is_new": false
   },
   {
@@ -1622,6 +1627,24 @@
    ],
    "first_seen": "2026-11-18T08:49:52.732512Z",
    "is_new": false
+  },
+  {
+   "id": "1bd882256f6f",
+   "title": "Deal Desk Analyst Hyderabad (India)",
+   "company": "Cognizant",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/3915655679779536896",
+   "posted": "2026-11-18T00:00:00.000Z",
+   "score": 38,
+   "matched": [
+    "Salesforce"
+   ],
+   "first_seen": "2026-11-20T08:50:32.526695Z",
+   "is_new": true
   },
   {
    "id": "bafc8cbf08af",
