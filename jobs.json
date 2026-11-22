@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-21T08:31:32.162745Z",
+ "updated": "2026-11-22T08:27:26.132937Z",
  "sample": false,
  "jobs": [
+  {
+   "id": "a9c1e03d978e",
+   "title": "Technical Support Specialist L1",
+   "company": "Hi-Tech City",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/d-SLjF-u1-CPHfYpqt6zhSsA-fNFfjL-0_7KAiA325PYy0zkAoRwjg",
+   "posted": "2026-11-19T00:00:00.000Z",
+   "score": 96,
+   "matched": [
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "L1/L2 support",
+    "MFA",
+    "VPN"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
   {
    "id": "57f242906315",
    "title": "Technical Service Desk - L1+/L2",
@@ -24,7 +47,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-20T08:50:32.526695Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c226e73aa29f",
@@ -115,6 +138,27 @@
    ],
    "first_seen": "2026-11-14T07:48:38.565805Z",
    "is_new": false
+  },
+  {
+   "id": "198394224a40",
+   "title": "Linux Technical Support - Security",
+   "company": "Sutherland Global Service Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/linux-technical-support-security-at-sutherland-global-service-limited-4491855213",
+   "posted": "2026-11-18T00:00:00.000Z",
+   "score": 92,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "L1/L2 support",
+    "Salesforce"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
   },
   {
    "id": "f3fde282b1fd",
@@ -244,27 +288,6 @@
    "is_new": false
   },
   {
-   "id": "fc55a5c05620",
-   "title": "Walk-in | System Administrator / Desktop Support Engineer",
-   "company": "eSolutionsFirst LLC",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/walk-in-system-administrator-desktop-support-engineer--hyderabad--e6642d9fb3efd763f6e4509a927cb73d8",
-   "posted": "2026-11-04T00:00:00.000Z",
-   "score": 81,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "Microsoft 365",
-    "VPN"
-   ],
-   "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": false
-  },
-  {
    "id": "757031a8ab5a",
    "title": "Support Engineer I",
    "company": "Seismic",
@@ -282,7 +305,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-20T08:50:32.526695Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "7a939e64de38",
@@ -305,6 +328,26 @@
    "is_new": false
   },
   {
+   "id": "21facfaf7500",
+   "title": "IT Help Desk Analyst",
+   "company": "CommScope Solutions India Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/analyst-it-service-desk-1137653019",
+   "posted": "2026-11-18T00:00:00.000Z",
+   "score": 79,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
+  {
    "id": "0eb1d972a231",
    "title": "Service Desk Analyst - Technical Support, Troubleshooting, Itil",
    "company": "GHRS TRAINING LLP",
@@ -322,7 +365,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-20T08:50:32.526695Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "737aca468de1",
@@ -555,44 +598,6 @@
    "is_new": false
   },
   {
-   "id": "94ddafa954db",
-   "title": "L3 Support Engineer",
-   "company": "Alphacom Systems and Solutions Pvt Ltd",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/l3-support-engineer/alphacom-systems-and-solutions-pvt-ltd/20007655",
-   "posted": "2026-11-04T00:00:00.000Z",
-   "score": 71,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": false
-  },
-  {
-   "id": "bffc18e30383",
-   "title": "QA Automation & Tier 2 Production Support Engineer",
-   "company": "NForce One",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/qa-automation-tier-2-production-support-engineer-at-nforce-one-4485539104",
-   "posted": "2026-11-04T00:00:00.000Z",
-   "score": 69,
-   "matched": [
-    "Azure",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": false
-  },
-  {
    "id": "6f003408df81",
    "title": "Support Engineer -  AS400, RPGLE, CLLE & DB2",
    "company": "Blue Yonder",
@@ -737,24 +742,6 @@
    "is_new": false
   },
   {
-   "id": "39318471b034",
-   "title": "Application L2 Support (Insurance Domain Must) _Hyderabad",
-   "company": "Techouts",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/application-l2-support-insurance-domain-must-hyderabad--hyderabad--e3d20f4f391cf2a2d5e0f4b2cf5f87b66",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": false
-  },
-  {
    "id": "6de6531b2fa4",
    "title": "Help Desk Analyst Hyderabad (India)",
    "company": "Verisk Careers | Verisk",
@@ -808,7 +795,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-20T08:50:32.526695Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b2be7148702a",
@@ -864,6 +851,42 @@
    ],
    "first_seen": "2026-11-13T08:26:35.226968Z",
    "is_new": false
+  },
+  {
+   "id": "4fc34d79d961",
+   "title": "Service Desk Analyst - Windows, Office 365, Incident Management",
+   "company": "GHRS TRAINING LLP",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/service-desk-analyst-windows-office-incident-management/ghrs-training-llp/20114848",
+   "posted": "2026-11-21T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
+  {
+   "id": "60d1bcd69f54",
+   "title": "Desktop and Network Support Engineer (Production & Manufacturing ) (Hyderabad)",
+   "company": "TeamLease Digital",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/desktop-and-network-support-engineer-production-manufacturing-hyderabad/teamlease-digital/20101798?jobtype=cr&position_in_results=2",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
   },
   {
    "id": "0b5378181a66",
@@ -1010,6 +1033,25 @@
    "is_new": false
   },
   {
+   "id": "e20c462b4c0b",
+   "title": "Associate Technical Support Engineer (French/German/ Italian/Portuguese Speaking)",
+   "company": "Tableau",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "check",
+   "source": "Foundit",
+   "url": "https://www.foundit.in/job/associate-technical-support-engineer-french-german-italian-portuguese-speaking-tableau-hyderabad-secunderabad-telangana-69882893",
+   "posted": "2026-11-21T00:00:00.000Z",
+   "score": 62,
+   "matched": [
+    "L1/L2 support",
+    "Salesforce"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
+  {
    "id": "2c4b883b3b70",
    "title": "Analyst, EUC",
    "company": "ICE",
@@ -1146,38 +1188,6 @@
    "is_new": false
   },
   {
-   "id": "e54d1ba565d1",
-   "title": "Walk-in | Service Desk Analyst 1",
-   "company": "Wipro",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "JobLeads",
-   "url": "https://www.jobleads.com/in/job/walk-in-service-desk-analyst-1--hyderabad--ed7a78db29f0724e579c3579ab1daca0b",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": false
-  },
-  {
-   "id": "608c189167fd",
-   "title": "System Administrator I \u2013 IT Support",
-   "company": "Colruyt IT Consultancy India",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "SimplyHired",
-   "url": "https://www.simplyhired.co.in/job/JxbRr5jqnHxfhaDpqwiXOjv_3JlTiNdO4qqHT_GvVizD244tQc-Xyg",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-08T07:41:38.276381Z",
-   "is_new": false
-  },
-  {
    "id": "e4f8f7b9304c",
    "title": "Junior Service Desk Engineer",
    "company": "Guidehouse India Pvt Ltd",
@@ -1193,7 +1203,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-20T08:50:32.526695Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b06ff1b18f84",
@@ -1286,6 +1296,54 @@
    "is_new": false
   },
   {
+   "id": "7964f042184c",
+   "title": "Associate - Service Desk",
+   "company": "Microland Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/associate-service-desk-microland-limited-hyderabad--t7xk-959414622",
+   "posted": "2026-11-21T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
+  {
+   "id": "ab0bf8bece33",
+   "title": "Apprentice Technical Support Engineer",
+   "company": "Perceptive",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "SimplyHired",
+   "url": "https://www.simplyhired.co.in/job/LMvWPKFMu1PKi9C9MtLP2UmFDfHfQ_TiLmbAj6jnmxUk7zpgsDSBjQ",
+   "posted": "2026-11-18T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
+  {
+   "id": "1d536937ba1b",
+   "title": "Technical Support/ Customer Support (Hyderabad)",
+   "company": "Creative Hands HR",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/technical-support-customer-support-hyderabad/creative-hands-hr/20093363",
+   "posted": "2026-11-16T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
+  {
    "id": "28cb2ae80672",
    "title": "Fraud and Dispute Analyst",
    "company": "WATERLEAF CONSULTANTS (P) LTD.",
@@ -1315,7 +1373,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-20T08:50:32.526695Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "0b6bf7b2dec1",
@@ -1465,6 +1523,24 @@
    "is_new": false
   },
   {
+   "id": "22e6a273de90",
+   "title": "Production Support Immediate Joiner Hyderabad (India)",
+   "company": "Luxoft",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobrapido.com",
+   "url": "https://in.jobrapido.com/jobpreview/8688906685571399680",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 50,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
+  {
    "id": "b08207fd9c6a",
    "title": "Research EngineerScientist",
    "company": "ServiceNow",
@@ -1572,6 +1648,24 @@
    "is_new": false
   },
   {
+   "id": "ae515d7b76d6",
+   "title": "Network Operations Center - Analyst",
+   "company": "Zelis Healthcare",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/network-operations-center-analyst--hyderabad--e4ec529cd3517b7dfe6068710881837cb",
+   "posted": "2026-11-17T00:00:00.000Z",
+   "score": 39,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": true
+  },
+  {
    "id": "1bd882256f6f",
    "title": "Deal Desk Analyst Hyderabad (India)",
    "company": "Cognizant",
@@ -1587,7 +1681,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-20T08:50:32.526695Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "bafc8cbf08af",
