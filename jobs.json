@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:27:26.132937Z",
+ "updated": "2026-11-23T09:26:20.983998Z",
  "sample": false,
  "jobs": [
   {
@@ -23,7 +23,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "57f242906315",
@@ -34,7 +34,7 @@
    "voice": "",
    "degree": "any",
    "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/technical-service-desk-l1%2B-l2-at-shi-solutions-india-pvt-ltd-4492412673?position=54&pageNum=0&refId=cFbbzbLqt2HwvxL1U49fsA%3D%3D&trackingId=SpFpz%2Bxk6bgUYGQWucvn5Q%3D%3D",
+   "url": "https://in.linkedin.com/jobs/view/technical-service-desk-l1%2B-l2-at-shi-solutions-india-pvt-ltd-4492412673?position=41&pageNum=0&refId=0%2BXOeYr%2Fm7Nwc9y8mgSGRQ%3D%3D&trackingId=kB9Ba7oC5z2tuyBlFI9%2FYQ%3D%3D",
    "posted": "2026-11-19T00:00:00.000Z",
    "score": 95,
    "matched": [
@@ -158,7 +158,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f3fde282b1fd",
@@ -223,27 +223,6 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
-   "id": "98e31ff9ae0a",
-   "title": "Software Engineer - ServiceNow Integrations",
-   "company": "Blue Yonder Pvt Ltd",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/software-engineer-ii-servicenow-and-integration-hu-1467026338",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 85,
-   "matched": [
-    "Azure",
-    "Microsoft 365",
-    "Salesforce",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-09T08:21:25.811672Z",
    "is_new": false
   },
   {
@@ -345,7 +324,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "0eb1d972a231",
@@ -522,6 +501,25 @@
    "is_new": false
   },
   {
+   "id": "faffb866852d",
+   "title": "Walk-in || Desktop Support Engineer ( Male )",
+   "company": "Continental Hospitals",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/walk-in-desktop-support-engineer-male/continental-hospitals/20102154?jobtype=cr&position_in_results=6",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-23T09:26:20.983998Z",
+   "is_new": true
+  },
+  {
    "id": "aaca5da827a4",
    "title": "Technical Support Specialist - Troubleshooting, Windows, Microsoft 365",
    "company": "LIVEC STAFFING SERVICES PRIVATE LIMITED",
@@ -598,6 +596,25 @@
    "is_new": false
   },
   {
+   "id": "806c77271451",
+   "title": "Salesforce Support Engineer",
+   "company": "Kaizen Sra Technologies",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/salesforce-support-engineer--hyderabad--efc7c9f234d5b6c631a1c2b9b88b3baff",
+   "posted": "2026-11-17T00:00:00.000Z",
+   "score": 69,
+   "matched": [
+    "Salesforce",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-23T09:26:20.983998Z",
+   "is_new": true
+  },
+  {
    "id": "6f003408df81",
    "title": "Support Engineer -  AS400, RPGLE, CLLE & DB2",
    "company": "Blue Yonder",
@@ -613,7 +630,7 @@
     "Azure"
    ],
    "first_seen": "2026-11-21T08:31:32.162745Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "d490a2f447f0",
@@ -685,60 +702,6 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
-   "id": "b268a15ab7c3",
-   "title": "Software Engineer Ii Servicenow & Itsm Hyderabad (India)",
-   "company": "Blue Yonder",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/8023760802840313856",
-   "posted": "2026-11-06T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": false
-  },
-  {
-   "id": "60931ef13bc9",
-   "title": "Technical Support Engineering App Services Dev",
-   "company": "Microsoft",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/technical-support-engineering-app-services-dev-at-microsoft-4487771679",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "Azure"
-   ],
-   "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": false
-  },
-  {
-   "id": "dfe92929b41c",
-   "title": "ServiceNow Solution Consultant",
-   "company": "INRY",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/servicenow-solution-consultant-at-inry-4485879276",
-   "posted": "2026-11-06T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-09T08:21:25.811672Z",
    "is_new": false
   },
   {
@@ -814,7 +777,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-21T08:31:32.162745Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "5b33d195fc2b",
@@ -853,6 +816,60 @@
    "is_new": false
   },
   {
+   "id": "60d1bcd69f54",
+   "title": "Desktop and Network Support Engineer (Production & Manufacturing ) (Hyderabad)",
+   "company": "TeamLease Digital",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/desktop-and-network-support-engineer-production-manufacturing-hyderabad/teamlease-digital/20101798",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": false
+  },
+  {
+   "id": "da165050b979",
+   "title": "ServiceNow Devloper -ITSM",
+   "company": "Zensar Technologies",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/servicenow-devloper-itsm--hyderabad--ed70d42f93055dc8da37b55b9c3eddc70",
+   "posted": "2026-11-21T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-23T09:26:20.983998Z",
+   "is_new": true
+  },
+  {
+   "id": "35edf8a9cba5",
+   "title": "Servicenow - Platform Engineering and Support 170155",
+   "company": "ADP",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/servicenow-platform-engineering-and-support-170155-adp-hyderabad-in--t7xk-961002782",
+   "posted": "2026-11-21T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-23T09:26:20.983998Z",
+   "is_new": true
+  },
+  {
    "id": "4fc34d79d961",
    "title": "Service Desk Analyst - Windows, Office 365, Incident Management",
    "company": "GHRS TRAINING LLP",
@@ -868,25 +885,7 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
-  },
-  {
-   "id": "60d1bcd69f54",
-   "title": "Desktop and Network Support Engineer (Production & Manufacturing ) (Hyderabad)",
-   "company": "TeamLease Digital",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/desktop-and-network-support-engineer-production-manufacturing-hyderabad/teamlease-digital/20101798?jobtype=cr&position_in_results=2",
-   "posted": "2026-11-20T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "0b5378181a66",
@@ -904,7 +903,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-21T08:31:32.162745Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c16bb0a0ee12",
@@ -922,7 +921,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-21T08:31:32.162745Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "cb183454d6d2",
@@ -1049,7 +1048,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "2c4b883b3b70",
@@ -1153,38 +1152,6 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
-   "id": "21b28383f601",
-   "title": "Transaction Monitoring \u2013 Fraud Detection",
-   "company": "First Meridian Global",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "HiringJet",
-   "url": "https://www.hiringjet.com/transaction-monitoring-fraud-detection-jobs-in-hyderabad-india-first-meridian-global-onsite-b3e74a8e-212f-4c47-82fc-d0b663a19b77",
-   "posted": "2026-11-03T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-09T08:21:25.811672Z",
-   "is_new": false
-  },
-  {
-   "id": "574d49d03b2d",
-   "title": "Analyst, FRR, Reported Fraud, OM, UK",
-   "company": "Tide",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "Built In",
-   "url": "https://builtin.com/job/analyst-frr-reported-fraud-om-uk/12093214",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-09T08:21:25.811672Z",
    "is_new": false
   },
   {
@@ -1296,22 +1263,6 @@
    "is_new": false
   },
   {
-   "id": "7964f042184c",
-   "title": "Associate - Service Desk",
-   "company": "Microland Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/associate-service-desk-microland-limited-hyderabad--t7xk-959414622",
-   "posted": "2026-11-21T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
-  },
-  {
    "id": "ab0bf8bece33",
    "title": "Apprentice Technical Support Engineer",
    "company": "Perceptive",
@@ -1325,23 +1276,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
-  },
-  {
-   "id": "1d536937ba1b",
-   "title": "Technical Support/ Customer Support (Hyderabad)",
-   "company": "Creative Hands HR",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/technical-support-customer-support-hyderabad/creative-hands-hr/20093363",
-   "posted": "2026-11-16T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "28cb2ae80672",
@@ -1357,7 +1292,39 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-21T08:31:32.162745Z",
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "id": "7964f042184c",
+   "title": "Associate - Service Desk",
+   "company": "Microland Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/associate-service-desk-microland-limited-hyderabad--t7xk-959414622",
+   "posted": "2026-11-21T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": false
+  },
+  {
+   "id": "1d536937ba1b",
+   "title": "Technical Support/ Customer Support (Hyderabad)",
+   "company": "Creative Hands HR",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/technical-support-customer-support-hyderabad/creative-hands-hr/20093363",
+   "posted": "2026-11-16T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": false
   },
   {
    "id": "55ddb51c669b",
@@ -1438,6 +1405,44 @@
    "matched": [],
    "first_seen": "2026-11-10T08:38:41.695506Z",
    "is_new": false
+  },
+  {
+   "id": "536dfa39197e",
+   "title": "Escalation Specialist (SME) - Technical voice support",
+   "company": "HTC Global Services",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/escalation-specialist-sme-technical-voice-support-at-htc-global-services-4490971031",
+   "posted": "2026-11-17T00:00:00.000Z",
+   "score": 54,
+   "matched": [
+    "L1/L2 support",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-23T09:26:20.983998Z",
+   "is_new": true
+  },
+  {
+   "id": "ab5fc57e8622",
+   "title": "Laptop/PC Technician - Dell, Lenovo, HP & Acer",
+   "company": "Tidecore AVIT Solutions Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/laptop-pc-technician-dell-lenovo-hp-acer-at-tidecore-avit-solutions-pvt-ltd-4490857998",
+   "posted": "2026-11-18T00:00:00.000Z",
+   "score": 54,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-23T09:26:20.983998Z",
+   "is_new": true
   },
   {
    "id": "ac9e417328d2",
@@ -1538,7 +1543,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "b08207fd9c6a",
@@ -1663,7 +1668,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "1bd882256f6f",
