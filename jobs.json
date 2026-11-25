@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-24T11:21:27.937241Z",
+ "updated": "2026-11-25T10:06:17.029344Z",
  "sample": false,
  "jobs": [
+  {
+   "id": "b002de16beb4",
+   "title": "IT Technical Support Specialist",
+   "company": "Ivanti",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/it-technical-support-specialist-at-ivanti-4493009452",
+   "posted": "2026-11-24T12:00:00.000Z",
+   "score": 100,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "Microsoft 365",
+    "VPN"
+   ],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
   {
    "id": "a9c1e03d978e",
    "title": "Technical Support Specialist L1",
@@ -23,6 +46,30 @@
     "VPN"
    ],
    "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": false
+  },
+  {
+   "id": "57f242906315",
+   "title": "Technical Service Desk - L1+/L2",
+   "company": "SHI Solutions India Pvt. Ltd.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/technical-service-desk-l1%2B-l2-at-shi-solutions-india-pvt-ltd-4492412673?position=41&pageNum=0&refId=0%2BXOeYr%2Fm7Nwc9y8mgSGRQ%3D%3D&trackingId=kB9Ba7oC5z2tuyBlFI9%2FYQ%3D%3D",
+   "posted": "2026-11-19T00:00:00.000Z",
+   "score": 95,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "L1/L2 support",
+    "Microsoft 365",
+    "VPN"
+   ],
+   "first_seen": "2026-11-20T08:50:32.526695Z",
    "is_new": false
   },
   {
@@ -49,30 +96,6 @@
    ],
    "first_seen": "2026-11-24T11:21:27.937241Z",
    "is_new": true
-  },
-  {
-   "id": "57f242906315",
-   "title": "Technical Service Desk - L1+/L2",
-   "company": "SHI Solutions India Pvt. Ltd.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/technical-service-desk-l1%2B-l2-at-shi-solutions-india-pvt-ltd-4492412673?position=41&pageNum=0&refId=0%2BXOeYr%2Fm7Nwc9y8mgSGRQ%3D%3D&trackingId=kB9Ba7oC5z2tuyBlFI9%2FYQ%3D%3D",
-   "posted": "2026-11-19T00:00:00.000Z",
-   "score": 95,
-   "matched": [
-    "Active Directory",
-    "Azure",
-    "Hardware troubleshooting",
-    "Intune",
-    "L1/L2 support",
-    "Microsoft 365",
-    "VPN"
-   ],
-   "first_seen": "2026-11-20T08:50:32.526695Z",
-   "is_new": false
   },
   {
    "id": "c226e73aa29f",
@@ -249,26 +272,6 @@
    "is_new": true
   },
   {
-   "id": "9b7d69a74780",
-   "title": "L1 Support Engineer",
-   "company": "TECEZE",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/l1-support-engineer-at-teceze-4486936991",
-   "posted": "2026-11-06T00:00:00.000Z",
-   "score": 84,
-   "matched": [
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": false
-  },
-  {
    "id": "757031a8ab5a",
    "title": "Support Engineer I",
    "company": "Seismic",
@@ -405,6 +408,25 @@
    ],
    "first_seen": "2026-11-13T08:26:35.226968Z",
    "is_new": false
+  },
+  {
+   "id": "a3495dbe7ea8",
+   "title": "ServiceNow professional",
+   "company": "Diverse Lynx",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "BeBee",
+   "url": "https://bebee.com/in/jobs/servicenow-professional-diverse-lynx-hyderabad--t7xk-956696746",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "Azure",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
   },
   {
    "id": "5353c4b1f858",
@@ -578,42 +600,23 @@
    "is_new": false
   },
   {
-   "id": "a9ee74c825bc",
-   "title": "Business Analyst Servicenow Hyderabad (India)",
-   "company": "Tekskills",
+   "id": "f9aebf135860",
+   "title": "L3 Support Engineer",
+   "company": "algoleap",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
    "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/668707064528240640",
-   "posted": "2026-11-09T00:00:00.000Z",
-   "score": 71,
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/l3-support-engineer-at-algoleap-4455863945",
+   "posted": "2026-11-18T00:00:00.000Z",
+   "score": 69,
    "matched": [
-    "Hardware troubleshooting",
-    "ServiceNow"
+    "L1/L2 support",
+    "Salesforce"
    ],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": false
-  },
-  {
-   "id": "2889da4beb32",
-   "title": "ServiceNow TOSCA & ATF Tester (SIR POD)",
-   "company": "Purview Services",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/servicenow-tosca-atf-tester-sir-pod-purview-services-hyderabad--t7xk-920753154",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 71,
-   "matched": [
-    "Hardware troubleshooting",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": false
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
   },
   {
    "id": "806c77271451",
@@ -633,6 +636,24 @@
    ],
    "first_seen": "2026-11-23T09:26:20.983998Z",
    "is_new": false
+  },
+  {
+   "id": "7b8bc24e5a88",
+   "title": "ServiceNow Engineer- HRSD & CSM",
+   "company": "Micron Technology",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/servicenow-engineer-hrsd-csm-at-micron-technology-4466502759",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
   },
   {
    "id": "6f003408df81",
@@ -725,6 +746,25 @@
    "is_new": false
   },
   {
+   "id": "d66184154290",
+   "title": "Associate Technical Support Engineer (French/German/ Italian/Portuguese Speaking)",
+   "company": "621 Salesforce.com India Private Limited Hyderabad Branch",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "voice",
+   "degree": "check",
+   "source": "Workday",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Associate-Technical-Support-Engineer_JR356515",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 67,
+   "matched": [
+    "L1/L2 support",
+    "Salesforce"
+   ],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
    "id": "48f07f7d69b1",
    "title": "NOC Engineer L1",
    "company": "iBASIS",
@@ -798,6 +838,60 @@
    "is_new": false
   },
   {
+   "id": "0b5378181a66",
+   "title": "ServiceNow Devloper -ITSM",
+   "company": "Zen Technologies Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobaaj",
+   "url": "https://www.jobaaj.com/job/zen-technologies-limited-servicenow-devloper-itsm-hyderabad-telangana-india-2-to-5-years-2108175",
+   "posted": "2026-11-19T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-21T08:31:32.162745Z",
+   "is_new": false
+  },
+  {
+   "id": "76a20e93eb49",
+   "title": "IT Support / Desktop Support Analyst",
+   "company": "protolabs",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/it-support-desktop-support-analyst/protolabs/20102158",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
+   "id": "506484a2b9bc",
+   "title": "Fraud Analyst - Content & Reviews Abuse",
+   "company": "AuraOne Human Data",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/-6166200968247246017",
+   "posted": "2026-11-21T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
    "id": "4fc34d79d961",
    "title": "Service Desk Analyst - Windows, Office 365, Incident Management",
    "company": "GHRS TRAINING LLP",
@@ -867,24 +961,6 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-23T09:26:20.983998Z",
-   "is_new": false
-  },
-  {
-   "id": "0b5378181a66",
-   "title": "ServiceNow Devloper -ITSM",
-   "company": "Zen Technologies Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobaaj",
-   "url": "https://www.jobaaj.com/job/zen-technologies-limited-servicenow-devloper-itsm-hyderabad-telangana-india-2-to-5-years-2108175",
-   "posted": "2026-11-19T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-21T08:31:32.162745Z",
    "is_new": false
   },
   {
@@ -978,24 +1054,6 @@
    "is_new": false
   },
   {
-   "id": "3aa9633d8187",
-   "title": "Servicenow Developer \u2014 Itom Discovery / Service Mapping Hyderabad",
-   "company": "CGI",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Kit Job",
-   "url": "https://www.kitjob.in/job/351018080/servicenow-developer-itom-discovery-service-mapping-hyderabad",
-   "posted": "2026-11-06T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
-   "is_new": false
-  },
-  {
    "id": "e20c462b4c0b",
    "title": "Associate Technical Support Engineer (French/German/ Italian/Portuguese Speaking)",
    "company": "Tableau",
@@ -1064,22 +1122,6 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": false
-  },
-  {
-   "id": "9ec23bb916f9",
-   "title": "Fraud Alert Review Analyst - Bank Payments",
-   "company": "Tide Platform Private Limited",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/analyst-bank-payments-arandi-preventive-fraud-6-mo-1364678499",
-   "posted": "2026-11-09T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
    "is_new": false
   },
   {
@@ -1153,6 +1195,24 @@
    "is_new": false
   },
   {
+   "id": "94a8a11e2f09",
+   "title": "ServiceNow Technical Consultant",
+   "company": "Cprime",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "CoreHRx",
+   "url": "https://www.corehrx.com/jobs/servicenow-technical-consultant-hrsd/lznausvfsvfir/",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 57,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
    "id": "7ee7a329a9b3",
    "title": "Level 2 Production Support Engineer - Java/Python, Cloud & Agile",
    "company": "Synechron Technologies",
@@ -1168,24 +1228,6 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
-   "id": "9bd4b1283724",
-   "title": "ServiceNow Developer_104366",
-   "company": "MyCareernet",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/servicenow-developer-104366-at-mycareernet-4485803913",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 57,
-   "matched": [
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
    "is_new": false
   },
   {
@@ -1214,11 +1256,75 @@
    "degree": "any",
    "source": "LinkedIn",
    "url": "https://in.linkedin.com/jobs/view/support-engineer-1-at-oracle-4492640380",
-   "posted": "2026-11-23T18:00:00.000Z",
+   "posted": "2026-11-23T00:00:00.000Z",
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-24T11:21:27.937241Z",
    "is_new": true
+  },
+  {
+   "id": "cdb0b5a51723",
+   "title": "Apprentice Technical Support Engineer",
+   "company": "LE1055 Perceptive Informatics, LLC",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/apprentice-technical-support-engineer/le1055-perceptive-informatics-llc/20104000",
+   "posted": "2026-11-20T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
+   "id": "57e3a4279947",
+   "title": "International Customer Service & Technical Support | Hyderabad",
+   "company": "Gratitude Inc",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/-3681165811850668010",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
+   "id": "d732a4d6c43f",
+   "title": "Fraud Analyst - Debit Cards, Credit Card",
+   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/fraud-analyst-debit-cards-credit-card/converse-placement-services-india-private-limited/20127564",
+   "posted": "2026-11-23T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
+   "id": "28cb2ae80672",
+   "title": "Fraud and Dispute Analyst",
+   "company": "WATERLEAF CONSULTANTS (P) LTD.",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/fraud-and-dispute-analyst/waterleaf-consultants-p-ltd/20100431",
+   "posted": "2026-11-19T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-21T08:31:32.162745Z",
+   "is_new": false
   },
   {
    "id": "ab0bf8bece33",
@@ -1251,22 +1357,6 @@
    "matched": [],
    "first_seen": "2026-11-24T11:21:27.937241Z",
    "is_new": true
-  },
-  {
-   "id": "28cb2ae80672",
-   "title": "Fraud and Dispute Analyst",
-   "company": "WATERLEAF CONSULTANTS (P) LTD.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/fraud-and-dispute-analyst/waterleaf-consultants-p-ltd/20100431",
-   "posted": "2026-11-19T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-21T08:31:32.162745Z",
-   "is_new": false
   },
   {
    "id": "7964f042184c",
@@ -1346,22 +1436,6 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-17T09:29:48.896826Z",
-   "is_new": false
-  },
-  {
-   "id": "bca896f7ebe0",
-   "title": "Technical Support Specialist",
-   "company": "Accentrix Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/technical-support-specialist/accentrix-solutions/20011680",
-   "posted": "2026-11-04T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
    "is_new": false
   },
   {
@@ -1613,24 +1687,6 @@
    "is_new": false
   },
   {
-   "id": "a77337faaef7",
-   "title": "IT Technical Field Engineer",
-   "company": "Instawis Networks Private Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/it-technical-field-engineer-111185368",
-   "posted": "2026-11-20T00:00:00.000Z",
-   "score": 45,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-10T08:38:41.695506Z",
-   "is_new": false
-  },
-  {
    "id": "8fe2f81438a7",
    "title": "Virtual Desktop Engineer",
    "company": "Macquarie Group",
@@ -1686,6 +1742,22 @@
    "is_new": false
   },
   {
+   "id": "48429faafbda",
+   "title": "Talent System Administrator - JSON",
+   "company": "SPGI",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/talent-system-administrator-json--hyderabad--e6ced57b18ea489dd485a2b32deb8a83e",
+   "posted": "2026-11-19T00:00:00.000Z",
+   "score": 37,
+   "matched": [],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
    "id": "bafc8cbf08af",
    "title": "Service Engineer & Drive Expert",
    "company": "XPEEDAS INDUSTRIAL AUTOMATION TECHNOLOGIES",
@@ -1731,22 +1803,6 @@
    "score": 37,
    "matched": [],
    "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
-   "id": "3dd690221f09",
-   "title": "Service Engineer \u2013 Bio",
-   "company": "Tofflon India Pvt. Ltd.",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/service-engineer-%E2%80%93-bio-at-tofflon-india-pvt-ltd-4488705137",
-   "posted": "2026-11-07T00:00:00.000Z",
-   "score": 37,
-   "matched": [],
-   "first_seen": "2026-11-11T07:58:43.282584Z",
    "is_new": false
   },
   {
