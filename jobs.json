@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:06:17.029344Z",
+ "updated": "2026-11-26T09:49:20.253216Z",
  "sample": false,
  "jobs": [
   {
@@ -12,7 +12,7 @@
    "degree": "any",
    "source": "LinkedIn",
    "url": "https://in.linkedin.com/jobs/view/it-technical-support-specialist-at-ivanti-4493009452",
-   "posted": "2026-11-24T12:00:00.000Z",
+   "posted": "2026-11-24T00:00:00.000Z",
    "score": 100,
    "matched": [
     "Active Directory",
@@ -49,6 +49,31 @@
    "is_new": false
   },
   {
+   "id": "91a529737edb",
+   "title": "Service Desk Analyst",
+   "company": "ITC Infotech",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/service-desk-analyst-at-itc-infotech-4492173038",
+   "posted": "2026-11-19T00:00:00.000Z",
+   "score": 95,
+   "matched": [
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
+    "Intune",
+    "L1/L2 support",
+    "MFA",
+    "Microsoft 365",
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-24T11:21:27.937241Z",
+   "is_new": false
+  },
+  {
    "id": "57f242906315",
    "title": "Technical Service Desk - L1+/L2",
    "company": "SHI Solutions India Pvt. Ltd.",
@@ -71,31 +96,6 @@
    ],
    "first_seen": "2026-11-20T08:50:32.526695Z",
    "is_new": false
-  },
-  {
-   "id": "91a529737edb",
-   "title": "Service Desk Analyst",
-   "company": "ITC Infotech",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/service-desk-analyst-at-itc-infotech-4492173038?refId=vwqBd%2B2GMhjIoNHCPdw3WQ%3D%3D&trackingId=KlYwuDZY%2FfySrdFV9WfdYw%3D%3D",
-   "posted": "2026-11-19T00:00:00.000Z",
-   "score": 95,
-   "matched": [
-    "Active Directory",
-    "Azure",
-    "Hardware troubleshooting",
-    "Intune",
-    "L1/L2 support",
-    "MFA",
-    "Microsoft 365",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
   },
   {
    "id": "c226e73aa29f",
@@ -231,27 +231,6 @@
    "is_new": false
   },
   {
-   "id": "f78cb0295b08",
-   "title": "Information Technology Support Engineer",
-   "company": "Imaging Endpoints",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/information-technology-support-engineer-at-imaging-endpoints-4486582593",
-   "posted": "2026-11-05T00:00:00.000Z",
-   "score": 87,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "L1/L2 support",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
    "id": "eed3c372d387",
    "title": "IT Support Technician Level 2 and 3",
    "company": "Tech Solutions",
@@ -269,6 +248,26 @@
     "Microsoft 365"
    ],
    "first_seen": "2026-11-24T11:21:27.937241Z",
+   "is_new": false
+  },
+  {
+   "id": "c08bf7daeb9f",
+   "title": "Tech Support Engineer",
+   "company": "AVEVA",
+   "location": "Hyderabad",
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/tech-support-engineer-at-aveva-4442631191",
+   "posted": "2026-11-25T18:00:00.000Z",
+   "score": 80,
+   "matched": [
+    "Azure",
+    "L1/L2 support",
+    "VPN"
+   ],
+   "first_seen": "2026-11-26T09:49:20.253216Z",
    "is_new": true
   },
   {
@@ -429,25 +428,6 @@
    "is_new": true
   },
   {
-   "id": "5353c4b1f858",
-   "title": "Associate Consultant - Service Desk Job",
-   "company": "YASH Technologies",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/associate-consultant-service-desk-job-at-yash-technologies-4488316130",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 72,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
    "id": "6d40bfe60d9b",
    "title": "Service Desk Engineer Pan India Wfo Hyderabad",
    "company": "Shivoham InfoSolutions",
@@ -467,42 +447,23 @@
    "is_new": false
   },
   {
-   "id": "fab5122b055d",
-   "title": "Technical Support Escalation Engineer",
-   "company": "Microsoft Corporation India Pvt Ltd.",
+   "id": "86c99277f4ad",
+   "title": "IT Support Engineer - Intune, MAC, MAC OS",
+   "company": "Alphacom Systems and Solutions Pvt Ltd",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/support-escalation-engineer-csp-1176962076",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 72,
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/it-support-engineer-intune-mac-mac-os/alphacom-systems-and-solutions-pvt-ltd/20131304?jobtype=rs&position_in_results=4",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 71,
    "matched": [
-    "Azure",
-    "Microsoft 365"
+    "Hardware troubleshooting",
+    "Intune"
    ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
-   "id": "b08d72b22ba2",
-   "title": "Specialist - Research IT Technical Support",
-   "company": "MSD",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "check",
-   "source": "MSD Careers",
-   "url": "https://jobs.msd.com/gb/en/job/R415994/Specialist-Research-IT-Technical-Support",
-   "posted": "2026-11-11T00:00:00.000Z",
-   "score": 72,
-   "matched": [
-    "L1/L2 support",
-    "ServiceNow"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
+   "first_seen": "2026-11-26T09:49:20.253216Z",
+   "is_new": true
   },
   {
    "id": "498a7ea826f8",
@@ -521,7 +482,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "e6c7bb7f00b0",
@@ -540,7 +501,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "faffb866852d",
@@ -728,24 +689,6 @@
    "is_new": false
   },
   {
-   "id": "bb6c6bb9cd04",
-   "title": "Technical Support Engineer - Commerce Cloud",
-   "company": "Salesforce.com India Pvt Ltd",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/technical-support-engineer-commerce-cloud-1953831409",
-   "posted": "2026-11-11T00:00:00.000Z",
-   "score": 68,
-   "matched": [
-    "Salesforce"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
    "id": "d66184154290",
    "title": "Associate Technical Support Engineer (French/German/ Italian/Portuguese Speaking)",
    "company": "621 Salesforce.com India Private Limited Hyderabad Branch",
@@ -838,21 +781,21 @@
    "is_new": false
   },
   {
-   "id": "0b5378181a66",
-   "title": "ServiceNow Devloper -ITSM",
-   "company": "Zen Technologies Limited",
+   "id": "4fc34d79d961",
+   "title": "Service Desk Analyst - Windows, Office 365, Incident Management",
+   "company": "GHRS TRAINING LLP",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
    "degree": "any",
-   "source": "Jobaaj",
-   "url": "https://www.jobaaj.com/job/zen-technologies-limited-servicenow-devloper-itsm-hyderabad-telangana-india-2-to-5-years-2108175",
-   "posted": "2026-11-19T00:00:00.000Z",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/service-desk-analyst-windows-office-incident-management/ghrs-training-llp/20114848",
+   "posted": "2026-11-21T00:00:00.000Z",
    "score": 63,
    "matched": [
-    "ServiceNow"
+    "Microsoft 365"
    ],
-   "first_seen": "2026-11-21T08:31:32.162745Z",
+   "first_seen": "2026-11-22T08:27:26.132937Z",
    "is_new": false
   },
   {
@@ -874,6 +817,42 @@
    "is_new": true
   },
   {
+   "id": "774483d41c41",
+   "title": "Desktop Support Technician",
+   "company": "SVN SYSTECH INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/desktop-support-technician/svn-systech-india-private-limited/20131999",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-26T09:49:20.253216Z",
+   "is_new": true
+  },
+  {
+   "id": "0b5378181a66",
+   "title": "ServiceNow Devloper -ITSM",
+   "company": "Zen Technologies Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jobaaj",
+   "url": "https://www.jobaaj.com/job/zen-technologies-limited-servicenow-devloper-itsm-hyderabad-telangana-india-2-to-5-years-2108175",
+   "posted": "2026-11-19T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-21T08:31:32.162745Z",
+   "is_new": false
+  },
+  {
    "id": "506484a2b9bc",
    "title": "Fraud Analyst - Content & Reviews Abuse",
    "company": "AuraOne Human Data",
@@ -890,24 +869,6 @@
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
    "is_new": true
-  },
-  {
-   "id": "4fc34d79d961",
-   "title": "Service Desk Analyst - Windows, Office 365, Incident Management",
-   "company": "GHRS TRAINING LLP",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/service-desk-analyst-windows-office-incident-management/ghrs-training-llp/20114848",
-   "posted": "2026-11-21T00:00:00.000Z",
-   "score": 63,
-   "matched": [
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-11-22T08:27:26.132937Z",
-   "is_new": false
   },
   {
    "id": "60d1bcd69f54",
@@ -1073,26 +1034,6 @@
    "is_new": false
   },
   {
-   "id": "2c4b883b3b70",
-   "title": "Analyst, EUC",
-   "company": "ICE",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/analyst-euc-at-ice-4480324508",
-   "posted": "2026-11-06T00:00:00.000Z",
-   "score": 62,
-   "matched": [
-    "Active Directory",
-    "Hardware troubleshooting",
-    "VPN"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
    "id": "e564bfa064f9",
    "title": "Analyst, Enforcement and Reporting (Fraud Reporting)",
    "company": "Tide Software BV",
@@ -1122,22 +1063,6 @@
    "score": 60,
    "matched": [],
    "first_seen": "2026-11-15T08:06:53.223982Z",
-   "is_new": false
-  },
-  {
-   "id": "18d1bd795468",
-   "title": "Engineer \u2013 Technical Support Broadcast Hyderabad (India)",
-   "company": "Qube Cinema",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Jobrapido.com",
-   "url": "https://in.jobrapido.com/jobpreview/1071465595486076928",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 60,
-   "matched": [],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
    "is_new": false
   },
   {
@@ -1213,24 +1138,6 @@
    "is_new": true
   },
   {
-   "id": "7ee7a329a9b3",
-   "title": "Level 2 Production Support Engineer - Java/Python, Cloud & Agile",
-   "company": "Synechron Technologies",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Apna Jobs",
-   "url": "https://apna.co/job/hyderabad/l2-production-support-engineer-java-python-cloud-a-1739856546",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 57,
-   "matched": [
-    "L1/L2 support"
-   ],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
-  },
-  {
    "id": "52e2c96fa575",
    "title": "Technical Support Engineer I",
    "company": "Zeta",
@@ -1244,7 +1151,7 @@
    "score": 56,
    "matched": [],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "888754d2aeba",
@@ -1260,7 +1167,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "cdb0b5a51723",
@@ -1276,6 +1183,22 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": true
+  },
+  {
+   "id": "294a49095a13",
+   "title": "Cloud Infrastructure Support Engineer - Windows Server Administration",
+   "company": "Alphacom Systems and Solutions Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/cloud-infrastructure-support-engineer-windows-server-administration/alphacom-systems-and-solutions-pvt-ltd/20156495",
+   "posted": "2026-11-26T06:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-26T09:49:20.253216Z",
    "is_new": true
   },
   {
@@ -1356,7 +1279,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "7964f042184c",
@@ -1512,6 +1435,24 @@
    "is_new": false
   },
   {
+   "id": "da8e463f0e64",
+   "title": "RMA & Technical Support Engineer",
+   "company": "ORBCOMM",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Foundit",
+   "url": "https://www.foundit.in/job/rma-technical-support-engineer-orbcomm-hyderabad-secunderabad-telangana-69922751",
+   "posted": "2026-11-25T00:00:00.000Z",
+   "score": 52,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-26T09:49:20.253216Z",
+   "is_new": true
+  },
+  {
    "id": "36a4a2453657",
    "title": "Service Desk Trainer - US Process",
    "company": "HTC Global Services",
@@ -1559,7 +1500,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "00911b551db1",
@@ -1577,7 +1518,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "22e6a273de90",
@@ -1668,7 +1609,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "f5fd6d7704a4",
@@ -1685,6 +1626,24 @@
    "matched": [],
    "first_seen": "2026-11-13T08:26:35.226968Z",
    "is_new": false
+  },
+  {
+   "id": "e3ea0fd15769",
+   "title": "Desktop Suupot Enginer",
+   "company": "Care infotech",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/desktop-suupot-enginer-at-care-infotech-4493011809",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 45,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-26T09:49:20.253216Z",
+   "is_new": true
   },
   {
    "id": "8fe2f81438a7",
@@ -1790,20 +1749,20 @@
    "is_new": false
   },
   {
-   "id": "a40a00368f5b",
-   "title": "Technical Voice Support SME",
-   "company": "Gratitude India",
+   "id": "e0b48f536312",
+   "title": "Tech Support Intern",
+   "company": "Muzigal Edutech Pvt. Ltd.",
    "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "Glassdoor",
-   "url": "https://www.glassdoor.co.in/job-listing/jv?jl=1010323038814",
-   "posted": "2026-11-11T00:00:00.000Z",
-   "score": 37,
+   "mode": "hybrid",
+   "voice": "",
+   "degree": "check",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/tech-support-intern/muzigal-edutech-pvt-ltd/20122086",
+   "posted": "2026-11-23T00:00:00.000Z",
+   "score": 33,
    "matched": [],
-   "first_seen": "2026-11-12T08:37:48.565037Z",
-   "is_new": false
+   "first_seen": "2026-11-26T09:49:20.253216Z",
+   "is_new": true
   },
   {
    "id": "c22bc4b66824",
@@ -1821,7 +1780,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "96afb5d1ba5d",
