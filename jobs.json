@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:49:20.253216Z",
+ "updated": "2026-11-27T09:54:03.383401Z",
  "sample": false,
  "jobs": [
   {
@@ -23,7 +23,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "a9c1e03d978e",
@@ -268,7 +268,7 @@
     "VPN"
    ],
    "first_seen": "2026-11-26T09:49:20.253216Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "757031a8ab5a",
@@ -390,23 +390,43 @@
    "is_new": false
   },
   {
-   "id": "902f332168f0",
-   "title": "Servicenow Configuration Analyst",
-   "company": "Experian",
+   "id": "7a510236af2a",
+   "title": "Service Delivery Client Engineering -Remote Engineer (L2)",
+   "company": "NTT India Private Limited",
    "location": "Hyderabad",
-   "mode": "onsite",
+   "mode": "remote",
    "voice": "",
-   "degree": "any",
-   "source": "Jobs | Experian",
-   "url": "https://jobs.experian.com/job/servicenow-configuration-analyst-in-hyderabad-india-jid-6579",
-   "posted": "2026-11-12T00:00:00.000Z",
-   "score": 76,
+   "degree": "check",
+   "source": "Workday",
+   "url": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/Hyderabad-India/Service-Delivery-Client-Engineering--Remote-Engineer--L2-_R-152956?utm_source=instahyre",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 75,
    "matched": [
     "Hardware troubleshooting",
-    "ServiceNow"
+    "L1/L2 support",
+    "Microsoft 365"
    ],
-   "first_seen": "2026-11-13T08:26:35.226968Z",
-   "is_new": false
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
+   "id": "bb6acc1070c5",
+   "title": "Technical Support Engineer II \u2013 Channel Data Management (CDM)",
+   "company": "Vendavo",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/technical-support-engineer-ii-%E2%80%93-channel-data-management-cdm-at-vendavo-4493831566",
+   "posted": "2026-11-26T16:00:00.000Z",
+   "score": 72,
+   "matched": [
+    "Hardware troubleshooting",
+    "Salesforce"
+   ],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
   },
   {
    "id": "a3495dbe7ea8",
@@ -425,7 +445,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "6d40bfe60d9b",
@@ -447,6 +467,44 @@
    "is_new": false
   },
   {
+   "id": "5d19c050cb20",
+   "title": "Technical Support Specialist - Troubleshooting, Active Directory",
+   "company": "Accentrix Solutions",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/technical-support-specialist-troubleshooting-active-directory/accentrix-solutions/20129169",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
+   "id": "9acd7536fe38",
+   "title": "Network Engineer - L1",
+   "company": "Powerbridge Technologies",
+   "location": "Secunderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Foundit",
+   "url": "https://www.foundit.in/job/network-engineer-l1-powerbridge-technologies-hyderabad-secunderabad-telangana-69884705",
+   "posted": "2026-11-21T00:00:00.000Z",
+   "score": 71,
+   "matched": [
+    "Hardware troubleshooting",
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
    "id": "86c99277f4ad",
    "title": "IT Support Engineer - Intune, MAC, MAC OS",
    "company": "Alphacom Systems and Solutions Pvt Ltd",
@@ -463,7 +521,7 @@
     "Intune"
    ],
    "first_seen": "2026-11-26T09:49:20.253216Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "498a7ea826f8",
@@ -577,7 +635,7 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "806c77271451",
@@ -599,6 +657,24 @@
    "is_new": false
   },
   {
+   "id": "e168b0c1cef4",
+   "title": "AMS Support Engineer - GE Vernova APM",
+   "company": "Nubes Inc",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Talent.com",
+   "url": "https://in.talent.com/view?id=647574771302471269",
+   "posted": "2026-11-25T00:00:00.000Z",
+   "score": 68,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
    "id": "7b8bc24e5a88",
    "title": "ServiceNow Engineer- HRSD & CSM",
    "company": "Micron Technology",
@@ -614,7 +690,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "6f003408df81",
@@ -671,22 +747,23 @@
    "is_new": false
   },
   {
-   "id": "da95f89861eb",
-   "title": "Consultant-Servicenow Presale",
-   "company": "NTT DATA Business Solutions",
+   "id": "bf0521efbab7",
+   "title": "Platform Support Engineer Level 2",
+   "company": "NTT DATA Global Delivery Services Ltd",
    "location": "Hyderabad",
-   "mode": "onsite",
+   "mode": "hybrid",
    "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/consultant-servicenow-presale-at-ntt-data-business-solutions-4489458103",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 68,
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/platform-support-engineer-l2-1166136652",
+   "posted": "2026-11-26T23:00:00.000Z",
+   "score": 67,
    "matched": [
+    "L1/L2 support",
     "ServiceNow"
    ],
-   "first_seen": "2026-11-13T08:26:35.226968Z",
-   "is_new": false
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
   },
   {
    "id": "d66184154290",
@@ -705,6 +782,42 @@
     "Salesforce"
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
+   "is_new": false
+  },
+  {
+   "id": "931309268b98",
+   "title": "Technical Support Engineer - Salesforce Industries & Revenue Cloud",
+   "company": "Salesforce.com India Pvt Ltd",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Apna Jobs",
+   "url": "https://apna.co/job/hyderabad/salesforce-support-engineer-industries-revenue-clo-1460326215",
+   "posted": "2026-11-26T23:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "Salesforce"
+   ],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
+   "id": "2e7f2aa9739e",
+   "title": "Support Engineer (First Line Support)",
+   "company": "Amazon",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/rjdp/1984816669894096716",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 64,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
    "is_new": true
   },
   {
@@ -763,22 +876,58 @@
    "is_new": false
   },
   {
-   "id": "b7aa5dac8dff",
-   "title": "Desktop & Site Support Engineer",
-   "company": "TGBPL TP India - IBU",
+   "id": "6de3c3b2d853",
+   "title": "Product Support Engineer",
+   "company": "ITP Software India Pvt Ltd",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "check",
+   "degree": "any",
    "source": "SimplyHired",
-   "url": "https://www.simplyhired.co.in/job/MzGt20_XteMibNhouXHIiQrkpcH3O2s_9bv_xDCHs-2MiwsLpMtSbA",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 64,
+   "url": "https://www.simplyhired.co.in/job/frlhqx1SzOOs10Ru0aPiCTvZOwi4p_Lw2Nny22HnqF48d__kntetUA",
+   "posted": "2026-11-26T00:00:00.000Z",
+   "score": 63,
    "matched": [
     "Hardware troubleshooting"
    ],
-   "first_seen": "2026-11-13T08:26:35.226968Z",
-   "is_new": false
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
+   "id": "7467f5ad2574",
+   "title": "Technical Support Engineer Full Time (Secunderabad)",
+   "company": "ValueLabs",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/technical-support-engineer-full-time-secunderabad/valuelabs/20118668",
+   "posted": "2026-11-23T00:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "L1/L2 support"
+   ],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
+   "id": "6c3805247b8b",
+   "title": "Servicenow Presales Consultant",
+   "company": "Saaki Argus & Averil Consulting",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/-736536197576941507",
+   "posted": "2026-11-26T13:00:00.000Z",
+   "score": 63,
+   "matched": [
+    "ServiceNow"
+   ],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
   },
   {
    "id": "4fc34d79d961",
@@ -814,7 +963,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "774483d41c41",
@@ -832,7 +981,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-26T09:49:20.253216Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "0b5378181a66",
@@ -868,7 +1017,7 @@
     "L1/L2 support"
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "60d1bcd69f54",
@@ -1135,7 +1284,7 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "52e2c96fa575",
@@ -1151,6 +1300,22 @@
    "score": 56,
    "matched": [],
    "first_seen": "2026-11-24T11:21:27.937241Z",
+   "is_new": false
+  },
+  {
+   "id": "d732a4d6c43f",
+   "title": "Fraud Analyst - Debit Cards, Credit Card",
+   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/fraud-analyst-debit-cards-credit-card/converse-placement-services-india-private-limited/20127564",
+   "posted": "2026-11-23T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
    "is_new": false
   },
   {
@@ -1183,7 +1348,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "294a49095a13",
@@ -1199,7 +1364,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-26T09:49:20.253216Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "57e3a4279947",
@@ -1215,23 +1380,7 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
-  },
-  {
-   "id": "d732a4d6c43f",
-   "title": "Fraud Analyst - Debit Cards, Credit Card",
-   "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "any",
-   "source": "Shine",
-   "url": "https://www.shine.com/jobs/fraud-analyst-debit-cards-credit-card/converse-placement-services-india-private-limited/20127564",
-   "posted": "2026-11-23T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "28cb2ae80672",
@@ -1450,7 +1599,7 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-26T09:49:20.253216Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "36a4a2453657",
@@ -1575,24 +1724,6 @@
    "is_new": false
   },
   {
-   "id": "29f478ef5bd9",
-   "title": "Technical Solutions Engineer \u2013 SaaS Integrations & APIs",
-   "company": "BrightEdge",
-   "location": "Hyderabad",
-   "mode": "remote",
-   "voice": "",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/technical-solutions-engineer-%E2%80%93-saas-integrations-apis-at-brightedge-4489078442",
-   "posted": "2026-11-12T00:00:00.000Z",
-   "score": 50,
-   "matched": [
-    "Salesforce"
-   ],
-   "first_seen": "2026-11-13T08:26:35.226968Z",
-   "is_new": false
-  },
-  {
    "id": "b7555e179552",
    "title": "Support Specialist",
    "company": "InvoiceCloud, Inc.",
@@ -1612,22 +1743,6 @@
    "is_new": false
   },
   {
-   "id": "f5fd6d7704a4",
-   "title": "Technical Sales & Support Engineer - Hyderabad, AP, Telangana",
-   "company": "Micro-Epsilon India",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/technical-sales-support-engineer-hyderabad-ap-telangana-micro-epsilon-india-hyderabad--fj-2459514875",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 49,
-   "matched": [],
-   "first_seen": "2026-11-13T08:26:35.226968Z",
-   "is_new": false
-  },
-  {
    "id": "e3ea0fd15769",
    "title": "Desktop Suupot Enginer",
    "company": "Care infotech",
@@ -1643,6 +1758,22 @@
     "Hardware troubleshooting"
    ],
    "first_seen": "2026-11-26T09:49:20.253216Z",
+   "is_new": false
+  },
+  {
+   "id": "b9fbb4b77d69",
+   "title": "SAC Back-End Developer (Hyderabad)",
+   "company": "Important Company of the Sector",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/sac-back-end-developer-hyderabad/important-company-of-the-sector/20152570",
+   "posted": "2026-11-26T00:00:00.000Z",
+   "score": 42,
+   "matched": [],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
    "is_new": true
   },
   {
@@ -1714,7 +1845,7 @@
    "score": 37,
    "matched": [],
    "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "bafc8cbf08af",
@@ -1749,6 +1880,22 @@
    "is_new": false
   },
   {
+   "id": "9771faaf867c",
+   "title": "Supply Planner & SAP Key User",
+   "company": "Safran Aircraft Engine Services India Private Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/supply-planner-sap-key-user--hyderabad--ec6f7d2f8d2ffc81f8d8e61934aae48f2",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 35,
+   "matched": [],
+   "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
    "id": "e0b48f536312",
    "title": "Tech Support Intern",
    "company": "Muzigal Edutech Pvt. Ltd.",
@@ -1762,7 +1909,7 @@
    "score": 33,
    "matched": [],
    "first_seen": "2026-11-26T09:49:20.253216Z",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "c22bc4b66824",
@@ -1812,22 +1959,6 @@
    "score": 31,
    "matched": [],
    "first_seen": "2026-11-19T09:04:31.406235Z",
-   "is_new": false
-  },
-  {
-   "id": "f5063c521326",
-   "title": "Strategic Revenue Management- Trade Architecture (Fixed 15 Months contract role)",
-   "company": "Mars",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Careers At Mars - Mars, Incorporated",
-   "url": "https://careers.mars.com/global/en/job/R171485/Strategic-Revenue-Management-Trade-Architecture-Fixed-15-Months-contract-role",
-   "posted": "2026-11-12T00:00:00.000Z",
-   "score": 31,
-   "matched": [],
-   "first_seen": "2026-11-13T08:26:35.226968Z",
    "is_new": false
   }
  ]
