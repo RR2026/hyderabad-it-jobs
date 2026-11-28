@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:54:03.383401Z",
+ "updated": "2026-11-28T09:07:51.819951Z",
  "sample": false,
  "jobs": [
   {
@@ -143,29 +143,6 @@
    "is_new": false
   },
   {
-   "id": "2808c537d781",
-   "title": "L2- M365 & Windows Support Engineer",
-   "company": "World Wide Technology",
-   "location": "Hyderabad",
-   "mode": "hybrid",
-   "voice": "",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/l2-m365-windows-support-engineer-world-wide-technology-hyderabad--techmap_in_EFF601737F9143F7BAAE94C054DB2312",
-   "posted": "2026-11-12T00:00:00.000Z",
-   "score": 93,
-   "matched": [
-    "Active Directory",
-    "Azure",
-    "Intune",
-    "L1/L2 support",
-    "MFA",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-11-14T07:48:38.565805Z",
-   "is_new": false
-  },
-  {
    "id": "198394224a40",
    "title": "Linux Technical Support - Security",
    "company": "Sutherland Global Service Limited",
@@ -187,25 +164,28 @@
    "is_new": false
   },
   {
-   "id": "f3fde282b1fd",
-   "title": "Help Desk Technician",
-   "company": "Kiely Family of Companies",
+   "id": "e07ea9261804",
+   "title": "Service Desk Agent (French Bilingual)",
+   "company": "Momentum Financial Services Group",
    "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/help-desk-technician-at-kiely-family-of-companies-4489083409",
-   "posted": "2026-11-12T00:00:00.000Z",
-   "score": 92,
+   "mode": "remote",
+   "voice": "nonvoice",
+   "degree": "check",
+   "source": "NextHire",
+   "url": "https://www.nexthireconsulting.com/jobs/view/service-desk-agent-french-bilingual-at-momentum-financial-services-group-pdjuqop65y/",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 91,
    "matched": [
-    "Intune",
+    "Active Directory",
+    "Azure",
+    "Hardware troubleshooting",
     "L1/L2 support",
     "MFA",
-    "Microsoft 365"
+    "Microsoft 365",
+    "VPN"
    ],
-   "first_seen": "2026-11-14T07:48:38.565805Z",
-   "is_new": false
+   "first_seen": "2026-11-28T09:07:51.819951Z",
+   "is_new": true
   },
   {
    "id": "709ae3cd32cc",
@@ -229,6 +209,28 @@
    ],
    "first_seen": "2026-11-16T08:15:25.247533Z",
    "is_new": false
+  },
+  {
+   "id": "49587531783d",
+   "title": "IT Support Engineer III",
+   "company": "Mitratech",
+   "location": "Hyderabad",
+   "mode": "remote",
+   "voice": "",
+   "degree": "check",
+   "source": "LinkedIn",
+   "url": "https://in.linkedin.com/jobs/view/it-support-engineer-iii-at-mitratech-4485830461",
+   "posted": "2026-11-27T13:00:00.000Z",
+   "score": 89,
+   "matched": [
+    "Active Directory",
+    "Hardware troubleshooting",
+    "L1/L2 support",
+    "MFA",
+    "Microsoft 365"
+   ],
+   "first_seen": "2026-11-28T09:07:51.819951Z",
+   "is_new": true
   },
   {
    "id": "eed3c372d387",
@@ -260,7 +262,7 @@
    "degree": "check",
    "source": "LinkedIn",
    "url": "https://in.linkedin.com/jobs/view/tech-support-engineer-at-aveva-4442631191",
-   "posted": "2026-11-25T18:00:00.000Z",
+   "posted": "2026-11-25T00:00:00.000Z",
    "score": 80,
    "matched": [
     "Azure",
@@ -291,24 +293,24 @@
    "is_new": false
   },
   {
-   "id": "7a939e64de38",
-   "title": "Junior Support Analyst",
-   "company": "Crowe Capability Center - India",
+   "id": "e3784a6a507c",
+   "title": "IT Support Mitarbeiter (m/w/d) - Service Desk & Anwendersupport",
+   "company": "HPM Die Handwerksgruppe",
    "location": "Hyderabad",
    "mode": "onsite",
    "voice": "",
-   "degree": "check",
-   "source": "SimplyHired",
-   "url": "https://www.simplyhired.co.in/job/R6xZbdZpBoJF4WhcuKe-BrBIHZVf7bnCmYmBX4myzw5GuSz5oVDeOg",
-   "posted": "2026-11-13T00:00:00.000Z",
-   "score": 80,
+   "degree": "any",
+   "source": "Talent.com",
+   "url": "https://in.talent.com/view?id=644109356616916967",
+   "posted": "2026-11-23T00:00:00.000Z",
+   "score": 79,
    "matched": [
-    "Azure",
-    "L1/L2 support",
-    "ServiceNow"
+    "Active Directory",
+    "Hardware troubleshooting",
+    "Microsoft 365"
    ],
-   "first_seen": "2026-11-14T07:48:38.565805Z",
-   "is_new": false
+   "first_seen": "2026-11-28T09:07:51.819951Z",
+   "is_new": true
   },
   {
    "id": "21facfaf7500",
@@ -419,7 +421,7 @@
    "degree": "check",
    "source": "LinkedIn",
    "url": "https://in.linkedin.com/jobs/view/technical-support-engineer-ii-%E2%80%93-channel-data-management-cdm-at-vendavo-4493831566",
-   "posted": "2026-11-26T16:00:00.000Z",
+   "posted": "2026-11-26T00:00:00.000Z",
    "score": 72,
    "matched": [
     "Hardware troubleshooting",
@@ -600,25 +602,6 @@
    "is_new": false
   },
   {
-   "id": "66d32ebc1829",
-   "title": "Technical Support, Associate Specialist",
-   "company": "blackbaud india",
-   "location": "Secunderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/jdp/1096186992122287828",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 71,
-   "matched": [
-    "MFA",
-    "Salesforce"
-   ],
-   "first_seen": "2026-11-14T07:48:38.565805Z",
-   "is_new": false
-  },
-  {
    "id": "f9aebf135860",
    "title": "L3 Support Engineer",
    "company": "algoleap",
@@ -756,7 +739,7 @@
    "degree": "check",
    "source": "Apna Jobs",
    "url": "https://apna.co/job/hyderabad/platform-support-engineer-l2-1166136652",
-   "posted": "2026-11-26T23:00:00.000Z",
+   "posted": "2026-11-27T00:00:00.000Z",
    "score": 67,
    "matched": [
     "L1/L2 support",
@@ -794,7 +777,7 @@
    "degree": "check",
    "source": "Apna Jobs",
    "url": "https://apna.co/job/hyderabad/salesforce-support-engineer-industries-revenue-clo-1460326215",
-   "posted": "2026-11-26T23:00:00.000Z",
+   "posted": "2026-11-27T00:00:00.000Z",
    "score": 64,
    "matched": [
     "Salesforce"
@@ -855,24 +838,6 @@
     "ServiceNow"
    ],
    "first_seen": "2026-11-21T08:31:32.162745Z",
-   "is_new": false
-  },
-  {
-   "id": "5b33d195fc2b",
-   "title": "Desktop & Site Support Engineer",
-   "company": "Teleperformance",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/desktop-site-support-engineer-teleperformance-hyderabad--fj-2459374769",
-   "posted": "2026-11-10T00:00:00.000Z",
-   "score": 64,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-14T07:48:38.565805Z",
    "is_new": false
   },
   {
@@ -1269,6 +1234,42 @@
    "is_new": false
   },
   {
+   "id": "da8e463f0e64",
+   "title": "RMA & Technical Support Engineer",
+   "company": "ORBCOMM",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/rma-technical-support-engineer/orbcomm/20143741?jobtype=cr&position_in_results=4",
+   "posted": "2026-11-26T00:00:00.000Z",
+   "score": 57,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-26T09:49:20.253216Z",
+   "is_new": false
+  },
+  {
+   "id": "7e3b71e59b9e",
+   "title": "RMA And Technical Support Engineer",
+   "company": "ORBCOMM",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "check",
+   "source": "JobLeads",
+   "url": "https://www.jobleads.com/in/job/rma-and-technical-support-engineer--hyderabad--e8100a4a5f8091b651484e8b228db5d32",
+   "posted": "2026-11-23T00:00:00.000Z",
+   "score": 57,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-28T09:07:51.819951Z",
+   "is_new": true
+  },
+  {
    "id": "94a8a11e2f09",
    "title": "ServiceNow Technical Consultant",
    "company": "Cprime",
@@ -1300,6 +1301,38 @@
    "score": 56,
    "matched": [],
    "first_seen": "2026-11-24T11:21:27.937241Z",
+   "is_new": false
+  },
+  {
+   "id": "7964f042184c",
+   "title": "Associate - Service Desk",
+   "company": "Microland Limited",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "nonvoice",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/associate-service-desk/microland-limited/20122047",
+   "posted": "2026-11-23T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-22T08:27:26.132937Z",
+   "is_new": false
+  },
+  {
+   "id": "57e3a4279947",
+   "title": "International Customer Service & Technical Support | Hyderabad",
+   "company": "Gratitude Inc",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "voice",
+   "degree": "any",
+   "source": "Jooble",
+   "url": "https://in.jooble.org/jdp/-3681165811850668010",
+   "posted": "2026-11-24T00:00:00.000Z",
+   "score": 55,
+   "matched": [],
+   "first_seen": "2026-11-25T10:06:17.029344Z",
    "is_new": false
   },
   {
@@ -1367,22 +1400,6 @@
    "is_new": false
   },
   {
-   "id": "57e3a4279947",
-   "title": "International Customer Service & Technical Support | Hyderabad",
-   "company": "Gratitude Inc",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "voice",
-   "degree": "any",
-   "source": "Jooble",
-   "url": "https://in.jooble.org/jdp/-3681165811850668010",
-   "posted": "2026-11-24T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-25T10:06:17.029344Z",
-   "is_new": false
-  },
-  {
    "id": "28cb2ae80672",
    "title": "Fraud and Dispute Analyst",
    "company": "WATERLEAF CONSULTANTS (P) LTD.",
@@ -1428,22 +1445,6 @@
    "score": 55,
    "matched": [],
    "first_seen": "2026-11-24T11:21:27.937241Z",
-   "is_new": false
-  },
-  {
-   "id": "7964f042184c",
-   "title": "Associate - Service Desk",
-   "company": "Microland Limited",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "nonvoice",
-   "degree": "any",
-   "source": "BeBee",
-   "url": "https://bebee.com/in/jobs/associate-service-desk-microland-limited-hyderabad--t7xk-959414622",
-   "posted": "2026-11-21T00:00:00.000Z",
-   "score": 55,
-   "matched": [],
-   "first_seen": "2026-11-22T08:27:26.132937Z",
    "is_new": false
   },
   {
@@ -1549,25 +1550,6 @@
    "is_new": false
   },
   {
-   "id": "ac9e417328d2",
-   "title": "Information Technology Support Specialist",
-   "company": "Freyr Solutions",
-   "location": "Hyderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "LinkedIn",
-   "url": "https://in.linkedin.com/jobs/view/information-technology-support-specialist-at-freyr-solutions-4489244935",
-   "posted": "2026-11-12T00:00:00.000Z",
-   "score": 54,
-   "matched": [
-    "Hardware troubleshooting",
-    "Microsoft 365"
-   ],
-   "first_seen": "2026-11-14T07:48:38.565805Z",
-   "is_new": false
-  },
-  {
    "id": "6867845187bb",
    "title": "App Dev & Support Engineer II",
    "company": "Conduent",
@@ -1581,24 +1563,6 @@
    "score": 53,
    "matched": [],
    "first_seen": "2026-11-18T08:49:52.732512Z",
-   "is_new": false
-  },
-  {
-   "id": "da8e463f0e64",
-   "title": "RMA & Technical Support Engineer",
-   "company": "ORBCOMM",
-   "location": "Secunderabad",
-   "mode": "onsite",
-   "voice": "",
-   "degree": "check",
-   "source": "Foundit",
-   "url": "https://www.foundit.in/job/rma-technical-support-engineer-orbcomm-hyderabad-secunderabad-telangana-69922751",
-   "posted": "2026-11-25T00:00:00.000Z",
-   "score": 52,
-   "matched": [
-    "Hardware troubleshooting"
-   ],
-   "first_seen": "2026-11-26T09:49:20.253216Z",
    "is_new": false
   },
   {
@@ -1893,6 +1857,24 @@
    "score": 35,
    "matched": [],
    "first_seen": "2026-11-27T09:54:03.383401Z",
+   "is_new": true
+  },
+  {
+   "id": "8261a3a8d3ad",
+   "title": "Fresher Desktop Engineer (Hyderabad)",
+   "company": "Kaizen IT ServicesPvt",
+   "location": "Hyderabad",
+   "mode": "onsite",
+   "voice": "",
+   "degree": "any",
+   "source": "Shine",
+   "url": "https://www.shine.com/jobs/fresher-desktop-engineer-hyderabad/kaizen-it-servicespvt/20149872?jobtype=cr&position_in_results=10",
+   "posted": "2026-11-26T00:00:00.000Z",
+   "score": 33,
+   "matched": [
+    "Hardware troubleshooting"
+   ],
+   "first_seen": "2026-11-28T09:07:51.819951Z",
    "is_new": true
   },
   {
